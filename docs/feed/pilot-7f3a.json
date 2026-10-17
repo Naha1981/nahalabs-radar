@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-17T09:10:30.030Z",
+ "generated_at": "2026-10-17T15:31:01.167Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -44,6 +44,15 @@
     "score": 3
    },
    {
+    "group": "Events and seasons",
+    "query": "Johannesburg events this month",
+    "title": "Events and Festivals in Johannesburg : October 2026 - YoMzansi",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZcWZnelpTYVFjY29xYWNqa0htRHQ3MV9yR0VIU2E3MkI3Ql9XUmhBUjVCRGNmenZOX2xMVW5zb1ZKeDNZTTRwSU9XNmZiQ00zWXEtV0llTDlCc1hMd2JQbmxfaHFSaGFpZzQyTlduamJDdVRSSWIzQzBNR0VKdw?oc=5",
+    "date": "2026-10-02T04:11:04.000Z",
+    "source": "YoMzansi",
+    "score": 3
+   },
+   {
     "group": "Dining and demand",
     "query": "Sandton restaurants new opening OR best restaurants",
     "title": "Popular South African coffee brand brewing up new restaurant in luxury Rosebank development - African Insider",
@@ -69,27 +78,20 @@
     "date": "2026-09-24T07:00:00.000Z",
     "source": "BusinessTech",
     "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "restaurant food prices South Africa OR food inflation South Africa",
-    "title": "South Africans cutting off DStv, Netflix, medical aid, and restaurants - BusinessTech",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSUcxbENmb3U2UnlXU2x0dTdCQXNrUmYtLVE3MmREQzExbmtkaEN1VjNUbVR0YlRBaGJxcHQxbEtaaWxES3Y1NWdTVDN5YlBFV3B6cjFTVTlNbnZmOWJ4WDZjQWd1NmtROGJFRVV0SVo0RDhRRVRvbFZOS2pheHk1dzJDWkd4X2gyYUdmVHpacHlQMUtLMzlzdW1kSlQxSkFrMFY1SXBOTGU4Y2E2eWVuTXRwYmMxdjRT?oc=5",
-    "date": "2026-09-24T07:00:00.000Z",
-    "source": "BusinessTech",
-    "score": 3
    }
   ],
   "errors": []
  },
  "whatsapp_engagement": {
-  "real": false,
-  "sample": true,
-  "note": "Engagement source not connected in this build. Sample only, do not post as fact.",
-  "top_topics": [],
+  "real": true,
+  "sample": false,
+  "data_label": "Test data from the pilot WhatsApp line, not live customer traffic",
+  "source": "Restaurant concierge /v1/inbox (pending messages)",
   "counts": {
-   "messages": 0
-  }
+   "messages_pending": 0
+  },
+  "top_topics": [],
+  "note": "Aggregates only. No customer numbers or message text are published."
  },
  "post_suggestions": [
   {
