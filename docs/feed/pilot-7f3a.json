@@ -1,0 +1,134 @@
+{
+ "business": "pilot-7f3a",
+ "business_name": "Pilot restaurant",
+ "area": "Johannesburg / Sandton / Woodmead",
+ "generated_at": "2026-10-17T07:23:03.757Z",
+ "radar": {
+  "real": true,
+  "source": "Google News RSS (public), last 30 days",
+  "items": [
+   {
+    "group": "Costs",
+    "query": "electricity tariff increase restaurants South Africa",
+    "title": "Cheap on paper, costly at the till: what 1,1% food inflation really means - Farmer's Weekly SA",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcDhnSlpqWXhSSE01dGtWT3ZaME9BMC1lTWt4d2xETUdOYzBFTU1sRWtPOXJ1dG9OUHlBVWNzMTBveFFUSzNZZ3lZbFZ1WWVKdjBWaDBaU25nOHVFSmtlaVgzS3gtU0ZURFFSYzVUNTNDUzk4STZtTmVZWnd3YzlieVNsTWk5YU83ejhoMVZmUUtfY19HMXo3cGRobVp0TFRIZHFaQUNQd0RFbjlSVG1wQVhUUkswOU4ycDBWZDZYWUk5VG8?oc=5",
+    "date": "2026-10-07T07:00:00.000Z",
+    "source": "Farmer's Weekly SA",
+    "score": 4
+   },
+   {
+    "group": "Dining and demand",
+    "query": "Johannesburg restaurant bookings OR dining out trends",
+    "title": "Top 6 vegetarian and vegan restaurants in Joburg you need to try - Food & Home Magazine",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXppZ2lhR2JpVTNJTUtJcl96MU1vZ2JzUS05dHBqLUtKLVltOU1xQ2JOeC1weWszcU9nUmFuUlB4Y0lRQV92WWZsRU1jNTUtR09WbHhhTDI2QUdpUTBUSXpZMTZVNkFpRFBDQVRUMmhLUW4yWnEydzU3Ry1fekN4dUV2bnk1bTBVWVNibUZrLTE0Ync4NERQeld4QkNKVExvaGJzbWtn0gGuAUFVX3lxTFB2QlRqb09NZ2tjeFR0Tmk5YWRlN1otT2VMdjRFSEQ2TzkxU1FIQWI3S2paX3g4YUtTSW9xZWFpUlp3MDVQMEdpVmNtVGZTS2pQbTRxb0NSa2ZGaDQxZmE0YWNKV0RJaVBIbW82OWFLakgzekU5WmRqZXZOTkFXa3dIcG9IN0pLTXJVZXBiT3poZGtRVmJ2Zzk0eFFWSEdJYTRHeWJSSFZkRFo2VUVuQQ?oc=5",
+    "date": "2026-10-05T07:00:00.000Z",
+    "source": "Food & Home Magazine",
+    "score": 4
+   },
+   {
+    "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Brace for yet another electricity hike - Mail & Guardian",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjVxTVBhZFd5WUw3SjRLZmtsd0RBNGdxWUg4UGlST1BWLXgwM1VqRWk1bTlydzc3dWlOQ0JUSUpNbnctZERlQTlrWDIzT3VFa0pQdEV3THlScE1XUE5OMHQ0TnVSNkhSLTVNSThDOXVjeUlfbUxpUGxoSWtFMmFFeDhQejd4RHBaN1F6S2dR?oc=5",
+    "date": "2026-10-13T13:24:56.000Z",
+    "source": "Mail & Guardian",
+    "score": 3
+   },
+   {
+    "group": "Events and seasons",
+    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
+    "title": "Events: What’s on in Johannesburg - Time Out Worldwide",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
+    "date": "2026-10-02T07:00:00.000Z",
+    "source": "Time Out Worldwide",
+    "score": 3
+   },
+   {
+    "group": "Dining and demand",
+    "query": "Sandton restaurants new opening OR best restaurants",
+    "title": "Popular South African coffee brand brewing up new restaurant in luxury Rosebank development - African Insider",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb05WZ1M2cmdNYmNXeHY3TGVOd2FQcmgzSlpFVVc3NkEwZkd0VEN5RW9falQyWG5OekZGMzZWMDdfZXBNU3o2dVBSX1RjR3ZUbnhuNmI2VG51ZktqWFl5RXhqclFibk9CYUNuZE9OM2JRQWVxUWQ3TU1DS0tiZlNySm4tUDNXYjZrU1U5NDhWa0NWWThrUmxCX2trd1E4MF82ckN0QWhDLVhMM2E5SVJBUFNiMkxud1VGUjA1VnIxWUIxd21ndG9Oem5IQ1M?oc=5",
+    "date": "2026-09-25T08:14:13.000Z",
+    "source": "African Insider",
+    "score": 3
+   },
+   {
+    "group": "Events and seasons",
+    "query": "Johannesburg events this month",
+    "title": "What’s on in Johannesburg this October - Time Out Worldwide",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41aV9NN3JqazE4SlRLSjZCOXl1VGV4MDU4NUlqZXN0LVg3cW91YWxfTldrM2ZMWmZSQ1BqdGw4LWNNRjlKVUFxNXZMQzl3dENCVGVsdGZZdGVCOVhEVHNneG9tT0QzbWpLeEh3cmFkYlY5bGRMZy1DaW9PN3M3UQ?oc=5",
+    "date": "2026-09-25T07:00:00.000Z",
+    "source": "Time Out Worldwide",
+    "score": 3
+   },
+   {
+    "group": "Dining and demand",
+    "query": "Sandton restaurants new opening OR best restaurants",
+    "title": "Popular coffee brand in South Africa opening new restaurant in luxury development - BusinessTech",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSnFLdHVSR3BPME1MWWk0eEFRVjYxUzloUWRHY2N0TDhIeEEtNko4Tndscy1UaDU3YjRpVWtkR2JIMkhJaXR2RDA5b2Rub3ZXcTNYejQ2UUYwN3dBM3RHYmlIRUplQWF0WWlUNW5QYThBdmJWMzU4WW9GY3lEVXdmMXVZcFRSaEM4T3ViLTNJUmNjb2FKanhtUDBrYlRET25aVGR2TjlLaFZ5Si1MZWloRE5LcDBhNUhXd3VMaHl3R2JsVjJLSVA2MTNR?oc=5",
+    "date": "2026-09-24T07:00:00.000Z",
+    "source": "BusinessTech",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "South Africans cutting off DStv, Netflix, medical aid, and restaurants - BusinessTech",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSUcxbENmb3U2UnlXU2x0dTdCQXNrUmYtLVE3MmREQzExbmtkaEN1VjNUbVR0YlRBaGJxcHQxbEtaaWxES3Y1NWdTVDN5YlBFV3B6cjFTVTlNbnZmOWJ4WDZjQWd1NmtROGJFRVV0SVo0RDhRRVRvbFZOS2pheHk1dzJDWkd4X2gyYUdmVHpacHlQMUtLMzlzdW1kSlQxSkFrMFY1SXBOTGU4Y2E2eWVuTXRwYmMxdjRT?oc=5",
+    "date": "2026-09-24T07:00:00.000Z",
+    "source": "BusinessTech",
+    "score": 3
+   }
+  ],
+  "errors": []
+ },
+ "whatsapp_engagement": {
+  "real": true,
+  "sample": false,
+  "data_label": "Test data from the pilot WhatsApp line, not live customer traffic",
+  "source": "Restaurant concierge /v1/inbox (pending messages)",
+  "counts": {
+   "messages_pending": 0
+  },
+  "top_topics": [],
+  "note": "Aggregates only. No customer numbers or message text are published."
+ },
+ "post_suggestions": [
+  {
+   "theme": "Costs",
+   "hook": "Prices are moving, here is how we keep your plate fair.",
+   "body": "You have seen the headlines: \"Cheap on paper, costly at the till: what 1,1% food inflation really means\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
+   "based_on": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcDhnSlpqWXhSSE01dGtWT3ZaME9BMC1lTWt4d2xETUdOYzBFTU1sRWtPOXJ1dG9OUHlBVWNzMTBveFFUSzNZZ3lZbFZ1WWVKdjBWaDBaU25nOHVFSmtlaVgzS3gtU0ZURFFSYzVUNTNDUzk4STZtTmVZWnd3YzlieVNsTWk5YU83ejhoMVZmUUtfY19HMXo3cGRobVp0TFRIZHFaQUNQd0RFbjlSVG1wQVhUUkswOU4ycDBWZDZYWUk5VG8?oc=5",
+   "channels": [
+    "facebook",
+    "instagram"
+   ],
+   "status": "draft_for_owner_approval"
+  },
+  {
+   "theme": "Events",
+   "hook": "Plan your next get-together with us.",
+   "body": "The festive season is close and Joburg is busy. Book your table or your office function early, we will hold the best seats for you. Message us on WhatsApp to reserve.",
+   "based_on": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
+   "channels": [
+    "facebook",
+    "instagram"
+   ],
+   "status": "draft_for_owner_approval"
+  },
+  {
+   "theme": "Demand",
+   "hook": "Fresh on the Joburg dining scene.",
+   "body": "Joburg is eating out again: \"Top 6 vegetarian and vegan restaurants in Joburg you need to try\". Here is what we are serving this week. Ask us on WhatsApp for today's specials.",
+   "based_on": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXppZ2lhR2JpVTNJTUtJcl96MU1vZ2JzUS05dHBqLUtKLVltOU1xQ2JOeC1weWszcU9nUmFuUlB4Y0lRQV92WWZsRU1jNTUtR09WbHhhTDI2QUdpUTBUSXpZMTZVNkFpRFBDQVRUMmhLUW4yWnEydzU3Ry1fekN4dUV2bnk1bTBVWVNibUZrLTE0Ync4NERQeld4QkNKVExvaGJzbWtn0gGuAUFVX3lxTFB2QlRqb09NZ2tjeFR0Tmk5YWRlN1otT2VMdjRFSEQ2TzkxU1FIQWI3S2paX3g4YUtTSW9xZWFpUlp3MDVQMEdpVmNtVGZTS2pQbTRxb0NSa2ZGaDQxZmE0YWNKV0RJaVBIbW82OWFLakgzekU5WmRqZXZOTkFXa3dIcG9IN0pLTXJVZXBiT3poZGtRVmJ2Zzk0eFFWSEdJYTRHeWJSSFZkRFo2VUVuQQ?oc=5",
+   "channels": [
+    "facebook",
+    "instagram"
+   ],
+   "status": "draft_for_owner_approval"
+  }
+ ],
+ "post_ideas_inputs": {
+  "use": "Combine radar.items with whatsapp_engagement.top_topics to draft posts. Only treat engagement as fact when real is true, and mention it is test data when data_label says so."
+ }
+}

@@ -1,21 +1,48 @@
 {
-  "baron": {
-    "name": "The Baron (pilot)",
-    "area": "Johannesburg / Sandton / Woodmead",
-    "topics": [
-      ["Local dining demand", "Sandton restaurants new opening OR trending"],
-      ["Local dining demand", "Woodmead restaurant OR Johannesburg restaurant bookings"],
-      ["Costs and disruptions", "load shedding restaurants South Africa"],
-      ["Costs and disruptions", "restaurant food prices South Africa"],
-      ["Events and seasons", "Johannesburg events this month OR December festive season restaurants"],
-      ["Competitors", "Sandton steakhouse OR pub restaurant competitor Johannesburg"]
-    ],
-    "engagement": {
-      "type": "concierge",
-      "url": "https://nahalabs-restaurant-concierge.onrender.com",
-      "branchId": "baron-woodmead-test",
-      "keyEnv": "CONCIERGE_KEY",
-      "label": "TEST BRANCH data (baron-woodmead-test), not live customer traffic"
-    }
-  }
+ "pilot-7f3a": {
+  "name": "Pilot restaurant",
+  "area": "Johannesburg / Sandton / Woodmead",
+  "topics": [
+   [
+    "Dining and demand",
+    "Johannesburg restaurant bookings OR dining out trends"
+   ],
+   [
+    "Dining and demand",
+    "Sandton restaurants new opening OR best restaurants"
+   ],
+   [
+    "Costs",
+    "load shedding restaurants South Africa"
+   ],
+   [
+    "Costs",
+    "restaurant food prices South Africa OR food inflation South Africa"
+   ],
+   [
+    "Costs",
+    "electricity tariff increase restaurants South Africa"
+   ],
+   [
+    "Events and seasons",
+    "Johannesburg events this month"
+   ],
+   [
+    "Events and seasons",
+    "Johannesburg festive season dining OR Christmas functions restaurants"
+   ],
+   [
+    "Competitors",
+    "Sandton restaurant launches new menu OR specials"
+   ]
+  ],
+  "engagement": {
+   "type": "concierge",
+   "url": "https://nahalabs-restaurant-concierge.onrender.com",
+   "branchId": "baron-woodmead-test",
+   "keyEnv": "CONCIERGE_KEY",
+   "label": "Test data from the pilot WhatsApp line, not live customer traffic"
+  },
+  "dashboard_title": "Your restaurant: market and customer snapshot"
+ }
 }
