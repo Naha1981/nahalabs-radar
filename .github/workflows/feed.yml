@@ -13,6 +13,8 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: 20 }
       - run: node gen.js
+        env:
+          CONCIERGE_KEY: ${{ secrets.CONCIERGE_KEY }}
       - run: |
           git config user.name "NahaLabs Radar"
           git config user.email "ai-solutions@nahalabs.co.za"

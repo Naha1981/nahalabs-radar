@@ -1,0 +1,21 @@
+{
+  "baron": {
+    "name": "The Baron (pilot)",
+    "area": "Johannesburg / Sandton / Woodmead",
+    "topics": [
+      ["Local dining demand", "Sandton restaurants new opening OR trending"],
+      ["Local dining demand", "Woodmead restaurant OR Johannesburg restaurant bookings"],
+      ["Costs and disruptions", "load shedding restaurants South Africa"],
+      ["Costs and disruptions", "restaurant food prices South Africa"],
+      ["Events and seasons", "Johannesburg events this month OR December festive season restaurants"],
+      ["Competitors", "Sandton steakhouse OR pub restaurant competitor Johannesburg"]
+    ],
+    "engagement": {
+      "type": "concierge",
+      "url": "https://nahalabs-restaurant-concierge.onrender.com",
+      "branchId": "baron-woodmead-test",
+      "keyEnv": "CONCIERGE_KEY",
+      "label": "TEST BRANCH data (baron-woodmead-test), not live customer traffic"
+    }
+  }
+}

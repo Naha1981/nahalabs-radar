@@ -2,7 +2,7 @@
  "business": "baron",
  "business_name": "The Baron (pilot)",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-17T07:17:45.862Z",
+ "generated_at": "2026-10-17T07:20:31.453Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -139,25 +139,17 @@
   "errors": []
  },
  "whatsapp_engagement": {
-  "real": false,
-  "sample": true,
-  "note": "SAMPLE DATA - not real customer data. Real engagement will replace this once the Baron concierge database is connected.",
-  "questions_this_week": [
-   "Do you have a table for 6 on Saturday?",
-   "What time does the Woodmead branch close?",
-   "Do you do a vegetarian option?"
-  ],
-  "top_topics": [
-   "bookings",
-   "opening hours",
-   "menu"
-  ],
+  "real": true,
+  "sample": false,
+  "data_label": "TEST BRANCH data (baron-woodmead-test), not live customer traffic",
+  "source": "Restaurant concierge /v1/inbox (pending messages)",
   "counts": {
-   "conversations": 0,
-   "messages": 0
-  }
+   "messages_pending": 0
+  },
+  "top_topics": [],
+  "note": "Aggregates only. No customer numbers or message text are published."
  },
  "post_ideas_inputs": {
-  "use": "Combine radar.items headlines with whatsapp_engagement.top_topics to draft posts. Do not post sample engagement as fact."
+  "use": "Combine radar.items with whatsapp_engagement.top_topics to draft posts. Only treat engagement as fact when real is true, and mention it is test data when data_label says so."
  }
 }
