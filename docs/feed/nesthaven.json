@@ -2,7 +2,7 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-10-17T15:31:04.412Z",
+ "generated_at": "2026-10-17T20:34:32.228Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -30,7 +30,7 @@
     "query": "semigration Gauteng property OR estate living Johannesburg",
     "title": "LIVE | 'A crime is still a crime' - IMC on Migration condemns violence and damage to property, businesses - IOL",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM3duQ1RYZThkcHdaSVhfT29HUkwteGRiNFZuVDVWR213Z1o2SUFYQTl4M3F1MUxZclBwdlZKcnZTQzd3czBodWd6NXp5TnE5d2JlVWl1QjNndHBSc2VFZVlhY1JhOFdpaHJDSzJWcFNRVW5ScjYzNzNrZkpIY1U3WmpvM2U2SWdVNF83Y3NZbXAwNlpNc2FmeEYzVENaZm0zODdfZExJYVFtMmphQ05scHJRNzV0SkFrUldxbVY0dk5JMVJwdndvV3dEd3VJS3dGejB2YXl1VzBjVExj?oc=5",
-    "date": "2026-10-12T13:34:52.000Z",
+    "date": "2026-10-12T19:41:20.000Z",
     "source": "IOL",
     "score": 3
    },
@@ -41,6 +41,15 @@
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbXpzSE9JNmRSdTQyOXYyRndPMXZMcS1NZlJnbzdOTlRUdmc4QkZjbmdCTWUtRmsyVG9rQ1hrODR0eDZndFhabllzREJJejBtdDVkOVp1Rm1OSVJ0UHBPdVU0UWl6TVVrdlN4NlAxazZmcDlUZ05tRFhwYlpGZm9qcUpXQWlSRXBZNWp3ZEdqOFFlbnBwV1FMMFo1RVJqOGlUdTdtLWtZbkN1b3EyX2x2bkt0cl9vNk1m?oc=5",
     "date": "2026-10-06T07:00:00.000Z",
     "source": "Business Day",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "property transfer costs South Africa OR conveyancing fees",
+    "title": "Buying property overseas as a South African? There’s an easier, more cost-effective way - BizNews",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNE90RlRqbTh3UUI2NVBJVEw0VVA5WFhxRHBEUEowRlhzcUJoLWFtM1hLSGdKRXUtSXhjUDlVNWlnQk90NzJNektuX3RMVnRzVlBlZDN1NjhwOHhIbF82NlhDT0dDZ1pGUS1UTkE4SzhWRDN2OWJXaHZnem4zU3JmSFYtQ2N4NHdOQ0h0d0s0MkdsRnM?oc=5",
+    "date": "2026-09-29T07:00:00.000Z",
+    "source": "BizNews",
     "score": 3
    },
    {
@@ -55,19 +64,19 @@
    {
     "group": "Costs",
     "query": "municipal rates increase Johannesburg property",
+    "title": "Joburg offers R2.9bn in property rate relief - Moneyweb",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVJtQlJodmE5VUQ1WkhPaUJIaF9ONDkzX19OTjFPOV9rSU1nZkJlTGR2SWtQTjNCSlBxcVhULU1iSldhcnFYNmFUSnNSclBYcm83N3REd0JOZDF5TklYNGR1dUFzR254YlRVOWNtbEtoeWdiOXF1b2dOZWhYTmxYMy1aZHBaUXU2UVRQaGZ5N0VDU2VSOWc?oc=5",
+    "date": "2026-09-21T07:00:00.000Z",
+    "source": "Moneyweb",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "municipal rates increase Johannesburg property",
     "title": "Joburg: R2.9 Billion Property Rate Relief Announced for 2025/26 - Wansom AI",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNkxVOVEtSHFzUV93NmxnNXZocWR5YVpFUWFWbzh0bkFUYS1VcUVHblg3d0xIWFZLVDJpQ1k3aWtsZTkwTmJ3LThvcFE1MHE4R0U2Q3I4c1JySGdORFB4c0pOUDc0OGhXRkJHTGJKdkl3RE9rSmFCNFBoVDVUTUZBd3JEMmFsb3JtM1htYkV0WUFmWUhFOGNsTkRRZ1NzVnZnRlNfc2xydEZPRFlQaGJjbVQ0V1pmMjJKR1luN09qWmdTM090TmJDM2Rla3c?oc=5",
     "date": "2026-09-21T07:00:00.000Z",
     "source": "Wansom AI",
-    "score": 3
-   },
-   {
-    "group": "Demand",
-    "query": "first time home buyers South Africa OR property demand Gauteng",
-    "title": "Cape Winelands leads top six property markets outside SA’s metros - Property Wheel",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMExaV3ptaGJYMkxONDZNTkdicnpBZ1lIZGZZME9DZ2Z2cW5qZTcwME44QlFnWnR5WVFIWURpYkpwZTNCb1k1OFJfOG9vanlIRTdwQlhxZmJfSEZMRHhjN2U1ZmNYdjhxLUdNOGdCSlV1eHJrNm05YzBUVXVZQTBtMlJfTldXM05uelhrUzdJOG9BZERBOTBNdk1SZU5KSG1GUUx3?oc=5",
-    "date": "2026-09-21T07:00:00.000Z",
-    "source": "Property Wheel",
     "score": 3
    }
   ],
