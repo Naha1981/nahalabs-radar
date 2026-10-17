@@ -33,9 +33,13 @@ async function engagement(cfg) {
 
 const GOOD = /restaurant|dining|diner|eatery|bistro|steakhouse|braai|chef|menu|food price|food inflation|grocer|bookings?|reservation|festive|christmas|function|events?|what.s on|opening|launch|special|load.?shedding|electricity|tariff|eskom|cafe|coffee|pub|bar\b|lunch|dinner|breakfast|takeaway|delivery|tourism|consumer spending/i;
 const BAD = /committee|appropriations|nersa|communities|hearing|parliament|battery|solar panel|crime|murder|killed|bail|intimidat|assault|shooting|hijack|arrest|court|police|rape|abduct|quiz|map of|war\b|hormuz|fuel|petrol|diesel|oil price|election|politic|scandal|racis|insult|rank(ing|ed)\b.*(country|world|universit)|clarens|cape town|durban|pretoria|bloemfontein/i;
-function score(it){ const t=it.title; if(BAD.test(t)) return -1; let n=0; if(GOOD.test(t)) n+=2; if(/johannesburg|joburg|sandton|woodmead|gauteng|south africa|\bsa\b/i.test(t)) n+=1; const age=(Date.now()-new Date(it.date).getTime())/86400e3; if(age<=14) n+=1; return n; }
+function score(it, b){ const t=it.title; const bad = b && b.bad ? new RegExp(b.bad, 'i') : BAD; const good = b && b.good ? new RegExp(b.good, 'i') : GOOD; if(bad.test(t)) return -1; let n=0; if(good.test(t)) n+=2; if(/johannesburg|joburg|sandton|woodmead|fourways|gauteng|south africa|\bsa\b/i.test(t)) n+=1; const age=(Date.now()-new Date(it.date).getTime())/86400e3; if(age<=14) n+=1; return n; }
 
 function makePosts(items, eng, b) {
+  if (b && b.posts) {
+    const out = b.posts.map((p, i) => { const src = items[i]; return { theme: p.theme, hook: p.hook, body: p.body, based_on: src ? src.link : 'preset', channels: ['facebook', 'instagram'] }; });
+    return out.map(p => ({ ...p, status: 'draft_for_owner_approval' }));
+  }
   const by = g => items.find(i => i.group === g);
   const out = [];
   const cost = by('Costs'); if (cost) out.push({ theme: 'Costs', hook: 'Prices are moving, here is how we keep your plate fair.', body: 'You have seen the headlines: "' + cost.title.replace(/ - [^-]*$/, '') + '". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.', based_on: cost.link, channels: ['facebook', 'instagram'] });
@@ -50,7 +54,7 @@ async function feed(id) {
     try { for (const it of await rss(q)) { if (seen.has(it.title)) continue; seen.add(it.title); radar.push({ group, query: q, ...it }); } }
     catch (e) { errors.push({ query: q, error: String(e.message || e) }); }
   }
-  for (const it of radar) it.score = score(it);
+  for (const it of radar) it.score = score(it, b);
   const kept = radar.filter(i => i.score >= 3);
   kept.sort((a, b2) => b2.score - a.score || (b2.date || '').localeCompare(a.date || ''));
   radar.length = 0; radar.push(...kept.slice(0, 8));
@@ -70,16 +74,16 @@ function dashboard(f, cfg) {
     ? '<p>' + e.counts.messages_pending + ' customer messages waiting.</p><ul>' + e.top_topics.map(t => '<li>' + esc(t.topic.replace(/_/g, ' ')) + ': ' + t.count + '</li>').join('') + '</ul><p class="note">' + esc(e.data_label || '') + '</p>'
     : '<p class="empty">No customer questions to show yet. Once your WhatsApp line is connected, the questions your customers ask most will appear here.</p><p class="note">' + esc(e.data_label || '') + '</p>';
   const trend = f.radar.items.length ? f.radar.items.map(i => '<a class="card" href="' + esc(i.link) + '" target="_blank" rel="noopener"><span class="tag">' + esc(i.group) + '</span><span class="t">' + esc(i.title.replace(/ - [^-]*$/, '')) + '</span><span class="m">' + esc(i.source || '') + ' &middot; ' + esc((i.date || '').slice(0, 10)) + '</span></a>').join('') : '<p class="empty">Nothing relevant this week.</p>';
-  const posts = f.post_suggestions.map(p => '<div class="post"><span class="tag">' + esc(p.theme) + '</span><h3>' + esc(p.hook) + '</h3><p>' + esc(p.body) + '</p><p class="m">For: ' + p.channels.join(', ') + ' &middot; Draft, needs your approval</p><a class="btn" href="' + BB + '" target="_blank" rel="noopener">Schedule in NahaLabs Growth</a></div>').join('') || '<p class="empty">No suggestions yet.</p>';
+  const posts = f.post_suggestions.map(p => '<div class="post"><span class="tag">' + esc(p.theme) + '</span><h3>' + esc(p.hook) + '</h3><p>' + esc(p.body) + '</p><p class="m">For: ' + p.channels.join(', ') + ' &middot; Draft, needs your approval</p><a class="btn" href="' + BB + '" target="_blank" rel="noopener">Schedule in RevUp</a></div>').join('') || '<p class="empty">No suggestions yet.</p>';
   return '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>' + esc(cfg.dashboard_title) + '</title><style>' +
   'body{margin:0;font-family:system-ui,Segoe UI,Arial,sans-serif;background:#f4f6fb;color:#1b2a4a}header{background:#1b2a4a;color:#fff;padding:18px 22px}header b{font-size:18px}header span{display:block;opacity:.75;font-size:13px;margin-top:4px}main{max-width:980px;margin:0 auto;padding:18px}h2{margin:26px 0 10px;font-size:19px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}.card,.post,.box{background:#fff;border-radius:12px;padding:14px;box-shadow:0 1px 3px #0001;text-decoration:none;color:inherit;display:flex;flex-direction:column;gap:6px}.tag{align-self:flex-start;background:#e3ecff;color:#1565c0;border-radius:99px;padding:2px 10px;font-size:12px;font-weight:600}.t{font-weight:600;line-height:1.3}.m,.note{color:#667;font-size:12px}.empty{color:#556}.post h3{margin:2px 0}.post p{margin:4px 0}.btn{margin-top:6px;align-self:flex-start;background:#1565c0;color:#fff;border-radius:8px;padding:9px 14px;text-decoration:none;font-weight:600;font-size:14px}footer{padding:24px;text-align:center;color:#778;font-size:12px}' +
-  '</style></head><body><header><b>NahaLabs</b><span>' + esc(cfg.dashboard_title) + ' &middot; updated ' + esc(f.generated_at.slice(0, 16).replace('T', ' ')) + ' UTC</span></header><main>' +
+  '</style></head><body><header><b>RevUp</b><span>' + esc(cfg.dashboard_title) + ' &middot; updated ' + esc(f.generated_at.slice(0, 16).replace('T', ' ')) + ' UTC</span></header><main>' +
   '<h2>What your customers ask on WhatsApp</h2><div class="box">' + eng + '</div>' +
   '<h2>Trending in your market</h2><div class="grid">' + trend + '</div>' +
-  '<h2>Post ideas, ready to schedule</h2><div class="grid">' + posts + '</div></main><footer>NahaLabs &middot; nahalabs.co.za</footer></body></html>';
+  '<h2>Post ideas, ready to schedule</h2><div class="grid">' + posts + '</div></main><footer>RevUp &middot; nahalabs.co.za</footer></body></html>';
 }
 (async () => {
   fs.mkdirSync('docs/feed', { recursive: true });
   for (const id of Object.keys(BIZ)) { const f = await feed(id); fs.writeFileSync('docs/feed/' + id + '.json', JSON.stringify(f, null, 1)); fs.mkdirSync('docs/d/' + id, { recursive: true }); fs.writeFileSync('docs/d/' + id + '/index.html', dashboard(f, BIZ[id])); console.log(id, f.radar.items.length, 'items', f.radar.errors.length, 'errors', 'engagement real=' + (f.whatsapp_engagement && f.whatsapp_engagement.real)); }
-  fs.writeFileSync('docs/index.html', '<!doctype html><meta name="robots" content="noindex"><title>NahaLabs</title><p>NahaLabs');
+  fs.writeFileSync('docs/index.html', '<!doctype html><meta name="robots" content="noindex"><title>RevUp</title><p>RevUp');
 })();

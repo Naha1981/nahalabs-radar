@@ -44,5 +44,70 @@
    "label": "Test data from the pilot WhatsApp line, not live customer traffic"
   },
   "dashboard_title": "Your restaurant: market and customer snapshot"
+ },
+ "nesthaven": {
+  "name": "NestHaven Properties",
+  "area": "Johannesburg / Sandton",
+  "industry": "real_estate",
+  "topics": [
+   [
+    "Property market",
+    "Johannesburg property market OR house prices"
+   ],
+   [
+    "Property market",
+    "Sandton apartments for sale OR to rent"
+   ],
+   [
+    "Rates and bonds",
+    "South Africa interest rate home loans OR bond rates"
+   ],
+   [
+    "Rates and bonds",
+    "repo rate South Africa property buyers"
+   ],
+   [
+    "Costs",
+    "property transfer costs South Africa OR conveyancing fees"
+   ],
+   [
+    "Costs",
+    "municipal rates increase Johannesburg property"
+   ],
+   [
+    "Demand",
+    "first time home buyers South Africa OR property demand Gauteng"
+   ],
+   [
+    "Demand",
+    "semigration Gauteng property OR estate living Johannesburg"
+   ]
+  ],
+  "engagement": null,
+  "good": "property|house|apartment|flat|estate|bond|mortgage|rental|rent|tenant|landlord|conveyanc|transfer|suburb|real estate|home loan|interest rate|repo rate|listing|seller|buyer|semigration|development|townhouse|sectional",
+  "bad": "murder|killed|court|police|rape|abduct|quiz|war|election|politic|scandal|racis|hijack|shooting",
+  "posts": [
+   {
+    "theme": "Rates",
+    "hook": "What the rate decision means for your bond.",
+    "body": "Rates are moving again. Here is what it means in rands on a typical Joburg bond, and whether to fix or stay variable. Ask us, we will work it out for your place."
+   },
+   {
+    "theme": "Area spotlight",
+    "hook": "Sandton vs the suburbs: what your money buys.",
+    "body": "Same budget, very different homes. This week we compare what R2m buys in Sandton Central versus Fourways. Ask us for the full list."
+   },
+   {
+    "theme": "Buyers",
+    "hook": "First-time buyer? Start here.",
+    "body": "Deposit, transfer costs, bond approval - the three things that catch first-time buyers. We walk you through all of it before you sign anything."
+   },
+   {
+    "theme": "Demand",
+    "hook": "The Joburg market is moving.",
+    "body": "Good listings are moving fast this month. If you are buying or selling, timing matters more than price talk. Message us for a free valuation."
+   }
+  ],
+  "dashboard_title": "NestHaven Properties demand radar"
  }
 }
