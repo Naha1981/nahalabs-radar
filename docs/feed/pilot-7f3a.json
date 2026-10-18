@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-18T15:50:06.497Z",
+ "generated_at": "2026-10-18T20:39:11.893Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -83,15 +83,14 @@
   "errors": []
  },
  "whatsapp_engagement": {
-  "real": true,
-  "sample": false,
-  "data_label": "Test data from the pilot WhatsApp line, not live customer traffic",
-  "source": "Restaurant concierge /v1/inbox (pending messages)",
-  "counts": {
-   "messages_pending": 0
-  },
+  "real": false,
+  "sample": true,
+  "error": "inbox 503",
+  "note": "Engagement fetch failed; sample only.",
   "top_topics": [],
-  "note": "Aggregates only. No customer numbers or message text are published."
+  "counts": {
+   "messages": 0
+  }
  },
  "post_suggestions": [
   {
