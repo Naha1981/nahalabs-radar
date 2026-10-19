@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-19T04:36:54.935Z",
+ "generated_at": "2026-10-19T13:08:31.251Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -26,13 +26,13 @@
     "score": 4
    },
    {
-    "group": "Dining and demand",
-    "query": "Johannesburg restaurant bookings OR dining out trends",
-    "title": "Top 6 vegetarian and vegan restaurants in Joburg you need to try - Food & Home Magazine",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXppZ2lhR2JpVTNJTUtJcl96MU1vZ2JzUS05dHBqLUtKLVltOU1xQ2JOeC1weWszcU9nUmFuUlB4Y0lRQV92WWZsRU1jNTUtR09WbHhhTDI2QUdpUTBUSXpZMTZVNkFpRFBDQVRUMmhLUW4yWnEydzU3Ry1fekN4dUV2bnk1bTBVWVNibUZrLTE0Ync4NERQeld4QkNKVExvaGJzbWtn0gGuAUFVX3lxTFB2QlRqb09NZ2tjeFR0Tmk5YWRlN1otT2VMdjRFSEQ2TzkxU1FIQWI3S2paX3g4YUtTSW9xZWFpUlp3MDVQMEdpVmNtVGZTS2pQbTRxb0NSa2ZGaDQxZmE0YWNKV0RJaVBIbW82OWFLakgzekU5WmRqZXZOTkFXa3dIcG9IN0pLTXJVZXBiT3poZGtRVmJ2Zzk0eFFWSEdJYTRHeWJSSFZkRFo2VUVuQQ?oc=5",
-    "date": "2026-10-05T07:00:00.000Z",
-    "source": "Food & Home Magazine",
-    "score": 4
+    "group": "Costs",
+    "query": "electricity tariff increase restaurants South Africa",
+    "title": "Electricity Is Already Unaffordable – The Green Connection Rejects Another 8.83% Tariff Increase - Infrastructure News",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHFSQUowX3ltRGR2dXhJWE5lWHZVTldSOEkzRHdBVzVLM05rMFFicEpMYjBuMHN3N0N4b3VRN1lzaFJYVTRqTVFMMjY4dG9UdWl3S3V4ZnZoNDZZb2Y2akRLZGV0Vy11bmYxSFRhVjRFX3BtRzRjd05qZVIyY3c4RjYyb09MVWdaZFhVblAzM3hiQmxYSHNldHRxTTFocVpaTy1nemlNaUo1WXFRbmVyX0RBckFjMml0NkMtRXRQVzVLS0RjX2NRTmw3eVN3b21RdjZyaA?oc=5",
+    "date": "2026-10-19T07:05:42.000Z",
+    "source": "Infrastructure News",
+    "score": 3
    },
    {
     "group": "Costs",
@@ -41,6 +41,15 @@
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjVxTVBhZFd5WUw3SjRLZmtsd0RBNGdxWUg4UGlST1BWLXgwM1VqRWk1bTlydzc3dWlOQ0JUSUpNbnctZERlQTlrWDIzT3VFa0pQdEV3THlScE1XUE5OMHQ0TnVSNkhSLTVNSThDOXVjeUlfbUxpUGxoSWtFMmFFeDhQejd4RHBaN1F6S2dR?oc=5",
     "date": "2026-10-13T13:24:56.000Z",
     "source": "Mail & Guardian",
+    "score": 3
+   },
+   {
+    "group": "Dining and demand",
+    "query": "Johannesburg restaurant bookings OR dining out trends",
+    "title": "Top 6 vegetarian and vegan restaurants in Joburg you need to try - Food & Home Magazine",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXppZ2lhR2JpVTNJTUtJcl96MU1vZ2JzUS05dHBqLUtKLVltOU1xQ2JOeC1weWszcU9nUmFuUlB4Y0lRQV92WWZsRU1jNTUtR09WbHhhTDI2QUdpUTBUSXpZMTZVNkFpRFBDQVRUMmhLUW4yWnEydzU3Ry1fekN4dUV2bnk1bTBVWVNibUZrLTE0Ync4NERQeld4QkNKVExvaGJzbWtn0gGuAUFVX3lxTFB2QlRqb09NZ2tjeFR0Tmk5YWRlN1otT2VMdjRFSEQ2TzkxU1FIQWI3S2paX3g4YUtTSW9xZWFpUlp3MDVQMEdpVmNtVGZTS2pQbTRxb0NSa2ZGaDQxZmE0YWNKV0RJaVBIbW82OWFLakgzekU5WmRqZXZOTkFXa3dIcG9IN0pLTXJVZXBiT3poZGtRVmJ2Zzk0eFFWSEdJYTRHeWJSSFZkRFo2VUVuQQ?oc=5",
+    "date": "2026-10-05T07:00:00.000Z",
+    "source": "Food & Home Magazine",
     "score": 3
    },
    {
@@ -68,15 +77,6 @@
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb05WZ1M2cmdNYmNXeHY3TGVOd2FQcmgzSlpFVVc3NkEwZkd0VEN5RW9falQyWG5OekZGMzZWMDdfZXBNU3o2dVBSX1RjR3ZUbnhuNmI2VG51ZktqWFl5RXhqclFibk9CYUNuZE9OM2JRQWVxUWQ3TU1DS0tiZlNySm4tUDNXYjZrU1U5NDhWa0NWWThrUmxCX2trd1E4MF82ckN0QWhDLVhMM2E5SVJBUFNiMkxud1VGUjA1VnIxWUIxd21ndG9Oem5IQ1M?oc=5",
     "date": "2026-09-25T08:14:13.000Z",
     "source": "African Insider",
-    "score": 3
-   },
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg events this month",
-    "title": "What’s on in Johannesburg this October - Time Out Worldwide",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41aV9NN3JqazE4SlRLSjZCOXl1VGV4MDU4NUlqZXN0LVg3cW91YWxfTldrM2ZMWmZSQ1BqdGw4LWNNRjlKVUFxNXZMQzl3dENCVGVsdGZZdGVCOVhEVHNneG9tT0QzbWpLeEh3cmFkYlY5bGRMZy1DaW9PN3M3UQ?oc=5",
-    "date": "2026-09-25T07:00:00.000Z",
-    "source": "Time Out Worldwide",
     "score": 3
    }
   ],
