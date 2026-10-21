@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-21T04:42:36.732Z",
+ "generated_at": "2026-10-21T11:45:04.317Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -18,12 +18,12 @@
    },
    {
     "group": "Costs",
-    "query": "electricity tariff increase restaurants South Africa",
-    "title": "Cheap on paper, costly at the till: what 1,1% food inflation really means - Farmer's Weekly SA",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcDhnSlpqWXhSSE01dGtWT3ZaME9BMC1lTWt4d2xETUdOYzBFTU1sRWtPOXJ1dG9OUHlBVWNzMTBveFFUSzNZZ3lZbFZ1WWVKdjBWaDBaU25nOHVFSmtlaVgzS3gtU0ZURFFSYzVUNTNDUzk4STZtTmVZWnd3YzlieVNsTWk5YU83ejhoMVZmUUtfY19HMXo3cGRobVp0TFRIZHFaQUNQd0RFbjlSVG1wQVhUUkswOU4ycDBWZDZYWUk5VG8?oc=5",
-    "date": "2026-10-07T07:00:00.000Z",
-    "source": "Farmer's Weekly SA",
-    "score": 4
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "Bargaining agreement will put many small restaurants ‘out of business’ - Moneyweb",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOFlSamJhSWtzeWZWekJGOTBNX2M0WGRNWGNMQVVwRjB4bDJfVjU5MW5sZ2JhbmZFdVR2aGhkdjJPdkxtRlpYNk9tMEFWd3d1RHNWbDZVZTlYamF6eS1nVHJFbGxDN1hCU3Q0ZUJGUXRKWEN2TzlLbXZGenZydG5ZQ2hnWmVHbFNYaFBTZ2pWbEhWMjQ4ZW1ZVU1ubEdwbVVLM0FHR2N5eVJlaDg5eVE?oc=5",
+    "date": "2026-10-21T02:06:55.000Z",
+    "source": "Moneyweb",
+    "score": 3
    },
    {
     "group": "Costs",
@@ -41,6 +41,15 @@
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjVxTVBhZFd5WUw3SjRLZmtsd0RBNGdxWUg4UGlST1BWLXgwM1VqRWk1bTlydzc3dWlOQ0JUSUpNbnctZERlQTlrWDIzT3VFa0pQdEV3THlScE1XUE5OMHQ0TnVSNkhSLTVNSThDOXVjeUlfbUxpUGxoSWtFMmFFeDhQejd4RHBaN1F6S2dR?oc=5",
     "date": "2026-10-13T13:24:56.000Z",
     "source": "Mail & Guardian",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "electricity tariff increase restaurants South Africa",
+    "title": "Cheap on paper, costly at the till: what 1,1% food inflation really means - Farmer's Weekly SA",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcDhnSlpqWXhSSE01dGtWT3ZaME9BMC1lTWt4d2xETUdOYzBFTU1sRWtPOXJ1dG9OUHlBVWNzMTBveFFUSzNZZ3lZbFZ1WWVKdjBWaDBaU25nOHVFSmtlaVgzS3gtU0ZURFFSYzVUNTNDUzk4STZtTmVZWnd3YzlieVNsTWk5YU83ejhoMVZmUUtfY19HMXo3cGRobVp0TFRIZHFaQUNQd0RFbjlSVG1wQVhUUkswOU4ycDBWZDZYWUk5VG8?oc=5",
+    "date": "2026-10-07T07:00:00.000Z",
+    "source": "Farmer's Weekly SA",
     "score": 3
    },
    {
@@ -68,15 +77,6 @@
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
     "date": "2026-10-02T07:00:00.000Z",
     "source": "Time Out Worldwide",
-    "score": 3
-   },
-   {
-    "group": "Dining and demand",
-    "query": "Sandton restaurants new opening OR best restaurants",
-    "title": "Popular South African coffee brand brewing up new restaurant in luxury Rosebank development - African Insider",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb05WZ1M2cmdNYmNXeHY3TGVOd2FQcmgzSlpFVVc3NkEwZkd0VEN5RW9falQyWG5OekZGMzZWMDdfZXBNU3o2dVBSX1RjR3ZUbnhuNmI2VG51ZktqWFl5RXhqclFibk9CYUNuZE9OM2JRQWVxUWQ3TU1DS0tiZlNySm4tUDNXYjZrU1U5NDhWa0NWWThrUmxCX2trd1E4MF82ckN0QWhDLVhMM2E5SVJBUFNiMkxud1VGUjA1VnIxWUIxd21ndG9Oem5IQ1M?oc=5",
-    "date": "2026-09-25T08:14:13.000Z",
-    "source": "African Insider",
     "score": 3
    }
   ],
