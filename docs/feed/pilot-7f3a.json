@@ -2,20 +2,11 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-21T11:45:04.317Z",
+ "generated_at": "2026-10-21T17:09:48.464Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
-   {
-    "group": "Costs",
-    "query": "load shedding restaurants South Africa",
-    "title": "#LGE2026 FACTSHEET: what the data tells us about electricity access in South Africa - Africa Check",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2duM2RXTzBCNXZ1MEt4UGI2R0JNY2F1Sl81OEVRLWl0WkFITnowY2NmMHpXOGdRZEE5STNPM3Z1LVNySVNjM29RWnlfUnNpeDVBWkhwVmltMEFuc1o1X3A3bUVadElOc3VTbXdQSFM1SmNWQ1dyVFhPUFdZQ3kxV2MyRVU1VlE2bWFmRWFJT0FrT2UtdG9MX3lnbHE0VkZxbHJNVkcxdjRzMWw1M2hONlNHcG1nVnB6ZUFjY19n?oc=5",
-    "date": "2026-10-14T09:14:17.000Z",
-    "source": "Africa Check",
-    "score": 4
-   },
    {
     "group": "Costs",
     "query": "restaurant food prices South Africa OR food inflation South Africa",
@@ -32,6 +23,15 @@
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHFSQUowX3ltRGR2dXhJWE5lWHZVTldSOEkzRHdBVzVLM05rMFFicEpMYjBuMHN3N0N4b3VRN1lzaFJYVTRqTVFMMjY4dG9UdWl3S3V4ZnZoNDZZb2Y2akRLZGV0Vy11bmYxSFRhVjRFX3BtRzRjd05qZVIyY3c4RjYyb09MVWdaZFhVblAzM3hiQmxYSHNldHRxTTFocVpaTy1nemlNaUo1WXFRbmVyX0RBckFjMml0NkMtRXRQVzVLS0RjX2NRTmw3eVN3b21RdjZyaA?oc=5",
     "date": "2026-10-19T07:05:42.000Z",
     "source": "Infrastructure News",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "electricity tariff increase restaurants South Africa",
+    "title": "8.8% electricity tariff hike proposed by Eskom for next year - Smile 90.4FM",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZEhKZkJWVXgyUEpxZFoxSVM1cm8yZlJ6TzB5WlJqcllXbFR0Q0dpT0xnRG5kdlp2WHBxeENPd2VOT3cyMkRJeTNtcVpFUnEtWW1MQ3UxbkV4YTlfQ2w2LXVwbG9ZM1F4UHZSRnlfTTlrU1J5dVkyZ1BrdUp5Q1E0QkktQnJDVGdTZ0E?oc=5",
+    "date": "2026-10-14T06:40:04.000Z",
+    "source": "Smile 90.4FM",
     "score": 3
    },
    {
@@ -62,21 +62,21 @@
     "score": 3
    },
    {
+    "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Beyond Load Shedding: How South Africa’s Electricity Crisis Scarred Industry - African Arguments",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObTk3OXdHZS0zWTIyNTJLQ0REODRkY0lwclhGTHJySWt1YTBPMHRJMkhFcWpXZE5OTWhVNjJaN0QybkF2RGVGODltNW4yS05IT2U1eUhHVmZEeXNIWHU2M2o5SkwwQ2NtNGpHWFpxYS13bHZ6TDdNLU1hdUpGS1Qzb0hGSlplZ1EtUnhxU3BhMmtUSjlIcTIyVmJDajRab0NvVUdQWHRVd0FHbWkzRDJ6eldB?oc=5",
+    "date": "2026-10-05T07:00:00.000Z",
+    "source": "African Arguments",
+    "score": 3
+   },
+   {
     "group": "Events and seasons",
     "query": "Johannesburg events this month",
     "title": "Events and Festivals in Johannesburg : October 2026 - YoMzansi",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZcWZnelpTYVFjY29xYWNqa0htRHQ3MV9yR0VIU2E3MkI3Ql9XUmhBUjVCRGNmenZOX2xMVW5zb1ZKeDNZTTRwSU9XNmZiQ00zWXEtV0llTDlCc1hMd2JQbmxfaHFSaGFpZzQyTlduamJDdVRSSWIzQzBNR0VKdw?oc=5",
     "date": "2026-10-02T07:00:00.000Z",
     "source": "YoMzansi",
-    "score": 3
-   },
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
-    "title": "Events: What’s on in Johannesburg - Time Out Worldwide",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
-    "date": "2026-10-02T07:00:00.000Z",
-    "source": "Time Out Worldwide",
     "score": 3
    }
   ],
@@ -96,8 +96,8 @@
   {
    "theme": "Costs",
    "hook": "Prices are moving, here is how we keep your plate fair.",
-   "body": "You have seen the headlines: \"#LGE2026 FACTSHEET: what the data tells us about electricity access in South Africa\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
-   "based_on": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2duM2RXTzBCNXZ1MEt4UGI2R0JNY2F1Sl81OEVRLWl0WkFITnowY2NmMHpXOGdRZEE5STNPM3Z1LVNySVNjM29RWnlfUnNpeDVBWkhwVmltMEFuc1o1X3A3bUVadElOc3VTbXdQSFM1SmNWQ1dyVFhPUFdZQ3kxV2MyRVU1VlE2bWFmRWFJT0FrT2UtdG9MX3lnbHE0VkZxbHJNVkcxdjRzMWw1M2hONlNHcG1nVnB6ZUFjY19n?oc=5",
+   "body": "You have seen the headlines: \"Bargaining agreement will put many small restaurants ‘out of business’\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
+   "based_on": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOFlSamJhSWtzeWZWekJGOTBNX2M0WGRNWGNMQVVwRjB4bDJfVjU5MW5sZ2JhbmZFdVR2aGhkdjJPdkxtRlpYNk9tMEFWd3d1RHNWbDZVZTlYamF6eS1nVHJFbGxDN1hCU3Q0ZUJGUXRKWEN2TzlLbXZGenZydG5ZQ2hnWmVHbFNYaFBTZ2pWbEhWMjQ4ZW1ZVU1ubEdwbVVLM0FHR2N5eVJlaDg5eVE?oc=5",
    "channels": [
     "facebook",
     "instagram"
