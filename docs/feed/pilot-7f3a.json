@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-22T11:48:04.359Z",
+ "generated_at": "2026-10-22T17:08:02.833Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -12,9 +12,18 @@
     "query": "load shedding restaurants South Africa",
     "title": "#LGE2026 FACTSHEET: what the data tells us about electricity access in South Africa - Africa Check",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2duM2RXTzBCNXZ1MEt4UGI2R0JNY2F1Sl81OEVRLWl0WkFITnowY2NmMHpXOGdRZEE5STNPM3Z1LVNySVNjM29RWnlfUnNpeDVBWkhwVmltMEFuc1o1X3A3bUVadElOc3VTbXdQSFM1SmNWQ1dyVFhPUFdZQ3kxV2MyRVU1VlE2bWFmRWFJT0FrT2UtdG9MX3lnbHE0VkZxbHJNVkcxdjRzMWw1M2hONlNHcG1nVnB6ZUFjY19n?oc=5",
-    "date": "2026-10-14T09:14:17.000Z",
+    "date": "2026-10-14T07:00:00.000Z",
     "source": "Africa Check",
     "score": 4
+   },
+   {
+    "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Power cuts and sleep: students link loadshedding to anxiety, disrupted rest and lower marks - The Conversation",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0dTdlZRWVoxQnlUT2JjblAzdHFNSURCRy1fNnRjMk9HVmJxSTkyU2ZFb2c3cENnWDBaa0ZSLW42Z0pQdFFlU2o2VkNSb2c3QURCdXZYLWxOQ1NiYktoNUJ0eHBvejcxVGZwM0RfSDhmOWwxd29PSWxxZG1CLS05SUg1aFZqNUVQWFZTRzhFSTdxUHZRcmVjTHFsM19QOWFneVN5aXF6NlVTUm9VdUxEeGRpcnZ0aWRXNExMOTZIUlVSUQ?oc=5",
+    "date": "2026-10-22T15:05:15.000Z",
+    "source": "The Conversation",
+    "score": 3
    },
    {
     "group": "Costs",
@@ -45,10 +54,10 @@
    },
    {
     "group": "Costs",
-    "query": "load shedding restaurants South Africa",
+    "query": "electricity tariff increase restaurants South Africa",
     "title": "Brace for yet another electricity hike - Mail & Guardian",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjVxTVBhZFd5WUw3SjRLZmtsd0RBNGdxWUg4UGlST1BWLXgwM1VqRWk1bTlydzc3dWlOQ0JUSUpNbnctZERlQTlrWDIzT3VFa0pQdEV3THlScE1XUE5OMHQ0TnVSNkhSLTVNSThDOXVjeUlfbUxpUGxoSWtFMmFFeDhQejd4RHBaN1F6S2dR?oc=5",
-    "date": "2026-10-13T13:24:56.000Z",
+    "date": "2026-10-13T07:00:00.000Z",
     "source": "Mail & Guardian",
     "score": 3
    },
@@ -68,15 +77,6 @@
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZcWZnelpTYVFjY29xYWNqa0htRHQ3MV9yR0VIU2E3MkI3Ql9XUmhBUjVCRGNmenZOX2xMVW5zb1ZKeDNZTTRwSU9XNmZiQ00zWXEtV0llTDlCc1hMd2JQbmxfaHFSaGFpZzQyTlduamJDdVRSSWIzQzBNR0VKdw?oc=5",
     "date": "2026-10-02T07:00:00.000Z",
     "source": "YoMzansi",
-    "score": 3
-   },
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
-    "title": "Events: What’s on in Johannesburg - Time Out Worldwide",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
-    "date": "2026-10-02T07:00:00.000Z",
-    "source": "Time Out Worldwide",
     "score": 3
    }
   ],

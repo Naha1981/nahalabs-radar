@@ -2,7 +2,7 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-10-22T11:48:07.118Z",
+ "generated_at": "2026-10-22T17:08:05.708Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -39,8 +39,17 @@
     "query": "semigration Gauteng property OR estate living Johannesburg",
     "title": "LIVE | 'A crime is still a crime' - IMC on Migration condemns violence and damage to property, businesses - IOL",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM3duQ1RYZThkcHdaSVhfT29HUkwteGRiNFZuVDVWR213Z1o2SUFYQTl4M3F1MUxZclBwdlZKcnZTQzd3czBodWd6NXp5TnE5d2JlVWl1QjNndHBSc2VFZVlhY1JhOFdpaHJDSzJWcFNRVW5ScjYzNzNrZkpIY1U3WmpvM2U2SWdVNF83Y3NZbXAwNlpNc2FmeEYzVENaZm0zODdfZExJYVFtMmphQ05scHJRNzV0SkFrUldxbVY0dk5JMVJwdndvV3dEd3VJS3dGejB2YXl1VzBjVExj?oc=5",
-    "date": "2026-10-22T10:38:29.000Z",
+    "date": "2026-10-21T07:00:00.000Z",
     "source": "IOL",
+    "score": 3
+   },
+   {
+    "group": "Rates and bonds",
+    "query": "repo rate South Africa property buyers",
+    "title": "Another interest rate hike: what now for property buyers and sellers - thenational.co.za",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnlzcjFxdS1aeXNQRWxnV0VsMGhaSmZFeFZrX2NKdm9QNG9aUHBfTWdmU0lpOWtCVnZzNVVaYW43RExUUzV1WFFLWXpKVG92UjVpZUxoSDd2VFo1aGswSldJT0hnckkwVndSaWdhUlFFWVhDdElfSTVia2RNclVUWlVfNlllSmItRm14Vl84eVVKR093S1doM0Y4SEVKZkZNeUtlbXRtWkVwbHRqSTBB?oc=5",
+    "date": "2026-10-16T02:00:00.000Z",
+    "source": "thenational.co.za",
     "score": 3
    },
    {
@@ -50,15 +59,6 @@
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHZNSTVKWVBheUVZYWRpT1JqYTBEZHl4ODZnTWljMkpEQlM1X0pOS0c1R2R5NXpCZ2Z1ZTh3X2JDMFU5Y0hLZjVKVW9GOEx3MFZObnJhVkZUWjZldGNDMUJ6ZENELTRPMDVKeEdhS1BGcUxRd053cWUzaGR1bF9QTHdTMDhUQXYzX3JZWk1md2hZZGpiaTBVcTdXNU9JZE84OWhOWFJtZ0cwektaUTdj?oc=5",
     "date": "2026-10-15T12:53:43.000Z",
     "source": "Limpopo Mirror",
-    "score": 3
-   },
-   {
-    "group": "Demand",
-    "query": "first time home buyers South Africa OR property demand Gauteng",
-    "title": "Small 283-year-old town in South Africa becoming a new semigration hotspot - BusinessTech",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQenpCOExRU1l4R0RibXlVTnZ4OUN5cDBpalFCU1JuZkNSY2tmSFVqQkR4bzlTUVlpWUJzbHJLd0RnSjUwMzFHYkZpNUJPYklHZ29yd3poU0FPdlZpZm9mWm8tXzFKaWxDZkJFZXJHa0NGUEVyRndfOEt1M1hJdzljLXFpX3lBSWM4NkZYOURuOFJjTHFuUjI4ZFVIbllDUERPeWw2Umxwd05PcVJ2WnlITV9udTNJMThLc1UwcFFNNU0?oc=5",
-    "date": "2026-10-04T07:00:00.000Z",
-    "source": "BusinessTech",
     "score": 3
    },
    {
