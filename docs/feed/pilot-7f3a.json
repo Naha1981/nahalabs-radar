@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-22T17:08:02.833Z",
+ "generated_at": "2026-10-22T21:33:10.222Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -36,6 +36,15 @@
    },
    {
     "group": "Costs",
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "El Niño: Should we brace for higher food prices? - EWN",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tcXRzbzBLalAzWU1fT19jMmpySG45MXVqNy1IaFc0Y0M2UjA4aS16bEF4VTQ0Rk9ySUkxcDY2bmhrVFJ2aFdmQkU0OU9RbXVIaG5zbVVpZzJvenRWRC1vZlljQ2JhRU92b2JHakpDRUM4WE0tTk1lNg?oc=5",
+    "date": "2026-10-20T09:23:34.000Z",
+    "source": "EWN",
+    "score": 3
+   },
+   {
+    "group": "Costs",
     "query": "electricity tariff increase restaurants South Africa",
     "title": "Electricity Is Already Unaffordable – The Green Connection Rejects Another 8.83% Tariff Increase - Infrastructure News",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHFSQUowX3ltRGR2dXhJWE5lWHZVTldSOEkzRHdBVzVLM05rMFFicEpMYjBuMHN3N0N4b3VRN1lzaFJYVTRqTVFMMjY4dG9UdWl3S3V4ZnZoNDZZb2Y2akRLZGV0Vy11bmYxSFRhVjRFX3BtRzRjd05qZVIyY3c4RjYyb09MVWdaZFhVblAzM3hiQmxYSHNldHRxTTFocVpaTy1nemlNaUo1WXFRbmVyX0RBckFjMml0NkMtRXRQVzVLS0RjX2NRTmw3eVN3b21RdjZyaA?oc=5",
@@ -48,7 +57,7 @@
     "query": "load shedding restaurants South Africa",
     "title": "Audit findings expose Tshwane’s electricity failures as outages persist - thenational.co.za",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWpOaWs1TFM3S05pSmJGdmtuREJ6RVRjTWpqY21mQWxJRjZIRlh1MDZJNUVIMVFSTzNxTVZXaFZmQjFsMHJIREkzU20zYWVpbmh4VnR0eUdmNzdlODVJR1V6X0hXNTJialJId1N1NlJJRC1HcTJaZmtaclo3bnRPQTlnb3NiMm1PVWt4YmtEY1gwMDR0WUhZbXg0SG1QQ0hWdXpMMzBvTjFqRUdsQUIxQ3hpaWY?oc=5",
-    "date": "2026-10-14T09:00:00.000Z",
+    "date": "2026-10-14T07:00:00.000Z",
     "source": "thenational.co.za",
     "score": 3
    },
@@ -68,15 +77,6 @@
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXppZ2lhR2JpVTNJTUtJcl96MU1vZ2JzUS05dHBqLUtKLVltOU1xQ2JOeC1weWszcU9nUmFuUlB4Y0lRQV92WWZsRU1jNTUtR09WbHhhTDI2QUdpUTBUSXpZMTZVNkFpRFBDQVRUMmhLUW4yWnEydzU3Ry1fekN4dUV2bnk1bTBVWVNibUZrLTE0Ync4NERQeld4QkNKVExvaGJzbWtn0gGuAUFVX3lxTFB2QlRqb09NZ2tjeFR0Tmk5YWRlN1otT2VMdjRFSEQ2TzkxU1FIQWI3S2paX3g4YUtTSW9xZWFpUlp3MDVQMEdpVmNtVGZTS2pQbTRxb0NSa2ZGaDQxZmE0YWNKV0RJaVBIbW82OWFLakgzekU5WmRqZXZOTkFXa3dIcG9IN0pLTXJVZXBiT3poZGtRVmJ2Zzk0eFFWSEdJYTRHeWJSSFZkRFo2VUVuQQ?oc=5",
     "date": "2026-10-05T07:00:00.000Z",
     "source": "Food & Home Magazine",
-    "score": 3
-   },
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg events this month",
-    "title": "Events and Festivals in Johannesburg : October 2026 - YoMzansi",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZcWZnelpTYVFjY29xYWNqa0htRHQ3MV9yR0VIU2E3MkI3Ql9XUmhBUjVCRGNmenZOX2xMVW5zb1ZKeDNZTTRwSU9XNmZiQ00zWXEtV0llTDlCc1hMd2JQbmxfaHFSaGFpZzQyTlduamJDdVRSSWIzQzBNR0VKdw?oc=5",
-    "date": "2026-10-02T07:00:00.000Z",
-    "source": "YoMzansi",
     "score": 3
    }
   ],
@@ -98,17 +98,6 @@
    "hook": "Prices are moving, here is how we keep your plate fair.",
    "body": "You have seen the headlines: \"#LGE2026 FACTSHEET: what the data tells us about electricity access in South Africa\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
    "based_on": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2duM2RXTzBCNXZ1MEt4UGI2R0JNY2F1Sl81OEVRLWl0WkFITnowY2NmMHpXOGdRZEE5STNPM3Z1LVNySVNjM29RWnlfUnNpeDVBWkhwVmltMEFuc1o1X3A3bUVadElOc3VTbXdQSFM1SmNWQ1dyVFhPUFdZQ3kxV2MyRVU1VlE2bWFmRWFJT0FrT2UtdG9MX3lnbHE0VkZxbHJNVkcxdjRzMWw1M2hONlNHcG1nVnB6ZUFjY19n?oc=5",
-   "channels": [
-    "facebook",
-    "instagram"
-   ],
-   "status": "draft_for_owner_approval"
-  },
-  {
-   "theme": "Events",
-   "hook": "Plan your next get-together with us.",
-   "body": "The festive season is close and Joburg is busy. Book your table or your office function early, we will hold the best seats for you. Message us on WhatsApp to reserve.",
-   "based_on": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZcWZnelpTYVFjY29xYWNqa0htRHQ3MV9yR0VIU2E3MkI3Ql9XUmhBUjVCRGNmenZOX2xMVW5zb1ZKeDNZTTRwSU9XNmZiQ00zWXEtV0llTDlCc1hMd2JQbmxfaHFSaGFpZzQyTlduamJDdVRSSWIzQzBNR0VKdw?oc=5",
    "channels": [
     "facebook",
     "instagram"
