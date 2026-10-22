@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-21T21:40:41.051Z",
+ "generated_at": "2026-10-22T04:40:04.409Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -27,6 +27,15 @@
    },
    {
     "group": "Costs",
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "El Niño: Should we brace for higher food prices? - EWN",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tcXRzbzBLalAzWU1fT19jMmpySG45MXVqNy1IaFc0Y0M2UjA4aS16bEF4VTQ0Rk9ySUkxcDY2bmhrVFJ2aFdmQkU0OU9RbXVIaG5zbVVpZzJvenRWRC1vZlljQ2JhRU92b2JHakpDRUM4WE0tTk1lNg?oc=5",
+    "date": "2026-10-20T09:23:34.000Z",
+    "source": "EWN",
+    "score": 3
+   },
+   {
+    "group": "Costs",
     "query": "electricity tariff increase restaurants South Africa",
     "title": "Electricity Is Already Unaffordable – The Green Connection Rejects Another 8.83% Tariff Increase - Infrastructure News",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHFSQUowX3ltRGR2dXhJWE5lWHZVTldSOEkzRHdBVzVLM05rMFFicEpMYjBuMHN3N0N4b3VRN1lzaFJYVTRqTVFMMjY4dG9UdWl3S3V4ZnZoNDZZb2Y2akRLZGV0Vy11bmYxSFRhVjRFX3BtRzRjd05qZVIyY3c4RjYyb09MVWdaZFhVblAzM3hiQmxYSHNldHRxTTFocVpaTy1nemlNaUo1WXFRbmVyX0RBckFjMml0NkMtRXRQVzVLS0RjX2NRTmw3eVN3b21RdjZyaA?oc=5",
@@ -41,15 +50,6 @@
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjVxTVBhZFd5WUw3SjRLZmtsd0RBNGdxWUg4UGlST1BWLXgwM1VqRWk1bTlydzc3dWlOQ0JUSUpNbnctZERlQTlrWDIzT3VFa0pQdEV3THlScE1XUE5OMHQ0TnVSNkhSLTVNSThDOXVjeUlfbUxpUGxoSWtFMmFFeDhQejd4RHBaN1F6S2dR?oc=5",
     "date": "2026-10-13T13:24:56.000Z",
     "source": "Mail & Guardian",
-    "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "electricity tariff increase restaurants South Africa",
-    "title": "Cheap on paper, costly at the till: what 1,1% food inflation really means - Farmer's Weekly SA",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcDhnSlpqWXhSSE01dGtWT3ZaME9BMC1lTWt4d2xETUdOYzBFTU1sRWtPOXJ1dG9OUHlBVWNzMTBveFFUSzNZZ3lZbFZ1WWVKdjBWaDBaU25nOHVFSmtlaVgzS3gtU0ZURFFSYzVUNTNDUzk4STZtTmVZWnd3YzlieVNsTWk5YU83ejhoMVZmUUtfY19HMXo3cGRobVp0TFRIZHFaQUNQd0RFbjlSVG1wQVhUUkswOU4ycDBWZDZYWUk5VG8?oc=5",
-    "date": "2026-10-07T07:00:00.000Z",
-    "source": "Farmer's Weekly SA",
     "score": 3
    },
    {
