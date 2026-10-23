@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-23T17:04:06.975Z",
+ "generated_at": "2026-10-23T21:22:23.732Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -32,15 +32,6 @@
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHFSQUowX3ltRGR2dXhJWE5lWHZVTldSOEkzRHdBVzVLM05rMFFicEpMYjBuMHN3N0N4b3VRN1lzaFJYVTRqTVFMMjY4dG9UdWl3S3V4ZnZoNDZZb2Y2akRLZGV0Vy11bmYxSFRhVjRFX3BtRzRjd05qZVIyY3c4RjYyb09MVWdaZFhVblAzM3hiQmxYSHNldHRxTTFocVpaTy1nemlNaUo1WXFRbmVyX0RBckFjMml0NkMtRXRQVzVLS0RjX2NRTmw3eVN3b21RdjZyaA?oc=5",
     "date": "2026-10-19T07:05:42.000Z",
     "source": "Infrastructure News",
-    "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "restaurant food prices South Africa OR food inflation South Africa",
-    "title": "Global food inflation is expected to intensify as supply shocks pile up - The Japan Times",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HOVdMdXRSQmpLYjRiMklIVWhvUEZqYm1wZkdUN2Q2VklDOUk4VTZzTk1aeC1NUW5NNG11X2w5ZHNjS2dBdXVISDFfT0NEbUI1NXVuVXBQaHpOX3FXaVJMbG50MlNJaE9nWTJ5N3hIekgtbzdMZ3p0M3ZBUQ?oc=5",
-    "date": "2026-10-19T05:45:00.000Z",
-    "source": "The Japan Times",
     "score": 3
    },
    {
@@ -77,6 +68,15 @@
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZcWZnelpTYVFjY29xYWNqa0htRHQ3MV9yR0VIU2E3MkI3Ql9XUmhBUjVCRGNmenZOX2xMVW5zb1ZKeDNZTTRwSU9XNmZiQ00zWXEtV0llTDlCc1hMd2JQbmxfaHFSaGFpZzQyTlduamJDdVRSSWIzQzBNR0VKdw?oc=5",
     "date": "2026-10-02T07:00:00.000Z",
     "source": "YoMzansi",
+    "score": 3
+   },
+   {
+    "group": "Events and seasons",
+    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
+    "title": "Events: What’s on in Johannesburg - Time Out Worldwide",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
+    "date": "2026-10-02T07:00:00.000Z",
+    "source": "Time Out Worldwide",
     "score": 3
    }
   ],
