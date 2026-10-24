@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-24T04:32:49.773Z",
+ "generated_at": "2026-10-24T10:54:57.267Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -19,10 +19,19 @@
    {
     "group": "Costs",
     "query": "load shedding restaurants South Africa",
-    "title": "Power cuts and sleep: students link loadshedding to anxiety, disrupted rest and lower marks - The Conversation",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0dTdlZRWVoxQnlUT2JjblAzdHFNSURCRy1fNnRjMk9HVmJxSTkyU2ZFb2c3cENnWDBaa0ZSLW42Z0pQdFFlU2o2VkNSb2c3QURCdXZYLWxOQ1NiYktoNUJ0eHBvejcxVGZwM0RfSDhmOWwxd29PSWxxZG1CLS05SUg1aFZqNUVQWFZTRzhFSTdxUHZRcmVjTHFsM19QOWFneVN5aXF6NlVTUm9VdUxEeGRpcnZ0aWRXNExMOTZIUlVSUQ?oc=5",
-    "date": "2026-10-22T15:05:15.000Z",
-    "source": "The Conversation",
+    "title": "Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades - Phys.org",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNEo2YURpdGw3Wi1pdTh0dUlObzRrc3BzN0NvMHJSdTR2cXBZQjg1ZHlsWlh1RWlyRDRITktzajRKbTBqcnRJMWVKUzNha2tGeGI1UXhYel8zdmNvNzJfS1pLbjl2SDVoQ0Eta2FxVGgxQnpEZTh0cENmRDI?oc=5",
+    "date": "2026-10-23T23:40:04.000Z",
+    "source": "Phys.org",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "40 new restaurants for owner of Steers, Wimpy and Milky Lane - BusinessTech",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVFU0cWFXbGlGSVhKbElHNmc3ZWhZTUg2NFJEWjczOUt6QXU5TXB1eU5ab201c21vMzBnOTZjQ1R0LU9nUkNucGN6cVFxcXVZOC1mSXpwWWxWQXRkeXA3bXg4WDVDeWhVbGZwM2hLUHZxSWhiTGF3ZTFwSEhPM251OS1uNl9BSVpxNzBoZ2VCS1ZLZnE0RjlyTkxsWlQ3Yzdyam9zYUdnX2VJcnp4?oc=5",
+    "date": "2026-10-21T07:08:46.000Z",
+    "source": "BusinessTech",
     "score": 3
    },
    {
@@ -69,15 +78,6 @@
     "date": "2026-10-13T07:00:00.000Z",
     "source": "Mail & Guardian",
     "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "electricity tariff increase restaurants South Africa",
-    "title": "Cheap on paper, costly at the till: what 1,1% food inflation really means - Farmer's Weekly SA",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcDhnSlpqWXhSSE01dGtWT3ZaME9BMC1lTWt4d2xETUdOYzBFTU1sRWtPOXJ1dG9OUHlBVWNzMTBveFFUSzNZZ3lZbFZ1WWVKdjBWaDBaU25nOHVFSmtlaVgzS3gtU0ZURFFSYzVUNTNDUzk4STZtTmVZWnd3YzlieVNsTWk5YU83ejhoMVZmUUtfY19HMXo3cGRobVp0TFRIZHFaQUNQd0RFbjlSVG1wQVhUUkswOU4ycDBWZDZYWUk5VG8?oc=5",
-    "date": "2026-10-07T07:00:00.000Z",
-    "source": "Farmer's Weekly SA",
-    "score": 3
    }
   ],
   "errors": []
@@ -96,8 +96,8 @@
   {
    "theme": "Costs",
    "hook": "Prices are moving, here is how we keep your plate fair.",
-   "body": "You have seen the headlines: \"Power cuts and sleep: students link loadshedding to anxiety, disrupted rest and lower marks\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
-   "based_on": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0dTdlZRWVoxQnlUT2JjblAzdHFNSURCRy1fNnRjMk9HVmJxSTkyU2ZFb2c3cENnWDBaa0ZSLW42Z0pQdFFlU2o2VkNSb2c3QURCdXZYLWxOQ1NiYktoNUJ0eHBvejcxVGZwM0RfSDhmOWwxd29PSWxxZG1CLS05SUg1aFZqNUVQWFZTRzhFSTdxUHZRcmVjTHFsM19QOWFneVN5aXF6NlVTUm9VdUxEeGRpcnZ0aWRXNExMOTZIUlVSUQ?oc=5",
+   "body": "You have seen the headlines: \"Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
+   "based_on": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNEo2YURpdGw3Wi1pdTh0dUlObzRrc3BzN0NvMHJSdTR2cXBZQjg1ZHlsWlh1RWlyRDRITktzajRKbTBqcnRJMWVKUzNha2tGeGI1UXhYel8zdmNvNzJfS1pLbjl2SDVoQ0Eta2FxVGgxQnpEZTh0cENmRDI?oc=5",
    "channels": [
     "facebook",
     "instagram"
