@@ -2,20 +2,11 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-25T04:37:19.329Z",
+ "generated_at": "2026-10-25T11:22:28.850Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
-   {
-    "group": "Costs",
-    "query": "restaurant food prices South Africa OR food inflation South Africa",
-    "title": "How high living costs are reshaping SA's grocery habits - thenational.co.za",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVZZbDI5bjNRMEF5c2ZCeFJ2eFVhUDJoSktlYlJRMmZWM2dXRm9NdGRLXy1oNkYtVURxcFRKVUNfODJETy1LNHhfMkFPNmJ2Rl9Mc25qVGlOLWs0WWtvcFJTUHNielMxM1NLMHZPMi03MjV0eTN1UGxnVGRZZnJ6eTRRZ1laand4OEJmS3JvYmF6MkJJWnpLTUxPYXM0RHAxU3hJ?oc=5",
-    "date": "2026-10-16T14:00:00.000Z",
-    "source": "thenational.co.za",
-    "score": 4
-   },
    {
     "group": "Dining and demand",
     "query": "Johannesburg restaurant bookings OR dining out trends",
@@ -63,6 +54,15 @@
    },
    {
     "group": "Costs",
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "Global food inflation is expected to intensify as supply shocks pile up - The Japan Times",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HOVdMdXRSQmpLYjRiMklIVWhvUEZqYm1wZkdUN2Q2VklDOUk4VTZzTk1aeC1NUW5NNG11X2w5ZHNjS2dBdXVISDFfT0NEbUI1NXVuVXBQaHpOX3FXaVJMbG50MlNJaE9nWTJ5N3hIekgtbzdMZ3p0M3ZBUQ?oc=5",
+    "date": "2026-10-19T05:45:00.000Z",
+    "source": "The Japan Times",
+    "score": 3
+   },
+   {
+    "group": "Costs",
     "query": "load shedding restaurants South Africa",
     "title": "Audit findings expose Tshwane’s electricity failures as outages persist - thenational.co.za",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWpOaWs1TFM3S05pSmJGdmtuREJ6RVRjTWpqY21mQWxJRjZIRlh1MDZJNUVIMVFSTzNxTVZXaFZmQjFsMHJIREkzU20zYWVpbmh4VnR0eUdmNzdlODVJR1V6X0hXNTJialJId1N1NlJJRC1HcTJaZmtaclo3bnRPQTlnb3NiMm1PVWt4YmtEY1gwMDR0WUhZbXg0SG1QQ0hWdXpMMzBvTjFqRUdsQUIxQ3hpaWY?oc=5",
@@ -96,8 +96,8 @@
   {
    "theme": "Costs",
    "hook": "Prices are moving, here is how we keep your plate fair.",
-   "body": "You have seen the headlines: \"How high living costs are reshaping SA's grocery habits\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
-   "based_on": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVZZbDI5bjNRMEF5c2ZCeFJ2eFVhUDJoSktlYlJRMmZWM2dXRm9NdGRLXy1oNkYtVURxcFRKVUNfODJETy1LNHhfMkFPNmJ2Rl9Mc25qVGlOLWs0WWtvcFJTUHNielMxM1NLMHZPMi03MjV0eTN1UGxnVGRZZnJ6eTRRZ1laand4OEJmS3JvYmF6MkJJWnpLTUxPYXM0RHAxU3hJ?oc=5",
+   "body": "You have seen the headlines: \"Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
+   "based_on": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNEo2YURpdGw3Wi1pdTh0dUlObzRrc3BzN0NvMHJSdTR2cXBZQjg1ZHlsWlh1RWlyRDRITktzajRKbTBqcnRJMWVKUzNha2tGeGI1UXhYel8zdmNvNzJfS1pLbjl2SDVoQ0Eta2FxVGgxQnpEZTh0cENmRDI?oc=5",
    "channels": [
     "facebook",
     "instagram"
