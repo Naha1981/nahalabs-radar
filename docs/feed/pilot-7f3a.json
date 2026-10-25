@@ -2,11 +2,20 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-24T20:45:39.291Z",
+ "generated_at": "2026-10-25T04:37:19.329Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
+   {
+    "group": "Costs",
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "How high living costs are reshaping SA's grocery habits - thenational.co.za",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVZZbDI5bjNRMEF5c2ZCeFJ2eFVhUDJoSktlYlJRMmZWM2dXRm9NdGRLXy1oNkYtVURxcFRKVUNfODJETy1LNHhfMkFPNmJ2Rl9Mc25qVGlOLWs0WWtvcFJTUHNielMxM1NLMHZPMi03MjV0eTN1UGxnVGRZZnJ6eTRRZ1laand4OEJmS3JvYmF6MkJJWnpLTUxPYXM0RHAxU3hJ?oc=5",
+    "date": "2026-10-16T14:00:00.000Z",
+    "source": "thenational.co.za",
+    "score": 4
+   },
    {
     "group": "Dining and demand",
     "query": "Johannesburg restaurant bookings OR dining out trends",
@@ -69,15 +78,6 @@
     "date": "2026-10-13T07:00:00.000Z",
     "source": "Mail & Guardian",
     "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "electricity tariff increase restaurants South Africa",
-    "title": "Cheap on paper, costly at the till: what 1,1% food inflation really means - Farmer's Weekly SA",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcDhnSlpqWXhSSE01dGtWT3ZaME9BMC1lTWt4d2xETUdOYzBFTU1sRWtPOXJ1dG9OUHlBVWNzMTBveFFUSzNZZ3lZbFZ1WWVKdjBWaDBaU25nOHVFSmtlaVgzS3gtU0ZURFFSYzVUNTNDUzk4STZtTmVZWnd3YzlieVNsTWk5YU83ejhoMVZmUUtfY19HMXo3cGRobVp0TFRIZHFaQUNQd0RFbjlSVG1wQVhUUkswOU4ycDBWZDZYWUk5VG8?oc=5",
-    "date": "2026-10-07T07:00:00.000Z",
-    "source": "Farmer's Weekly SA",
-    "score": 3
    }
   ],
   "errors": []
@@ -96,8 +96,8 @@
   {
    "theme": "Costs",
    "hook": "Prices are moving, here is how we keep your plate fair.",
-   "body": "You have seen the headlines: \"Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
-   "based_on": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNEo2YURpdGw3Wi1pdTh0dUlObzRrc3BzN0NvMHJSdTR2cXBZQjg1ZHlsWlh1RWlyRDRITktzajRKbTBqcnRJMWVKUzNha2tGeGI1UXhYel8zdmNvNzJfS1pLbjl2SDVoQ0Eta2FxVGgxQnpEZTh0cENmRDI?oc=5",
+   "body": "You have seen the headlines: \"How high living costs are reshaping SA's grocery habits\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
+   "based_on": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVZZbDI5bjNRMEF5c2ZCeFJ2eFVhUDJoSktlYlJRMmZWM2dXRm9NdGRLXy1oNkYtVURxcFRKVUNfODJETy1LNHhfMkFPNmJ2Rl9Mc25qVGlOLWs0WWtvcFJTUHNielMxM1NLMHZPMi03MjV0eTN1UGxnVGRZZnJ6eTRRZ1laand4OEJmS3JvYmF6MkJJWnpLTUxPYXM0RHAxU3hJ?oc=5",
    "channels": [
     "facebook",
     "instagram"
