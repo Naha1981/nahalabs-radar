@@ -2,7 +2,7 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-10-26T04:42:47.624Z",
+ "generated_at": "2026-10-26T12:56:26.022Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -45,28 +45,10 @@
    },
    {
     "group": "Demand",
-    "query": "first time home buyers South Africa OR property demand Gauteng",
-    "title": "South Africa’s property market faces supply squeeze as home completions lag - thenational.co.za",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGt5Mi1Nb1hNLVRBTE45WVM5NGFZYW0wREFQcUdZN3Roa1hWeVBPS01GbFBZYWp1T3cybi05NXNTNDZMYzEzN2IyODI1eVFudy1BQ0NlRHBTZWF6MlprYTRmRlNRSjBrS2l2eGlmQU44ZTJHVjZtaGQ0cWEyOWpPT2oxREp6b09fR25ObkVqMEV1cDBfNUtQblF4RlktZWJaVi1VbjBNeDdvOVFxbnFMU2RQVmdWSDlQTXc?oc=5",
-    "date": "2026-10-16T14:36:01.000Z",
-    "source": "thenational.co.za",
-    "score": 4
-   },
-   {
-    "group": "Rates and bonds",
-    "query": "South Africa interest rate home loans OR bond rates",
-    "title": "Why a 5% US bond yield is now South Africa’s problem - Financial Mail",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc2RwdmgwRy1qblc1b2FqRVc5bDNhbHNiY2RxVmJWakNYa2RYcGlaM3BaZVJsd0hlal9tdWdBaVlCd01SRmZubEphclRsNkZ3czloUm1IbmttU1JIZmVGZGl1Z19HNFE3WURGcHJ0c3FyTFVkZVVPUVlWUnZUMk5tUlNiWGxFRWt2NlBYX2M0MUdudGFxY0E?oc=5",
-    "date": "2026-10-14T07:00:00.000Z",
-    "source": "Financial Mail",
-    "score": 4
-   },
-   {
-    "group": "Demand",
     "query": "semigration Gauteng property OR estate living Johannesburg",
     "title": "LIVE | 'A crime is still a crime' - IMC on Migration condemns violence and damage to property, businesses - IOL",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM3duQ1RYZThkcHdaSVhfT29HUkwteGRiNFZuVDVWR213Z1o2SUFYQTl4M3F1MUxZclBwdlZKcnZTQzd3czBodWd6NXp5TnE5d2JlVWl1QjNndHBSc2VFZVlhY1JhOFdpaHJDSzJWcFNRVW5ScjYzNzNrZkpIY1U3WmpvM2U2SWdVNF83Y3NZbXAwNlpNc2FmeEYzVENaZm0zODdfZExJYVFtMmphQ05scHJRNzV0SkFrUldxbVY0dk5JMVJwdndvV3dEd3VJS3dGejB2YXl1VzBjVExj?oc=5",
-    "date": "2026-10-24T07:00:00.000Z",
+    "date": "2026-10-26T09:55:41.000Z",
     "source": "IOL",
     "score": 3
    },
@@ -77,6 +59,24 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGFKa1ZsMXNCRTNvQkFSOEhKQlZDekpYOFlWdFg3U1ZVVXpSTHlSRzJMdUdyQWNOTjNJaXdIMUlzRDFhU1JxbmF6SXJoVWdKMzBjNHRTQlI0cVRtN3l5WmdwWlRQZGtkRmIweFhva054c0pQaHBiOTE1THR0UjVjeTV2d1lVSExNUlZiTWxrQW5ETzNBVjgxQWlNaWRVb1hJTUFISQ?oc=5",
     "date": "2026-10-24T05:30:00.000Z",
     "source": "thenational.co.za",
+    "score": 3
+   },
+   {
+    "group": "Rates and bonds",
+    "query": "repo rate South Africa property buyers",
+    "title": "Another interest rate hike: what now for property buyers and sellers - thenational.co.za",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnlzcjFxdS1aeXNQRWxnV0VsMGhaSmZFeFZrX2NKdm9QNG9aUHBfTWdmU0lpOWtCVnZzNVVaYW43RExUUzV1WFFLWXpKVG92UjVpZUxoSDd2VFo1aGswSldJT0hnckkwVndSaWdhUlFFWVhDdElfSTVia2RNclVUWlVfNlllSmItRm14Vl84eVVKR093S1doM0Y4SEVKZkZNeUtlbXRtWkVwbHRqSTBB?oc=5",
+    "date": "2026-10-16T07:00:00.000Z",
+    "source": "thenational.co.za",
+    "score": 3
+   },
+   {
+    "group": "Property market",
+    "query": "Johannesburg property market OR house prices",
+    "title": "Limpopo house price growth slows, falls further behind national average - Limpopo Mirror",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHZNSTVKWVBheUVZYWRpT1JqYTBEZHl4ODZnTWljMkpEQlM1X0pOS0c1R2R5NXpCZ2Z1ZTh3X2JDMFU5Y0hLZjVKVW9GOEx3MFZObnJhVkZUWjZldGNDMUJ6ZENELTRPMDVKeEdhS1BGcUxRd053cWUzaGR1bF9QTHdTMDhUQXYzX3JZWk1md2hZZGpiaTBVcTdXNU9JZE84OWhOWFJtZ0cwektaUTdj?oc=5",
+    "date": "2026-10-15T12:53:43.000Z",
+    "source": "Limpopo Mirror",
     "score": 3
    }
   ],
