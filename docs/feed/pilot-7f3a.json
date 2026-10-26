@@ -2,11 +2,20 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-26T12:56:23.345Z",
+ "generated_at": "2026-10-26T22:38:25.077Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
+   {
+    "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Cyril Ramaphosa’s phone call to Adrian Gore that was the beginning of the end of load-shedding - Daily Investor",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTBBcmRVUjNEYVdXR2dwbDBfVWo2QlM4SkZocTF0ckxKTVlLU3oyQU1MSGtwbndwZkNsRjZCVzFVLWl4UkFOMWRHQW1LZTRrbWZudkxmWnBKVFRCRGd5U2huNXdwSGZPN1g5SHRkamRLTWRfRWIzemRFMTNsVzBsQndjVnNQVnN1SkYzMFA1cVhMYlJielh1QnhvYVd1TGdxTzV6dzlTd3Y3VzlpR1pjbWl3dWZrOEwwQmgzX2gxcDdtM2xLM0dFaDRUYmZOalk?oc=5",
+    "date": "2026-10-25T15:00:00.000Z",
+    "source": "Daily Investor",
+    "score": 3
+   },
    {
     "group": "Dining and demand",
     "query": "Johannesburg restaurant bookings OR dining out trends",
@@ -23,15 +32,6 @@
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNEo2YURpdGw3Wi1pdTh0dUlObzRrc3BzN0NvMHJSdTR2cXBZQjg1ZHlsWlh1RWlyRDRITktzajRKbTBqcnRJMWVKUzNha2tGeGI1UXhYel8zdmNvNzJfS1pLbjl2SDVoQ0Eta2FxVGgxQnpEZTh0cENmRDI?oc=5",
     "date": "2026-10-23T23:40:04.000Z",
     "source": "Phys.org",
-    "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "restaurant food prices South Africa OR food inflation South Africa",
-    "title": "40 new restaurants for owner of Steers, Wimpy and Milky Lane - BusinessTech",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVFU0cWFXbGlGSVhKbElHNmc3ZWhZTUg2NFJEWjczOUt6QXU5TXB1eU5ab201c21vMzBnOTZjQ1R0LU9nUkNucGN6cVFxcXVZOC1mSXpwWWxWQXRkeXA3bXg4WDVDeWhVbGZwM2hLUHZxSWhiTGF3ZTFwSEhPM251OS1uNl9BSVpxNzBoZ2VCS1ZLZnE0RjlyTkxsWlQ3Yzdyam9zYUdnX2VJcnp4?oc=5",
-    "date": "2026-10-21T07:08:46.000Z",
-    "source": "BusinessTech",
     "score": 3
    },
    {
@@ -63,10 +63,10 @@
    },
    {
     "group": "Costs",
-    "query": "load shedding restaurants South Africa",
-    "title": "Eskom launching enough solar and batteries to cover 6 stages of load shedding in South Africa - BusinessTech",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU2JWQk05UlAtdExoS3pVT2IyekpGTy1XVnZPaGk5dnEwWXZLcjRkMGpSNkR0Q2F3NnJkaFUxbXMxUnNsZXdXZFROZWh4N21LQlIwaFhycC1SWWw0a3MyTzNFSjlYMnpRSzJZTkwyVHd5cVJoWW5jUy04UzZmSGwxZ3o3OVZvRUFoR1BlbDRQSmZDYzBtVjRBQ1RLaGNKc0dEQzdKbE56QWJYQTdBTUpSMzVTMWFLZmhpYmplTG1MTmZ3djdwWFhrQlIyMnc0WF9EbTBsYVV4Yw?oc=5",
-    "date": "2026-10-09T07:00:00.000Z",
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "The rural municipality with the lowest prices for groceries in South Africa - BusinessTech",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzFCcU1mQkFxNFEzYXNZcFZfRG9TYldpekt5cjJuTkhuekd0ZGN3d0ZHbTJDWXZaRHhzVkZQcVZyZ1dFemM2MUIwa25xUmRKMjUwblNtZ3o4elF6TDJhU3lWRkJ3SFo1anhtNHl6YnBqay1GaXMxX0RDbk5FdFlkWklDTVhNX1hEWEZRaGJVSExWQm1EV0kwOGdIN0NUVnRqc05FQ2ZrX1kxbjV0QUxxSGF1S3kzclNrRXBQXzdDVkRvbW8?oc=5",
+    "date": "2026-10-08T07:00:00.000Z",
     "source": "BusinessTech",
     "score": 3
    },
@@ -96,8 +96,8 @@
   {
    "theme": "Costs",
    "hook": "Prices are moving, here is how we keep your plate fair.",
-   "body": "You have seen the headlines: \"Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
-   "based_on": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNEo2YURpdGw3Wi1pdTh0dUlObzRrc3BzN0NvMHJSdTR2cXBZQjg1ZHlsWlh1RWlyRDRITktzajRKbTBqcnRJMWVKUzNha2tGeGI1UXhYel8zdmNvNzJfS1pLbjl2SDVoQ0Eta2FxVGgxQnpEZTh0cENmRDI?oc=5",
+   "body": "You have seen the headlines: \"Cyril Ramaphosa’s phone call to Adrian Gore that was the beginning of the end of load-shedding\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
+   "based_on": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTBBcmRVUjNEYVdXR2dwbDBfVWo2QlM4SkZocTF0ckxKTVlLU3oyQU1MSGtwbndwZkNsRjZCVzFVLWl4UkFOMWRHQW1LZTRrbWZudkxmWnBKVFRCRGd5U2huNXdwSGZPN1g5SHRkamRLTWRfRWIzemRFMTNsVzBsQndjVnNQVnN1SkYzMFA1cVhMYlJielh1QnhvYVd1TGdxTzV6dzlTd3Y3VzlpR1pjbWl3dWZrOEwwQmgzX2gxcDdtM2xLM0dFaDRUYmZOalk?oc=5",
    "channels": [
     "facebook",
     "instagram"
