@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-27T12:07:04.313Z",
+ "generated_at": "2026-10-27T17:58:24.036Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -17,22 +17,13 @@
     "score": 4
    },
    {
-    "group": "Dining and demand",
-    "query": "Sandton restaurants new opening OR best restaurants",
-    "title": "New hotel with three restaurants and two bars opens at South Africa’s oldest working harbour - Daily Investor",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM05vWDVkM1ZTUGxnMkZHaFJNSnJlT3l6cENiWUxkZFlhWUs5cHJpY01wbnVpbW1mS0wyeGVnSVM2eUh5aGdTWkRNSldGY2RCanExemN1ci1fY08tNWp3U2s2bHhkcy14TGZBeUliM2JJTHJibVdUVXNLQmx5aTFXRF9ONG1YemFZV1Rtd0tDOTh3cEZtVWFCSGlGS1VtbnJWWXlqMzRhYml4X3Q0UEVwQWVaeWJCVEp3ZzR4UEs4VldFNDlDaTlKUElvRE05SU0?oc=5",
-    "date": "2026-10-27T09:56:36.000Z",
-    "source": "Daily Investor",
-    "score": 4
-   },
-   {
     "group": "Costs",
     "query": "load shedding restaurants South Africa",
-    "title": "#LGE2026 FACTSHEET: what the data tells us about electricity access in South Africa - Africa Check",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2duM2RXTzBCNXZ1MEt4UGI2R0JNY2F1Sl81OEVRLWl0WkFITnowY2NmMHpXOGdRZEE5STNPM3Z1LVNySVNjM29RWnlfUnNpeDVBWkhwVmltMEFuc1o1X3A3bUVadElOc3VTbXdQSFM1SmNWQ1dyVFhPUFdZQ3kxV2MyRVU1VlE2bWFmRWFJT0FrT2UtdG9MX3lnbHE0VkZxbHJNVkcxdjRzMWw1M2hONlNHcG1nVnB6ZUFjY19n?oc=5",
-    "date": "2026-10-14T07:00:00.000Z",
-    "source": "Africa Check",
-    "score": 4
+    "title": "Cyril Ramaphosa’s phone call to Adrian Gore that was the beginning of the end of load-shedding - Daily Investor",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTBBcmRVUjNEYVdXR2dwbDBfVWo2QlM4SkZocTF0ckxKTVlLU3oyQU1MSGtwbndwZkNsRjZCVzFVLWl4UkFOMWRHQW1LZTRrbWZudkxmWnBKVFRCRGd5U2huNXdwSGZPN1g5SHRkamRLTWRfRWIzemRFMTNsVzBsQndjVnNQVnN1SkYzMFA1cVhMYlJielh1QnhvYVd1TGdxTzV6dzlTd3Y3VzlpR1pjbWl3dWZrOEwwQmgzX2gxcDdtM2xLM0dFaDRUYmZOalk?oc=5",
+    "date": "2026-10-25T15:00:00.000Z",
+    "source": "Daily Investor",
+    "score": 3
    },
    {
     "group": "Dining and demand",
@@ -54,29 +45,38 @@
    },
    {
     "group": "Costs",
-    "query": "restaurant food prices South Africa OR food inflation South Africa",
-    "title": "The rural municipality with the lowest prices for groceries in South Africa - BusinessTech",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzFCcU1mQkFxNFEzYXNZcFZfRG9TYldpekt5cjJuTkhuekd0ZGN3d0ZHbTJDWXZaRHhzVkZQcVZyZ1dFemM2MUIwa25xUmRKMjUwblNtZ3o4elF6TDJhU3lWRkJ3SFo1anhtNHl6YnBqay1GaXMxX0RDbk5FdFlkWklDTVhNX1hEWEZRaGJVSExWQm1EV0kwOGdIN0NUVnRqc05FQ2ZrX1kxbjV0QUxxSGF1S3kzclNrRXBQXzdDVkRvbW8?oc=5",
-    "date": "2026-10-08T07:00:00.000Z",
+    "query": "electricity tariff increase restaurants South Africa",
+    "title": "Electricity Is Already Unaffordable – The Green Connection Rejects Another 8.83% Tariff Increase - Infrastructure News",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHFSQUowX3ltRGR2dXhJWE5lWHZVTldSOEkzRHdBVzVLM05rMFFicEpMYjBuMHN3N0N4b3VRN1lzaFJYVTRqTVFMMjY4dG9UdWl3S3V4ZnZoNDZZb2Y2akRLZGV0Vy11bmYxSFRhVjRFX3BtRzRjd05qZVIyY3c4RjYyb09MVWdaZFhVblAzM3hiQmxYSHNldHRxTTFocVpaTy1nemlNaUo1WXFRbmVyX0RBckFjMml0NkMtRXRQVzVLS0RjX2NRTmw3eVN3b21RdjZyaA?oc=5",
+    "date": "2026-10-19T07:05:42.000Z",
+    "source": "Infrastructure News",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Audit findings expose Tshwane’s electricity failures as outages persist - thenational.co.za",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWpOaWs1TFM3S05pSmJGdmtuREJ6RVRjTWpqY21mQWxJRjZIRlh1MDZJNUVIMVFSTzNxTVZXaFZmQjFsMHJIREkzU20zYWVpbmh4VnR0eUdmNzdlODVJR1V6X0hXNTJialJId1N1NlJJRC1HcTJaZmtaclo3bnRPQTlnb3NiMm1PVWt4YmtEY1gwMDR0WUhZbXg0SG1QQ0hWdXpMMzBvTjFqRUdsQUIxQ3hpaWY?oc=5",
+    "date": "2026-10-14T07:00:00.000Z",
+    "source": "thenational.co.za",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Eskom launching enough solar and batteries to cover 6 stages of load shedding in South Africa - BusinessTech",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU2JWQk05UlAtdExoS3pVT2IyekpGTy1XVnZPaGk5dnEwWXZLcjRkMGpSNkR0Q2F3NnJkaFUxbXMxUnNsZXdXZFROZWh4N21LQlIwaFhycC1SWWw0a3MyTzNFSjlYMnpRSzJZTkwyVHd5cVJoWW5jUy04UzZmSGwxZ3o3OVZvRUFoR1BlbDRQSmZDYzBtVjRBQ1RLaGNKc0dEQzdKbE56QWJYQTdBTUpSMzVTMWFLZmhpYmplTG1MTmZ3djdwWFhrQlIyMnc0WF9EbTBsYVV4Yw?oc=5",
+    "date": "2026-10-09T07:00:00.000Z",
     "source": "BusinessTech",
     "score": 3
    },
    {
     "group": "Costs",
-    "query": "electricity tariff increase restaurants South Africa",
-    "title": "Cheap on paper, costly at the till: what 1,1% food inflation really means - Farmer's Weekly SA",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcDhnSlpqWXhSSE01dGtWT3ZaME9BMC1lTWt4d2xETUdOYzBFTU1sRWtPOXJ1dG9OUHlBVWNzMTBveFFUSzNZZ3lZbFZ1WWVKdjBWaDBaU25nOHVFSmtlaVgzS3gtU0ZURFFSYzVUNTNDUzk4STZtTmVZWnd3YzlieVNsTWk5YU83ejhoMVZmUUtfY19HMXo3cGRobVp0TFRIZHFaQUNQd0RFbjlSVG1wQVhUUkswOU4ycDBWZDZYWUk5VG8?oc=5",
-    "date": "2026-10-07T07:00:00.000Z",
-    "source": "Farmer's Weekly SA",
-    "score": 3
-   },
-   {
-    "group": "Dining and demand",
-    "query": "Johannesburg restaurant bookings OR dining out trends",
-    "title": "Top 6 vegetarian and vegan restaurants in Joburg you need to try - Food & Home Magazine",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXppZ2lhR2JpVTNJTUtJcl96MU1vZ2JzUS05dHBqLUtKLVltOU1xQ2JOeC1weWszcU9nUmFuUlB4Y0lRQV92WWZsRU1jNTUtR09WbHhhTDI2QUdpUTBUSXpZMTZVNkFpRFBDQVRUMmhLUW4yWnEydzU3Ry1fekN4dUV2bnk1bTBVWVNibUZrLTE0Ync4NERQeld4QkNKVExvaGJzbWtn0gGuAUFVX3lxTFB2QlRqb09NZ2tjeFR0Tmk5YWRlN1otT2VMdjRFSEQ2TzkxU1FIQWI3S2paX3g4YUtTSW9xZWFpUlp3MDVQMEdpVmNtVGZTS2pQbTRxb0NSa2ZGaDQxZmE0YWNKV0RJaVBIbW82OWFLakgzekU5WmRqZXZOTkFXa3dIcG9IN0pLTXJVZXBiT3poZGtRVmJ2Zzk0eFFWSEdJYTRHeWJSSFZkRFo2VUVuQQ?oc=5",
-    "date": "2026-10-05T07:00:00.000Z",
-    "source": "Food & Home Magazine",
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "The rural municipality with the lowest prices for groceries in South Africa - BusinessTech",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzFCcU1mQkFxNFEzYXNZcFZfRG9TYldpekt5cjJuTkhuekd0ZGN3d0ZHbTJDWXZaRHhzVkZQcVZyZ1dFemM2MUIwa25xUmRKMjUwblNtZ3o4elF6TDJhU3lWRkJ3SFo1anhtNHl6YnBqay1GaXMxX0RDbk5FdFlkWklDTVhNX1hEWEZRaGJVSExWQm1EV0kwOGdIN0NUVnRqc05FQ2ZrX1kxbjV0QUxxSGF1S3kzclNrRXBQXzdDVkRvbW8?oc=5",
+    "date": "2026-10-08T07:00:00.000Z",
+    "source": "BusinessTech",
     "score": 3
    }
   ],
@@ -107,8 +107,8 @@
   {
    "theme": "Demand",
    "hook": "Fresh on the Joburg dining scene.",
-   "body": "Joburg is eating out again: \"New hotel with three restaurants and two bars opens at South Africa’s oldest working harbour\". Here is what we are serving this week. Ask us on WhatsApp for today's specials.",
-   "based_on": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM05vWDVkM1ZTUGxnMkZHaFJNSnJlT3l6cENiWUxkZFlhWUs5cHJpY01wbnVpbW1mS0wyeGVnSVM2eUh5aGdTWkRNSldGY2RCanExemN1ci1fY08tNWp3U2s2bHhkcy14TGZBeUliM2JJTHJibVdUVXNLQmx5aTFXRF9ONG1YemFZV1Rtd0tDOTh3cEZtVWFCSGlGS1VtbnJWWXlqMzRhYml4X3Q0UEVwQWVaeWJCVEp3ZzR4UEs4VldFNDlDaTlKUElvRE05SU0?oc=5",
+   "body": "Joburg is eating out again: \"Dinner for three, a blesser and his beauties, and a waiter holding it all together\". Here is what we are serving this week. Ask us on WhatsApp for today's specials.",
+   "based_on": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaVBCRUZoc19RVUotUmRKLVVhd0l1WUdzYVpWSmp4eVhYODQyZFZ1bjFDa3FKOTBsRzZ3cWtZbDEyYkZjT3prV3N4X2dNSHJ4SllNZkJyV1AxRk5vNTRuVloySGdrcDNCMlJoamJpc2dvYkhPbUIzQW1WTmc3WFN3MFRKRk5oaEdIRS0zYnF1Y29NMkx5dXE5SXNyazBGSFVMYXF0T3NrNzlIVGRaMUxfOE9GeDlONy1USl9nUGNMNTNGUFFQcXRPSmtQajNjcGxSTl9pWnFZeEoxRjIzR3RReg?oc=5",
    "channels": [
     "facebook",
     "instagram"
