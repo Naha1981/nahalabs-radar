@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-27T17:58:24.036Z",
+ "generated_at": "2026-10-27T22:10:54.069Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -19,11 +19,11 @@
    {
     "group": "Costs",
     "query": "load shedding restaurants South Africa",
-    "title": "Cyril Ramaphosa’s phone call to Adrian Gore that was the beginning of the end of load-shedding - Daily Investor",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTBBcmRVUjNEYVdXR2dwbDBfVWo2QlM4SkZocTF0ckxKTVlLU3oyQU1MSGtwbndwZkNsRjZCVzFVLWl4UkFOMWRHQW1LZTRrbWZudkxmWnBKVFRCRGd5U2huNXdwSGZPN1g5SHRkamRLTWRfRWIzemRFMTNsVzBsQndjVnNQVnN1SkYzMFA1cVhMYlJielh1QnhvYVd1TGdxTzV6dzlTd3Y3VzlpR1pjbWl3dWZrOEwwQmgzX2gxcDdtM2xLM0dFaDRUYmZOalk?oc=5",
-    "date": "2026-10-25T15:00:00.000Z",
+    "title": "New hotel with three restaurants and two bars opens at South Africa’s oldest working harbour - Daily Investor",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM05vWDVkM1ZTUGxnMkZHaFJNSnJlT3l6cENiWUxkZFlhWUs5cHJpY01wbnVpbW1mS0wyeGVnSVM2eUh5aGdTWkRNSldGY2RCanExemN1ci1fY08tNWp3U2s2bHhkcy14TGZBeUliM2JJTHJibVdUVXNLQmx5aTFXRF9ONG1YemFZV1Rtd0tDOTh3cEZtVWFCSGlGS1VtbnJWWXlqMzRhYml4X3Q0UEVwQWVaeWJCVEp3ZzR4UEs4VldFNDlDaTlKUElvRE05SU0?oc=5",
+    "date": "2026-10-27T09:56:36.000Z",
     "source": "Daily Investor",
-    "score": 3
+    "score": 4
    },
    {
     "group": "Dining and demand",
@@ -41,15 +41,6 @@
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNEo2YURpdGw3Wi1pdTh0dUlObzRrc3BzN0NvMHJSdTR2cXBZQjg1ZHlsWlh1RWlyRDRITktzajRKbTBqcnRJMWVKUzNha2tGeGI1UXhYel8zdmNvNzJfS1pLbjl2SDVoQ0Eta2FxVGgxQnpEZTh0cENmRDI?oc=5",
     "date": "2026-10-23T23:40:04.000Z",
     "source": "Phys.org",
-    "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "electricity tariff increase restaurants South Africa",
-    "title": "Electricity Is Already Unaffordable – The Green Connection Rejects Another 8.83% Tariff Increase - Infrastructure News",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHFSQUowX3ltRGR2dXhJWE5lWHZVTldSOEkzRHdBVzVLM05rMFFicEpMYjBuMHN3N0N4b3VRN1lzaFJYVTRqTVFMMjY4dG9UdWl3S3V4ZnZoNDZZb2Y2akRLZGV0Vy11bmYxSFRhVjRFX3BtRzRjd05qZVIyY3c4RjYyb09MVWdaZFhVblAzM3hiQmxYSHNldHRxTTFocVpaTy1nemlNaUo1WXFRbmVyX0RBckFjMml0NkMtRXRQVzVLS0RjX2NRTmw3eVN3b21RdjZyaA?oc=5",
-    "date": "2026-10-19T07:05:42.000Z",
-    "source": "Infrastructure News",
     "score": 3
    },
    {
@@ -77,6 +68,15 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzFCcU1mQkFxNFEzYXNZcFZfRG9TYldpekt5cjJuTkhuekd0ZGN3d0ZHbTJDWXZaRHhzVkZQcVZyZ1dFemM2MUIwa25xUmRKMjUwblNtZ3o4elF6TDJhU3lWRkJ3SFo1anhtNHl6YnBqay1GaXMxX0RDbk5FdFlkWklDTVhNX1hEWEZRaGJVSExWQm1EV0kwOGdIN0NUVnRqc05FQ2ZrX1kxbjV0QUxxSGF1S3kzclNrRXBQXzdDVkRvbW8?oc=5",
     "date": "2026-10-08T07:00:00.000Z",
     "source": "BusinessTech",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "electricity tariff increase restaurants South Africa",
+    "title": "Cheap on paper, costly at the till: what 1,1% food inflation really means - Farmer's Weekly SA",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcDhnSlpqWXhSSE01dGtWT3ZaME9BMC1lTWt4d2xETUdOYzBFTU1sRWtPOXJ1dG9OUHlBVWNzMTBveFFUSzNZZ3lZbFZ1WWVKdjBWaDBaU25nOHVFSmtlaVgzS3gtU0ZURFFSYzVUNTNDUzk4STZtTmVZWnd3YzlieVNsTWk5YU83ejhoMVZmUUtfY19HMXo3cGRobVp0TFRIZHFaQUNQd0RFbjlSVG1wQVhUUkswOU4ycDBWZDZYWUk5VG8?oc=5",
+    "date": "2026-10-07T07:00:00.000Z",
+    "source": "Farmer's Weekly SA",
     "score": 3
    }
   ],
