@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-26T22:38:25.077Z",
+ "generated_at": "2026-10-27T04:59:55.575Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -45,20 +45,29 @@
    },
    {
     "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Audit findings expose Tshwane’s electricity failures as outages persist - thenational.co.za",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWpOaWs1TFM3S05pSmJGdmtuREJ6RVRjTWpqY21mQWxJRjZIRlh1MDZJNUVIMVFSTzNxTVZXaFZmQjFsMHJIREkzU20zYWVpbmh4VnR0eUdmNzdlODVJR1V6X0hXNTJialJId1N1NlJJRC1HcTJaZmtaclo3bnRPQTlnb3NiMm1PVWt4YmtEY1gwMDR0WUhZbXg0SG1QQ0hWdXpMMzBvTjFqRUdsQUIxQ3hpaWY?oc=5",
+    "date": "2026-10-14T07:00:00.000Z",
+    "source": "thenational.co.za",
+    "score": 3
+   },
+   {
+    "group": "Costs",
     "query": "electricity tariff increase restaurants South Africa",
-    "title": "Electricity Is Already Unaffordable – The Green Connection Rejects Another 8.83% Tariff Increase - Infrastructure News",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHFSQUowX3ltRGR2dXhJWE5lWHZVTldSOEkzRHdBVzVLM05rMFFicEpMYjBuMHN3N0N4b3VRN1lzaFJYVTRqTVFMMjY4dG9UdWl3S3V4ZnZoNDZZb2Y2akRLZGV0Vy11bmYxSFRhVjRFX3BtRzRjd05qZVIyY3c4RjYyb09MVWdaZFhVblAzM3hiQmxYSHNldHRxTTFocVpaTy1nemlNaUo1WXFRbmVyX0RBckFjMml0NkMtRXRQVzVLS0RjX2NRTmw3eVN3b21RdjZyaA?oc=5",
-    "date": "2026-10-19T07:05:42.000Z",
-    "source": "Infrastructure News",
+    "title": "Brace for yet another electricity hike - Mail & Guardian",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjVxTVBhZFd5WUw3SjRLZmtsd0RBNGdxWUg4UGlST1BWLXgwM1VqRWk1bTlydzc3dWlOQ0JUSUpNbnctZERlQTlrWDIzT3VFa0pQdEV3THlScE1XUE5OMHQ0TnVSNkhSLTVNSThDOXVjeUlfbUxpUGxoSWtFMmFFeDhQejd4RHBaN1F6S2dR?oc=5",
+    "date": "2026-10-13T07:00:00.000Z",
+    "source": "Mail & Guardian",
     "score": 3
    },
    {
     "group": "Costs",
     "query": "load shedding restaurants South Africa",
-    "title": "Brace for yet another electricity hike - Mail & Guardian",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjVxTVBhZFd5WUw3SjRLZmtsd0RBNGdxWUg4UGlST1BWLXgwM1VqRWk1bTlydzc3dWlOQ0JUSUpNbnctZERlQTlrWDIzT3VFa0pQdEV3THlScE1XUE5OMHQ0TnVSNkhSLTVNSThDOXVjeUlfbUxpUGxoSWtFMmFFeDhQejd4RHBaN1F6S2dR?oc=5",
-    "date": "2026-10-13T07:00:00.000Z",
-    "source": "Mail & Guardian",
+    "title": "Eskom launching enough solar and batteries to cover 6 stages of load shedding in South Africa - BusinessTech",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU2JWQk05UlAtdExoS3pVT2IyekpGTy1XVnZPaGk5dnEwWXZLcjRkMGpSNkR0Q2F3NnJkaFUxbXMxUnNsZXdXZFROZWh4N21LQlIwaFhycC1SWWw0a3MyTzNFSjlYMnpRSzJZTkwyVHd5cVJoWW5jUy04UzZmSGwxZ3o3OVZvRUFoR1BlbDRQSmZDYzBtVjRBQ1RLaGNKc0dEQzdKbE56QWJYQTdBTUpSMzVTMWFLZmhpYmplTG1MTmZ3djdwWFhrQlIyMnc0WF9EbTBsYVV4Yw?oc=5",
+    "date": "2026-10-09T07:00:00.000Z",
+    "source": "BusinessTech",
     "score": 3
    },
    {
@@ -68,15 +77,6 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzFCcU1mQkFxNFEzYXNZcFZfRG9TYldpekt5cjJuTkhuekd0ZGN3d0ZHbTJDWXZaRHhzVkZQcVZyZ1dFemM2MUIwa25xUmRKMjUwblNtZ3o4elF6TDJhU3lWRkJ3SFo1anhtNHl6YnBqay1GaXMxX0RDbk5FdFlkWklDTVhNX1hEWEZRaGJVSExWQm1EV0kwOGdIN0NUVnRqc05FQ2ZrX1kxbjV0QUxxSGF1S3kzclNrRXBQXzdDVkRvbW8?oc=5",
     "date": "2026-10-08T07:00:00.000Z",
     "source": "BusinessTech",
-    "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "electricity tariff increase restaurants South Africa",
-    "title": "Cheap on paper, costly at the till: what 1,1% food inflation really means - Farmer's Weekly SA",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcDhnSlpqWXhSSE01dGtWT3ZaME9BMC1lTWt4d2xETUdOYzBFTU1sRWtPOXJ1dG9OUHlBVWNzMTBveFFUSzNZZ3lZbFZ1WWVKdjBWaDBaU25nOHVFSmtlaVgzS3gtU0ZURFFSYzVUNTNDUzk4STZtTmVZWnd3YzlieVNsTWk5YU83ejhoMVZmUUtfY19HMXo3cGRobVp0TFRIZHFaQUNQd0RFbjlSVG1wQVhUUkswOU4ycDBWZDZYWUk5VG8?oc=5",
-    "date": "2026-10-07T07:00:00.000Z",
-    "source": "Farmer's Weekly SA",
     "score": 3
    }
   ],
