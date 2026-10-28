@@ -2,18 +2,18 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-28T05:37:52.599Z",
+ "generated_at": "2026-10-28T12:49:02.579Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
    {
     "group": "Costs",
-    "query": "load shedding restaurants South Africa",
-    "title": "#LGE2026 FACTSHEET: what the data tells us about electricity access in South Africa - Africa Check",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2duM2RXTzBCNXZ1MEt4UGI2R0JNY2F1Sl81OEVRLWl0WkFITnowY2NmMHpXOGdRZEE5STNPM3Z1LVNySVNjM29RWnlfUnNpeDVBWkhwVmltMEFuc1o1X3A3bUVadElOc3VTbXdQSFM1SmNWQ1dyVFhPUFdZQ3kxV2MyRVU1VlE2bWFmRWFJT0FrT2UtdG9MX3lnbHE0VkZxbHJNVkcxdjRzMWw1M2hONlNHcG1nVnB6ZUFjY19n?oc=5",
-    "date": "2026-10-14T07:00:00.000Z",
-    "source": "Africa Check",
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "Cut the meat, keep the feast: Smart SA Christmas tips - thenational.co.za",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGV0aHlIVkJzcGRkcUs1R0RvSHBCdTNTc0xJSVNOMl9Mamowc2pRWVlmZE5ua2MxRjR6TUkwRjVQQWxWWjJhX3pFNGw0MFdHTi03ZHFnXzRFX2gtTWRVLTJ4YWlRc1FWZDdZbWV0TUNpa1kta0Z1c0hwQXJRVHllTE4tYy0zc0NyZzBXRXFGZzNaX3NrU3p1Uy1TMU9yaVdI?oc=5",
+    "date": "2026-10-27T10:00:00.000Z",
+    "source": "thenational.co.za",
     "score": 4
    },
    {
@@ -54,11 +54,11 @@
    },
    {
     "group": "Costs",
-    "query": "electricity tariff increase restaurants South Africa",
-    "title": "Electricity Is Already Unaffordable – The Green Connection Rejects Another 8.83% Tariff Increase - Infrastructure News",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHFSQUowX3ltRGR2dXhJWE5lWHZVTldSOEkzRHdBVzVLM05rMFFicEpMYjBuMHN3N0N4b3VRN1lzaFJYVTRqTVFMMjY4dG9UdWl3S3V4ZnZoNDZZb2Y2akRLZGV0Vy11bmYxSFRhVjRFX3BtRzRjd05qZVIyY3c4RjYyb09MVWdaZFhVblAzM3hiQmxYSHNldHRxTTFocVpaTy1nemlNaUo1WXFRbmVyX0RBckFjMml0NkMtRXRQVzVLS0RjX2NRTmw3eVN3b21RdjZyaA?oc=5",
-    "date": "2026-10-19T07:05:42.000Z",
-    "source": "Infrastructure News",
+    "query": "load shedding restaurants South Africa",
+    "title": "Eskom launching enough solar and batteries to cover 6 stages of load shedding in South Africa - BusinessTech",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU2JWQk05UlAtdExoS3pVT2IyekpGTy1XVnZPaGk5dnEwWXZLcjRkMGpSNkR0Q2F3NnJkaFUxbXMxUnNsZXdXZFROZWh4N21LQlIwaFhycC1SWWw0a3MyTzNFSjlYMnpRSzJZTkwyVHd5cVJoWW5jUy04UzZmSGwxZ3o3OVZvRUFoR1BlbDRQSmZDYzBtVjRBQ1RLaGNKc0dEQzdKbE56QWJYQTdBTUpSMzVTMWFLZmhpYmplTG1MTmZ3djdwWFhrQlIyMnc0WF9EbTBsYVV4Yw?oc=5",
+    "date": "2026-10-09T07:00:00.000Z",
+    "source": "BusinessTech",
     "score": 3
    },
    {
@@ -96,8 +96,8 @@
   {
    "theme": "Costs",
    "hook": "Prices are moving, here is how we keep your plate fair.",
-   "body": "You have seen the headlines: \"#LGE2026 FACTSHEET: what the data tells us about electricity access in South Africa\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
-   "based_on": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2duM2RXTzBCNXZ1MEt4UGI2R0JNY2F1Sl81OEVRLWl0WkFITnowY2NmMHpXOGdRZEE5STNPM3Z1LVNySVNjM29RWnlfUnNpeDVBWkhwVmltMEFuc1o1X3A3bUVadElOc3VTbXdQSFM1SmNWQ1dyVFhPUFdZQ3kxV2MyRVU1VlE2bWFmRWFJT0FrT2UtdG9MX3lnbHE0VkZxbHJNVkcxdjRzMWw1M2hONlNHcG1nVnB6ZUFjY19n?oc=5",
+   "body": "You have seen the headlines: \"Cut the meat, keep the feast: Smart SA Christmas tips\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
+   "based_on": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGV0aHlIVkJzcGRkcUs1R0RvSHBCdTNTc0xJSVNOMl9Mamowc2pRWVlmZE5ua2MxRjR6TUkwRjVQQWxWWjJhX3pFNGw0MFdHTi03ZHFnXzRFX2gtTWRVLTJ4YWlRc1FWZDdZbWV0TUNpa1kta0Z1c0hwQXJRVHllTE4tYy0zc0NyZzBXRXFGZzNaX3NrU3p1Uy1TMU9yaVdI?oc=5",
    "channels": [
     "facebook",
     "instagram"

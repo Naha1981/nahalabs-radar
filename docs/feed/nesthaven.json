@@ -2,7 +2,7 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-10-28T05:37:54.869Z",
+ "generated_at": "2026-10-28T12:49:05.290Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -17,8 +17,8 @@
     "score": 4
    },
    {
-    "group": "Demand",
-    "query": "first time home buyers South Africa OR property demand Gauteng",
+    "group": "Costs",
+    "query": "property transfer costs South Africa OR conveyancing fees",
     "title": "South Africa’s housing market shows resilience, but first-time buyers retreat - thenational.co.za",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWTlVWjNUX3gtQU5BZFhNMTZpa2JieDRRQ3ItV0dkbF8yVzNpcjB1RGtFV2dfNGg3RjQ3aGJSSy1Nc0RjSTFDLWhsMjlXZXVjN0lDUUU1eTdvbVU5c3Z1d1ZCVnZSdU1kOFU4S1dYY0ZlaHltX0hzT0hnZ2tNdFV2ZmJMdENkZVd3eUVpekh5bkM4c285eDVrYWtpcTRzN0RpWG1TdFVBMHJIMGxWZ3RLLXBzeGxaWW1MQlpv?oc=5",
     "date": "2026-10-27T03:00:00.000Z",
@@ -66,7 +66,7 @@
     "query": "semigration Gauteng property OR estate living Johannesburg",
     "title": "LIVE | 'A crime is still a crime' - IMC on Migration condemns violence and damage to property, businesses - IOL",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM3duQ1RYZThkcHdaSVhfT29HUkwteGRiNFZuVDVWR213Z1o2SUFYQTl4M3F1MUxZclBwdlZKcnZTQzd3czBodWd6NXp5TnE5d2JlVWl1QjNndHBSc2VFZVlhY1JhOFdpaHJDSzJWcFNRVW5ScjYzNzNrZkpIY1U3WmpvM2U2SWdVNF83Y3NZbXAwNlpNc2FmeEYzVENaZm0zODdfZExJYVFtMmphQ05scHJRNzV0SkFrUldxbVY0dk5JMVJwdndvV3dEd3VJS3dGejB2YXl1VzBjVExj?oc=5",
-    "date": "2026-10-28T02:33:12.000Z",
+    "date": "2026-10-28T09:17:12.000Z",
     "source": "IOL",
     "score": 3
    },
