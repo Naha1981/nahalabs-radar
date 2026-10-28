@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-28T12:49:02.579Z",
+ "generated_at": "2026-10-28T22:32:26.782Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -10,10 +10,10 @@
    {
     "group": "Costs",
     "query": "restaurant food prices South Africa OR food inflation South Africa",
-    "title": "Cut the meat, keep the feast: Smart SA Christmas tips - thenational.co.za",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGV0aHlIVkJzcGRkcUs1R0RvSHBCdTNTc0xJSVNOMl9Mamowc2pRWVlmZE5ua2MxRjR6TUkwRjVQQWxWWjJhX3pFNGw0MFdHTi03ZHFnXzRFX2gtTWRVLTJ4YWlRc1FWZDdZbWV0TUNpa1kta0Z1c0hwQXJRVHllTE4tYy0zc0NyZzBXRXFGZzNaX3NrU3p1Uy1TMU9yaVdI?oc=5",
-    "date": "2026-10-27T10:00:00.000Z",
-    "source": "thenational.co.za",
+    "title": "Popular dinner staple surges as South Africa food inflation slows - SAPeople",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa1VPS0pLVW1ZYlR2ME03MEhMamxiX3F5RlUxTDUtbTFJWlFHRk9nb2dyNFhZNmNVTG02YnBtckV6ekxnYWJITUozaGp0VENnamtpZ01KQVVZRXNpMmI3dDZYcjFreWdwRjRwd3dlWVZhNTNrZHJyWmpReVVxbWhvdVdkUDJaQkZjaEdiZGNKcmZnLTloM3A4MWp2T3dFLTJaZ1U3S0UzQ0RhZ0h4dzhuMnZHQVF6UG5GTmtxWU9R?oc=5",
+    "date": "2026-10-21T08:37:16.000Z",
+    "source": "SAPeople",
     "score": 4
    },
    {
@@ -46,15 +46,6 @@
    {
     "group": "Costs",
     "query": "load shedding restaurants South Africa",
-    "title": "Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades - Phys.org",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNEo2YURpdGw3Wi1pdTh0dUlObzRrc3BzN0NvMHJSdTR2cXBZQjg1ZHlsWlh1RWlyRDRITktzajRKbTBqcnRJMWVKUzNha2tGeGI1UXhYel8zdmNvNzJfS1pLbjl2SDVoQ0Eta2FxVGgxQnpEZTh0cENmRDI?oc=5",
-    "date": "2026-10-23T23:40:04.000Z",
-    "source": "Phys.org",
-    "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "load shedding restaurants South Africa",
     "title": "Eskom launching enough solar and batteries to cover 6 stages of load shedding in South Africa - BusinessTech",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU2JWQk05UlAtdExoS3pVT2IyekpGTy1XVnZPaGk5dnEwWXZLcjRkMGpSNkR0Q2F3NnJkaFUxbXMxUnNsZXdXZFROZWh4N21LQlIwaFhycC1SWWw0a3MyTzNFSjlYMnpRSzJZTkwyVHd5cVJoWW5jUy04UzZmSGwxZ3o3OVZvRUFoR1BlbDRQSmZDYzBtVjRBQ1RLaGNKc0dEQzdKbE56QWJYQTdBTUpSMzVTMWFLZmhpYmplTG1MTmZ3djdwWFhrQlIyMnc0WF9EbTBsYVV4Yw?oc=5",
     "date": "2026-10-09T07:00:00.000Z",
@@ -78,6 +69,15 @@
     "date": "2026-10-07T07:00:00.000Z",
     "source": "Farmer's Weekly SA",
     "score": 3
+   },
+   {
+    "group": "Dining and demand",
+    "query": "Johannesburg restaurant bookings OR dining out trends",
+    "title": "Top 6 vegetarian and vegan restaurants in Joburg you need to try - Food & Home Magazine",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXppZ2lhR2JpVTNJTUtJcl96MU1vZ2JzUS05dHBqLUtKLVltOU1xQ2JOeC1weWszcU9nUmFuUlB4Y0lRQV92WWZsRU1jNTUtR09WbHhhTDI2QUdpUTBUSXpZMTZVNkFpRFBDQVRUMmhLUW4yWnEydzU3Ry1fekN4dUV2bnk1bTBVWVNibUZrLTE0Ync4NERQeld4QkNKVExvaGJzbWtn0gGuAUFVX3lxTFB2QlRqb09NZ2tjeFR0Tmk5YWRlN1otT2VMdjRFSEQ2TzkxU1FIQWI3S2paX3g4YUtTSW9xZWFpUlp3MDVQMEdpVmNtVGZTS2pQbTRxb0NSa2ZGaDQxZmE0YWNKV0RJaVBIbW82OWFLakgzekU5WmRqZXZOTkFXa3dIcG9IN0pLTXJVZXBiT3poZGtRVmJ2Zzk0eFFWSEdJYTRHeWJSSFZkRFo2VUVuQQ?oc=5",
+    "date": "2026-10-05T07:00:00.000Z",
+    "source": "Food & Home Magazine",
+    "score": 3
    }
   ],
   "errors": []
@@ -96,8 +96,8 @@
   {
    "theme": "Costs",
    "hook": "Prices are moving, here is how we keep your plate fair.",
-   "body": "You have seen the headlines: \"Cut the meat, keep the feast: Smart SA Christmas tips\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
-   "based_on": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGV0aHlIVkJzcGRkcUs1R0RvSHBCdTNTc0xJSVNOMl9Mamowc2pRWVlmZE5ua2MxRjR6TUkwRjVQQWxWWjJhX3pFNGw0MFdHTi03ZHFnXzRFX2gtTWRVLTJ4YWlRc1FWZDdZbWV0TUNpa1kta0Z1c0hwQXJRVHllTE4tYy0zc0NyZzBXRXFGZzNaX3NrU3p1Uy1TMU9yaVdI?oc=5",
+   "body": "You have seen the headlines: \"Popular dinner staple surges as South Africa food inflation slows\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
+   "based_on": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa1VPS0pLVW1ZYlR2ME03MEhMamxiX3F5RlUxTDUtbTFJWlFHRk9nb2dyNFhZNmNVTG02YnBtckV6ekxnYWJITUozaGp0VENnamtpZ01KQVVZRXNpMmI3dDZYcjFreWdwRjRwd3dlWVZhNTNrZHJyWmpReVVxbWhvdVdkUDJaQkZjaEdiZGNKcmZnLTloM3A4MWp2T3dFLTJaZ1U3S0UzQ0RhZ0h4dzhuMnZHQVF6UG5GTmtxWU9R?oc=5",
    "channels": [
     "facebook",
     "instagram"
