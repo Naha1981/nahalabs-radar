@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-29T05:44:26.457Z",
+ "generated_at": "2026-10-29T12:56:15.413Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -26,15 +26,6 @@
     "score": 3
    },
    {
-    "group": "Costs",
-    "query": "load shedding restaurants South Africa",
-    "title": "Cyril Ramaphosa’s phone call to Adrian Gore that was the beginning of the end of load-shedding - Daily Investor",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTBBcmRVUjNEYVdXR2dwbDBfVWo2QlM4SkZocTF0ckxKTVlLU3oyQU1MSGtwbndwZkNsRjZCVzFVLWl4UkFOMWRHQW1LZTRrbWZudkxmWnBKVFRCRGd5U2huNXdwSGZPN1g5SHRkamRLTWRfRWIzemRFMTNsVzBsQndjVnNQVnN1SkYzMFA1cVhMYlJielh1QnhvYVd1TGdxTzV6dzlTd3Y3VzlpR1pjbWl3dWZrOEwwQmgzX2gxcDdtM2xLM0dFaDRUYmZOalk?oc=5",
-    "date": "2026-10-25T15:00:00.000Z",
-    "source": "Daily Investor",
-    "score": 3
-   },
-   {
     "group": "Dining and demand",
     "query": "Johannesburg restaurant bookings OR dining out trends",
     "title": "Dinner for three, a blesser and his beauties, and a waiter holding it all together - News24",
@@ -48,7 +39,7 @@
     "query": "restaurant food prices South Africa OR food inflation South Africa",
     "title": "Bargaining agreement will put many small restaurants ‘out of business’ - Moneyweb",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOFlSamJhSWtzeWZWekJGOTBNX2M0WGRNWGNMQVVwRjB4bDJfVjU5MW5sZ2JhbmZFdVR2aGhkdjJPdkxtRlpYNk9tMEFWd3d1RHNWbDZVZTlYamF6eS1nVHJFbGxDN1hCU3Q0ZUJGUXRKWEN2TzlLbXZGenZydG5ZQ2hnWmVHbFNYaFBTZ2pWbEhWMjQ4ZW1ZVU1ubEdwbVVLM0FHR2N5eVJlaDg5eVE?oc=5",
-    "date": "2026-10-21T02:06:55.000Z",
+    "date": "2026-10-21T07:00:00.000Z",
     "source": "Moneyweb",
     "score": 3
    },
@@ -77,6 +68,15 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzFCcU1mQkFxNFEzYXNZcFZfRG9TYldpekt5cjJuTkhuekd0ZGN3d0ZHbTJDWXZaRHhzVkZQcVZyZ1dFemM2MUIwa25xUmRKMjUwblNtZ3o4elF6TDJhU3lWRkJ3SFo1anhtNHl6YnBqay1GaXMxX0RDbk5FdFlkWklDTVhNX1hEWEZRaGJVSExWQm1EV0kwOGdIN0NUVnRqc05FQ2ZrX1kxbjV0QUxxSGF1S3kzclNrRXBQXzdDVkRvbW8?oc=5",
     "date": "2026-10-08T07:00:00.000Z",
     "source": "BusinessTech",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "electricity tariff increase restaurants South Africa",
+    "title": "Cheap on paper, costly at the till: what 1,1% food inflation really means - Farmer's Weekly SA",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcDhnSlpqWXhSSE01dGtWT3ZaME9BMC1lTWt4d2xETUdOYzBFTU1sRWtPOXJ1dG9OUHlBVWNzMTBveFFUSzNZZ3lZbFZ1WWVKdjBWaDBaU25nOHVFSmtlaVgzS3gtU0ZURFFSYzVUNTNDUzk4STZtTmVZWnd3YzlieVNsTWk5YU83ejhoMVZmUUtfY19HMXo3cGRobVp0TFRIZHFaQUNQd0RFbjlSVG1wQVhUUkswOU4ycDBWZDZYWUk5VG8?oc=5",
+    "date": "2026-10-07T07:00:00.000Z",
+    "source": "Farmer's Weekly SA",
     "score": 3
    }
   ],
