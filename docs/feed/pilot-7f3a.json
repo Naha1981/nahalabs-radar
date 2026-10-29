@@ -2,20 +2,11 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-29T12:56:15.413Z",
+ "generated_at": "2026-10-29T22:43:13.845Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
-   {
-    "group": "Costs",
-    "query": "restaurant food prices South Africa OR food inflation South Africa",
-    "title": "Popular dinner staple surges as South Africa food inflation slows - SAPeople",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa1VPS0pLVW1ZYlR2ME03MEhMamxiX3F5RlUxTDUtbTFJWlFHRk9nb2dyNFhZNmNVTG02YnBtckV6ekxnYWJITUozaGp0VENnamtpZ01KQVVZRXNpMmI3dDZYcjFreWdwRjRwd3dlWVZhNTNrZHJyWmpReVVxbWhvdVdkUDJaQkZjaEdiZGNKcmZnLTloM3A4MWp2T3dFLTJaZ1U3S0UzQ0RhZ0h4dzhuMnZHQVF6UG5GTmtxWU9R?oc=5",
-    "date": "2026-10-21T08:37:16.000Z",
-    "source": "SAPeople",
-    "score": 4
-   },
    {
     "group": "Dining and demand",
     "query": "Johannesburg restaurant bookings OR dining out trends",
@@ -26,12 +17,30 @@
     "score": 3
    },
    {
+    "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Cyril Ramaphosa’s phone call to Adrian Gore that was the beginning of the end of load-shedding - Daily Investor",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTBBcmRVUjNEYVdXR2dwbDBfVWo2QlM4SkZocTF0ckxKTVlLU3oyQU1MSGtwbndwZkNsRjZCVzFVLWl4UkFOMWRHQW1LZTRrbWZudkxmWnBKVFRCRGd5U2huNXdwSGZPN1g5SHRkamRLTWRfRWIzemRFMTNsVzBsQndjVnNQVnN1SkYzMFA1cVhMYlJielh1QnhvYVd1TGdxTzV6dzlTd3Y3VzlpR1pjbWl3dWZrOEwwQmgzX2gxcDdtM2xLM0dFaDRUYmZOalk?oc=5",
+    "date": "2026-10-25T15:00:00.000Z",
+    "source": "Daily Investor",
+    "score": 3
+   },
+   {
     "group": "Dining and demand",
     "query": "Johannesburg restaurant bookings OR dining out trends",
     "title": "Dinner for three, a blesser and his beauties, and a waiter holding it all together - News24",
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaVBCRUZoc19RVUotUmRKLVVhd0l1WUdzYVpWSmp4eVhYODQyZFZ1bjFDa3FKOTBsRzZ3cWtZbDEyYkZjT3prV3N4X2dNSHJ4SllNZkJyV1AxRk5vNTRuVloySGdrcDNCMlJoamJpc2dvYkhPbUIzQW1WTmc3WFN3MFRKRk5oaEdIRS0zYnF1Y29NMkx5dXE5SXNyazBGSFVMYXF0T3NrNzlIVGRaMUxfOE9GeDlONy1USl9nUGNMNTNGUFFQcXRPSmtQajNjcGxSTl9pWnFZeEoxRjIzR3RReg?oc=5",
     "date": "2026-10-24T03:25:03.000Z",
     "source": "News24",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades - Phys.org",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNEo2YURpdGw3Wi1pdTh0dUlObzRrc3BzN0NvMHJSdTR2cXBZQjg1ZHlsWlh1RWlyRDRITktzajRKbTBqcnRJMWVKUzNha2tGeGI1UXhYel8zdmNvNzJfS1pLbjl2SDVoQ0Eta2FxVGgxQnpEZTh0cENmRDI?oc=5",
+    "date": "2026-10-23T23:40:04.000Z",
+    "source": "Phys.org",
     "score": 3
    },
    {
@@ -55,10 +64,10 @@
    {
     "group": "Costs",
     "query": "load shedding restaurants South Africa",
-    "title": "#LGE2026 FACTSHEET: what the data tells us about electricity access in South Africa - Africa Check",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2duM2RXTzBCNXZ1MEt4UGI2R0JNY2F1Sl81OEVRLWl0WkFITnowY2NmMHpXOGdRZEE5STNPM3Z1LVNySVNjM29RWnlfUnNpeDVBWkhwVmltMEFuc1o1X3A3bUVadElOc3VTbXdQSFM1SmNWQ1dyVFhPUFdZQ3kxV2MyRVU1VlE2bWFmRWFJT0FrT2UtdG9MX3lnbHE0VkZxbHJNVkcxdjRzMWw1M2hONlNHcG1nVnB6ZUFjY19n?oc=5",
-    "date": "2026-10-14T07:00:00.000Z",
-    "source": "Africa Check",
+    "title": "Eskom launching enough solar and batteries to cover 6 stages of load shedding in South Africa - BusinessTech",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU2JWQk05UlAtdExoS3pVT2IyekpGTy1XVnZPaGk5dnEwWXZLcjRkMGpSNkR0Q2F3NnJkaFUxbXMxUnNsZXdXZFROZWh4N21LQlIwaFhycC1SWWw0a3MyTzNFSjlYMnpRSzJZTkwyVHd5cVJoWW5jUy04UzZmSGwxZ3o3OVZvRUFoR1BlbDRQSmZDYzBtVjRBQ1RLaGNKc0dEQzdKbE56QWJYQTdBTUpSMzVTMWFLZmhpYmplTG1MTmZ3djdwWFhrQlIyMnc0WF9EbTBsYVV4Yw?oc=5",
+    "date": "2026-10-09T07:00:00.000Z",
+    "source": "BusinessTech",
     "score": 3
    },
    {
@@ -68,15 +77,6 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzFCcU1mQkFxNFEzYXNZcFZfRG9TYldpekt5cjJuTkhuekd0ZGN3d0ZHbTJDWXZaRHhzVkZQcVZyZ1dFemM2MUIwa25xUmRKMjUwblNtZ3o4elF6TDJhU3lWRkJ3SFo1anhtNHl6YnBqay1GaXMxX0RDbk5FdFlkWklDTVhNX1hEWEZRaGJVSExWQm1EV0kwOGdIN0NUVnRqc05FQ2ZrX1kxbjV0QUxxSGF1S3kzclNrRXBQXzdDVkRvbW8?oc=5",
     "date": "2026-10-08T07:00:00.000Z",
     "source": "BusinessTech",
-    "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "electricity tariff increase restaurants South Africa",
-    "title": "Cheap on paper, costly at the till: what 1,1% food inflation really means - Farmer's Weekly SA",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcDhnSlpqWXhSSE01dGtWT3ZaME9BMC1lTWt4d2xETUdOYzBFTU1sRWtPOXJ1dG9OUHlBVWNzMTBveFFUSzNZZ3lZbFZ1WWVKdjBWaDBaU25nOHVFSmtlaVgzS3gtU0ZURFFSYzVUNTNDUzk4STZtTmVZWnd3YzlieVNsTWk5YU83ejhoMVZmUUtfY19HMXo3cGRobVp0TFRIZHFaQUNQd0RFbjlSVG1wQVhUUkswOU4ycDBWZDZYWUk5VG8?oc=5",
-    "date": "2026-10-07T07:00:00.000Z",
-    "source": "Farmer's Weekly SA",
     "score": 3
    }
   ],
@@ -96,8 +96,8 @@
   {
    "theme": "Costs",
    "hook": "Prices are moving, here is how we keep your plate fair.",
-   "body": "You have seen the headlines: \"Popular dinner staple surges as South Africa food inflation slows\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
-   "based_on": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa1VPS0pLVW1ZYlR2ME03MEhMamxiX3F5RlUxTDUtbTFJWlFHRk9nb2dyNFhZNmNVTG02YnBtckV6ekxnYWJITUozaGp0VENnamtpZ01KQVVZRXNpMmI3dDZYcjFreWdwRjRwd3dlWVZhNTNrZHJyWmpReVVxbWhvdVdkUDJaQkZjaEdiZGNKcmZnLTloM3A4MWp2T3dFLTJaZ1U3S0UzQ0RhZ0h4dzhuMnZHQVF6UG5GTmtxWU9R?oc=5",
+   "body": "You have seen the headlines: \"Cyril Ramaphosa’s phone call to Adrian Gore that was the beginning of the end of load-shedding\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
+   "based_on": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTBBcmRVUjNEYVdXR2dwbDBfVWo2QlM4SkZocTF0ckxKTVlLU3oyQU1MSGtwbndwZkNsRjZCVzFVLWl4UkFOMWRHQW1LZTRrbWZudkxmWnBKVFRCRGd5U2huNXdwSGZPN1g5SHRkamRLTWRfRWIzemRFMTNsVzBsQndjVnNQVnN1SkYzMFA1cVhMYlJielh1QnhvYVd1TGdxTzV6dzlTd3Y3VzlpR1pjbWl3dWZrOEwwQmgzX2gxcDdtM2xLM0dFaDRUYmZOalk?oc=5",
    "channels": [
     "facebook",
     "instagram"
