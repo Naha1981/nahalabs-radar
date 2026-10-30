@@ -2,11 +2,20 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-30T05:43:47.703Z",
+ "generated_at": "2026-10-30T12:50:12.613Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
+   {
+    "group": "Events and seasons",
+    "query": "Johannesburg events this month",
+    "title": "South Africa weekend events: What to do from 16-18 October - SAPeople",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaDlhN25uUTRXbFJHQ0FfZ24ycFRFZ2h1VHdzQ0R6c08wbGUzMnltWWk3eHRFemJSS0FJSjZWMGEwS2Uwc2cyQWhvMF9rczljTnBjU0NVYmJrYzVJMXVxU1hVQWhuYnRJLUpMZHB0aE5mQnlEcTh3aGtNSUVEcjhrVG9Tbk5KUFhrMnc?oc=5",
+    "date": "2026-10-18T07:00:00.000Z",
+    "source": "SAPeople",
+    "score": 4
+   },
    {
     "group": "Dining and demand",
     "query": "Johannesburg restaurant bookings OR dining out trends",
@@ -36,15 +45,6 @@
    },
    {
     "group": "Costs",
-    "query": "load shedding restaurants South Africa",
-    "title": "Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades - Phys.org",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNEo2YURpdGw3Wi1pdTh0dUlObzRrc3BzN0NvMHJSdTR2cXBZQjg1ZHlsWlh1RWlyRDRITktzajRKbTBqcnRJMWVKUzNha2tGeGI1UXhYel8zdmNvNzJfS1pLbjl2SDVoQ0Eta2FxVGgxQnpEZTh0cENmRDI?oc=5",
-    "date": "2026-10-23T23:40:04.000Z",
-    "source": "Phys.org",
-    "score": 3
-   },
-   {
-    "group": "Costs",
     "query": "restaurant food prices South Africa OR food inflation South Africa",
     "title": "Bargaining agreement will put many small restaurants ‘out of business’ - Moneyweb",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOFlSamJhSWtzeWZWekJGOTBNX2M0WGRNWGNMQVVwRjB4bDJfVjU5MW5sZ2JhbmZFdVR2aGhkdjJPdkxtRlpYNk9tMEFWd3d1RHNWbDZVZTlYamF6eS1nVHJFbGxDN1hCU3Q0ZUJGUXRKWEN2TzlLbXZGenZydG5ZQ2hnWmVHbFNYaFBTZ2pWbEhWMjQ4ZW1ZVU1ubEdwbVVLM0FHR2N5eVJlaDg5eVE?oc=5",
@@ -64,10 +64,10 @@
    {
     "group": "Costs",
     "query": "load shedding restaurants South Africa",
-    "title": "Eskom launching enough solar and batteries to cover 6 stages of load shedding in South Africa - BusinessTech",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU2JWQk05UlAtdExoS3pVT2IyekpGTy1XVnZPaGk5dnEwWXZLcjRkMGpSNkR0Q2F3NnJkaFUxbXMxUnNsZXdXZFROZWh4N21LQlIwaFhycC1SWWw0a3MyTzNFSjlYMnpRSzJZTkwyVHd5cVJoWW5jUy04UzZmSGwxZ3o3OVZvRUFoR1BlbDRQSmZDYzBtVjRBQ1RLaGNKc0dEQzdKbE56QWJYQTdBTUpSMzVTMWFLZmhpYmplTG1MTmZ3djdwWFhrQlIyMnc0WF9EbTBsYVV4Yw?oc=5",
-    "date": "2026-10-09T07:00:00.000Z",
-    "source": "BusinessTech",
+    "title": "#LGE2026 FACTSHEET: what the data tells us about electricity access in South Africa - Africa Check",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2duM2RXTzBCNXZ1MEt4UGI2R0JNY2F1Sl81OEVRLWl0WkFITnowY2NmMHpXOGdRZEE5STNPM3Z1LVNySVNjM29RWnlfUnNpeDVBWkhwVmltMEFuc1o1X3A3bUVadElOc3VTbXdQSFM1SmNWQ1dyVFhPUFdZQ3kxV2MyRVU1VlE2bWFmRWFJT0FrT2UtdG9MX3lnbHE0VkZxbHJNVkcxdjRzMWw1M2hONlNHcG1nVnB6ZUFjY19n?oc=5",
+    "date": "2026-10-14T07:00:00.000Z",
+    "source": "Africa Check",
     "score": 3
    },
    {
@@ -98,6 +98,17 @@
    "hook": "Prices are moving, here is how we keep your plate fair.",
    "body": "You have seen the headlines: \"Cyril Ramaphosa’s phone call to Adrian Gore that was the beginning of the end of load-shedding\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
    "based_on": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTBBcmRVUjNEYVdXR2dwbDBfVWo2QlM4SkZocTF0ckxKTVlLU3oyQU1MSGtwbndwZkNsRjZCVzFVLWl4UkFOMWRHQW1LZTRrbWZudkxmWnBKVFRCRGd5U2huNXdwSGZPN1g5SHRkamRLTWRfRWIzemRFMTNsVzBsQndjVnNQVnN1SkYzMFA1cVhMYlJielh1QnhvYVd1TGdxTzV6dzlTd3Y3VzlpR1pjbWl3dWZrOEwwQmgzX2gxcDdtM2xLM0dFaDRUYmZOalk?oc=5",
+   "channels": [
+    "facebook",
+    "instagram"
+   ],
+   "status": "draft_for_owner_approval"
+  },
+  {
+   "theme": "Events",
+   "hook": "Plan your next get-together with us.",
+   "body": "The festive season is close and Joburg is busy. Book your table or your office function early, we will hold the best seats for you. Message us on WhatsApp to reserve.",
+   "based_on": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaDlhN25uUTRXbFJHQ0FfZ24ycFRFZ2h1VHdzQ0R6c08wbGUzMnltWWk3eHRFemJSS0FJSjZWMGEwS2Uwc2cyQWhvMF9rczljTnBjU0NVYmJrYzVJMXVxU1hVQWhuYnRJLUpMZHB0aE5mQnlEcTh3aGtNSUVEcjhrVG9Tbk5KUFhrMnc?oc=5",
    "channels": [
     "facebook",
     "instagram"
