@@ -2,11 +2,20 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-30T12:50:12.613Z",
+ "generated_at": "2026-10-30T22:16:12.116Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
+   {
+    "group": "Events and seasons",
+    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
+    "title": "Events: What’s on in Johannesburg - Time Out Worldwide",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
+    "date": "2026-10-26T22:00:00.000Z",
+    "source": "Time Out Worldwide",
+    "score": 4
+   },
    {
     "group": "Events and seasons",
     "query": "Johannesburg events this month",
@@ -69,15 +78,6 @@
     "date": "2026-10-14T07:00:00.000Z",
     "source": "Africa Check",
     "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "restaurant food prices South Africa OR food inflation South Africa",
-    "title": "The rural municipality with the lowest prices for groceries in South Africa - BusinessTech",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzFCcU1mQkFxNFEzYXNZcFZfRG9TYldpekt5cjJuTkhuekd0ZGN3d0ZHbTJDWXZaRHhzVkZQcVZyZ1dFemM2MUIwa25xUmRKMjUwblNtZ3o4elF6TDJhU3lWRkJ3SFo1anhtNHl6YnBqay1GaXMxX0RDbk5FdFlkWklDTVhNX1hEWEZRaGJVSExWQm1EV0kwOGdIN0NUVnRqc05FQ2ZrX1kxbjV0QUxxSGF1S3kzclNrRXBQXzdDVkRvbW8?oc=5",
-    "date": "2026-10-08T07:00:00.000Z",
-    "source": "BusinessTech",
-    "score": 3
    }
   ],
   "errors": []
@@ -108,7 +108,7 @@
    "theme": "Events",
    "hook": "Plan your next get-together with us.",
    "body": "The festive season is close and Joburg is busy. Book your table or your office function early, we will hold the best seats for you. Message us on WhatsApp to reserve.",
-   "based_on": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaDlhN25uUTRXbFJHQ0FfZ24ycFRFZ2h1VHdzQ0R6c08wbGUzMnltWWk3eHRFemJSS0FJSjZWMGEwS2Uwc2cyQWhvMF9rczljTnBjU0NVYmJrYzVJMXVxU1hVQWhuYnRJLUpMZHB0aE5mQnlEcTh3aGtNSUVEcjhrVG9Tbk5KUFhrMnc?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
    "channels": [
     "facebook",
     "instagram"
