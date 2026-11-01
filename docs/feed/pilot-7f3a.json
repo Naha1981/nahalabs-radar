@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-10-31T21:30:13.235Z",
+ "generated_at": "2026-11-01T05:58:20.463Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -24,6 +24,15 @@
     "date": "2026-10-18T07:00:00.000Z",
     "source": "SAPeople",
     "score": 4
+   },
+   {
+    "group": "Dining and demand",
+    "query": "Johannesburg restaurant bookings OR dining out trends",
+    "title": "How restaurants earn their Eat Out stars - News24",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEF4X1E0a3V3aTNHdkU5Vy1ROENfRnBVbURHVld6bHZaQzZvaU95UVdrMlVqMmlheWxxZ01hdzhMZDlvLTVkX3lRdFpPU3hkRzladFlPbzI3Vy1QRVMyLVJLaFU0Ukk4NmU0OWJGdlVzNUhVVnZ1VXVPTHJJOVFmWWFNbmE2Y2NJcm5Ec3hnWTdnOTlnU3htYVpwYmFTYUdnQjhrOGpDYw?oc=5",
+    "date": "2026-10-30T11:22:20.000Z",
+    "source": "News24",
+    "score": 3
    },
    {
     "group": "Costs",
@@ -63,34 +72,26 @@
    },
    {
     "group": "Costs",
-    "query": "load shedding restaurants South Africa",
-    "title": "Eskom launching enough solar and batteries to cover 6 stages of load shedding in South Africa - BusinessTech",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU2JWQk05UlAtdExoS3pVT2IyekpGTy1XVnZPaGk5dnEwWXZLcjRkMGpSNkR0Q2F3NnJkaFUxbXMxUnNsZXdXZFROZWh4N21LQlIwaFhycC1SWWw0a3MyTzNFSjlYMnpRSzJZTkwyVHd5cVJoWW5jUy04UzZmSGwxZ3o3OVZvRUFoR1BlbDRQSmZDYzBtVjRBQ1RLaGNKc0dEQzdKbE56QWJYQTdBTUpSMzVTMWFLZmhpYmplTG1MTmZ3djdwWFhrQlIyMnc0WF9EbTBsYVV4Yw?oc=5",
-    "date": "2026-10-09T07:00:00.000Z",
-    "source": "BusinessTech",
-    "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "restaurant food prices South Africa OR food inflation South Africa",
-    "title": "The rural municipality with the lowest prices for groceries in South Africa - BusinessTech",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzFCcU1mQkFxNFEzYXNZcFZfRG9TYldpekt5cjJuTkhuekd0ZGN3d0ZHbTJDWXZaRHhzVkZQcVZyZ1dFemM2MUIwa25xUmRKMjUwblNtZ3o4elF6TDJhU3lWRkJ3SFo1anhtNHl6YnBqay1GaXMxX0RDbk5FdFlkWklDTVhNX1hEWEZRaGJVSExWQm1EV0kwOGdIN0NUVnRqc05FQ2ZrX1kxbjV0QUxxSGF1S3kzclNrRXBQXzdDVkRvbW8?oc=5",
-    "date": "2026-10-08T07:00:00.000Z",
-    "source": "BusinessTech",
+    "query": "electricity tariff increase restaurants South Africa",
+    "title": "Electricity Is Already Unaffordable – The Green Connection Rejects Another 8.83% Tariff Increase - Infrastructure News",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHFSQUowX3ltRGR2dXhJWE5lWHZVTldSOEkzRHdBVzVLM05rMFFicEpMYjBuMHN3N0N4b3VRN1lzaFJYVTRqTVFMMjY4dG9UdWl3S3V4ZnZoNDZZb2Y2akRLZGV0Vy11bmYxSFRhVjRFX3BtRzRjd05qZVIyY3c4RjYyb09MVWdaZFhVblAzM3hiQmxYSHNldHRxTTFocVpaTy1nemlNaUo1WXFRbmVyX0RBckFjMml0NkMtRXRQVzVLS0RjX2NRTmw3eVN3b21RdjZyaA?oc=5",
+    "date": "2026-10-19T07:00:00.000Z",
+    "source": "Infrastructure News",
     "score": 3
    }
   ],
   "errors": []
  },
  "whatsapp_engagement": {
-  "real": false,
-  "sample": true,
-  "error": "inbox 503",
-  "note": "Engagement fetch failed; sample only.",
-  "top_topics": [],
+  "real": true,
+  "sample": false,
+  "data_label": "Test data from the pilot WhatsApp line, not live customer traffic",
+  "source": "Restaurant concierge /v1/inbox (pending messages)",
   "counts": {
-   "messages": 0
-  }
+   "messages_pending": 0
+  },
+  "top_topics": [],
+  "note": "Aggregates only. No customer numbers or message text are published."
  },
  "post_suggestions": [
   {
@@ -118,8 +119,8 @@
   {
    "theme": "Demand",
    "hook": "Fresh on the Joburg dining scene.",
-   "body": "Joburg is eating out again: \"Dinner for three, a blesser and his beauties, and a waiter holding it all together\". Here is what we are serving this week. Ask us on WhatsApp for today's specials.",
-   "based_on": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaVBCRUZoc19RVUotUmRKLVVhd0l1WUdzYVpWSmp4eVhYODQyZFZ1bjFDa3FKOTBsRzZ3cWtZbDEyYkZjT3prV3N4X2dNSHJ4SllNZkJyV1AxRk5vNTRuVloySGdrcDNCMlJoamJpc2dvYkhPbUIzQW1WTmc3WFN3MFRKRk5oaEdIRS0zYnF1Y29NMkx5dXE5SXNyazBGSFVMYXF0T3NrNzlIVGRaMUxfOE9GeDlONy1USl9nUGNMNTNGUFFQcXRPSmtQajNjcGxSTl9pWnFZeEoxRjIzR3RReg?oc=5",
+   "body": "Joburg is eating out again: \"How restaurants earn their Eat Out stars\". Here is what we are serving this week. Ask us on WhatsApp for today's specials.",
+   "based_on": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEF4X1E0a3V3aTNHdkU5Vy1ROENfRnBVbURHVld6bHZaQzZvaU95UVdrMlVqMmlheWxxZ01hdzhMZDlvLTVkX3lRdFpPU3hkRzladFlPbzI3Vy1QRVMyLVJLaFU0Ukk4NmU0OWJGdlVzNUhVVnZ1VXVPTHJJOVFmWWFNbmE2Y2NJcm5Ec3hnWTdnOTlnU3htYVpwYmFTYUdnQjhrOGpDYw?oc=5",
    "channels": [
     "facebook",
     "instagram"
