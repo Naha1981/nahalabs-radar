@@ -2,45 +2,85 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-01T21:59:20.191Z",
+ "generated_at": "2026-11-02T05:57:53.079Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
-  "items": [],
-  "errors": [
+  "items": [
    {
-    "query": "Johannesburg restaurant bookings OR dining out trends",
-    "error": "rss 429"
-   },
-   {
-    "query": "Sandton restaurants new opening OR best restaurants",
-    "error": "rss 429"
-   },
-   {
-    "query": "load shedding restaurants South Africa",
-    "error": "rss 429"
-   },
-   {
-    "query": "restaurant food prices South Africa OR food inflation South Africa",
-    "error": "rss 429"
-   },
-   {
-    "query": "electricity tariff increase restaurants South Africa",
-    "error": "rss 429"
-   },
-   {
+    "group": "Events and seasons",
     "query": "Johannesburg events this month",
-    "error": "rss 429"
+    "title": "Events: What’s on in Johannesburg - Time Out Worldwide",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
+    "date": "2026-10-26T22:00:00.000Z",
+    "source": "Time Out Worldwide",
+    "score": 4
    },
    {
-    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
-    "error": "rss 429"
+    "group": "Dining and demand",
+    "query": "Johannesburg restaurant bookings OR dining out trends",
+    "title": "The Peech Hotel celebrates 22 years with Chef Luke Dale Roberts - Food & Home Magazine",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN21CN1JiYkNfR0c0Q1QtQkl0SDJ3b3EtVEc4RnFfRlBsVFgtN1kxMWRjeXNzVmhOMm5MY3pLUVJKSXNTaDA1RFBGTjI4U25OaEZCdVVsbEJRejVmNklFOUxLMm9xcWdfZW52WWhyUVljbzNFazNPVkRZQkcyS0NOVl82YkhTeFE3TkRtUW1Oc0I4Vk43cXduOG9vcFg0Q3Zh0gGoAUFVX3lxTE1paUtROFU2NFNmakNSakRvS0o0WUF0aWFQYVpxUGJHV1NnWGNyZ2NrLXpVa0JDZEMzZVFPeEFWU2g0Vml1LVRYSUdSVFVGSHRKMGY2eEI0SVM3MGN1dl9RVktYOXNZd0lQb3FxTG8yTFRDTE9udGplbk40RzFEZ3lPN1VDcmtCYWlydDN4TEJHdXRNckRZbDdvR0tUeHF0MnpuTzRiS01QUQ?oc=5",
+    "date": "2026-10-30T09:00:44.000Z",
+    "source": "Food & Home Magazine",
+    "score": 3
    },
    {
-    "query": "Sandton restaurant launches new menu OR specials",
-    "error": "rss 429"
+    "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Cyril Ramaphosa’s phone call to Adrian Gore that was the beginning of the end of load-shedding - Daily Investor",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTBBcmRVUjNEYVdXR2dwbDBfVWo2QlM4SkZocTF0ckxKTVlLU3oyQU1MSGtwbndwZkNsRjZCVzFVLWl4UkFOMWRHQW1LZTRrbWZudkxmWnBKVFRCRGd5U2huNXdwSGZPN1g5SHRkamRLTWRfRWIzemRFMTNsVzBsQndjVnNQVnN1SkYzMFA1cVhMYlJielh1QnhvYVd1TGdxTzV6dzlTd3Y3VzlpR1pjbWl3dWZrOEwwQmgzX2gxcDdtM2xLM0dFaDRUYmZOalk?oc=5",
+    "date": "2026-10-25T15:00:00.000Z",
+    "source": "Daily Investor",
+    "score": 3
+   },
+   {
+    "group": "Dining and demand",
+    "query": "Johannesburg restaurant bookings OR dining out trends",
+    "title": "Dinner for three, a blesser and his beauties, and a waiter holding it all together - News24",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaVBCRUZoc19RVUotUmRKLVVhd0l1WUdzYVpWSmp4eVhYODQyZFZ1bjFDa3FKOTBsRzZ3cWtZbDEyYkZjT3prV3N4X2dNSHJ4SllNZkJyV1AxRk5vNTRuVloySGdrcDNCMlJoamJpc2dvYkhPbUIzQW1WTmc3WFN3MFRKRk5oaEdIRS0zYnF1Y29NMkx5dXE5SXNyazBGSFVMYXF0T3NrNzlIVGRaMUxfOE9GeDlONy1USl9nUGNMNTNGUFFQcXRPSmtQajNjcGxSTl9pWnFZeEoxRjIzR3RReg?oc=5",
+    "date": "2026-10-24T07:00:00.000Z",
+    "source": "News24",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades - Phys.org",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNEo2YURpdGw3Wi1pdTh0dUlObzRrc3BzN0NvMHJSdTR2cXBZQjg1ZHlsWlh1RWlyRDRITktzajRKbTBqcnRJMWVKUzNha2tGeGI1UXhYel8zdmNvNzJfS1pLbjl2SDVoQ0Eta2FxVGgxQnpEZTh0cENmRDI?oc=5",
+    "date": "2026-10-23T23:40:04.000Z",
+    "source": "Phys.org",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "Bargaining agreement will put many small restaurants ‘out of business’ - Moneyweb",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOFlSamJhSWtzeWZWekJGOTBNX2M0WGRNWGNMQVVwRjB4bDJfVjU5MW5sZ2JhbmZFdVR2aGhkdjJPdkxtRlpYNk9tMEFWd3d1RHNWbDZVZTlYamF6eS1nVHJFbGxDN1hCU3Q0ZUJGUXRKWEN2TzlLbXZGenZydG5ZQ2hnWmVHbFNYaFBTZ2pWbEhWMjQ4ZW1ZVU1ubEdwbVVLM0FHR2N5eVJlaDg5eVE?oc=5",
+    "date": "2026-10-21T07:00:00.000Z",
+    "source": "Moneyweb",
+    "score": 3
+   },
+   {
+    "group": "Events and seasons",
+    "query": "Johannesburg events this month",
+    "title": "South Africa weekend events: What to do from 16-18 October - SAPeople",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaDlhN25uUTRXbFJHQ0FfZ24ycFRFZ2h1VHdzQ0R6c08wbGUzMnltWWk3eHRFemJSS0FJSjZWMGEwS2Uwc2cyQWhvMF9rczljTnBjU0NVYmJrYzVJMXVxU1hVQWhuYnRJLUpMZHB0aE5mQnlEcTh3aGtNSUVEcjhrVG9Tbk5KUFhrMnc?oc=5",
+    "date": "2026-10-18T07:00:00.000Z",
+    "source": "SAPeople",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Eskom launching enough solar and batteries to cover 6 stages of load shedding in South Africa - BusinessTech",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU2JWQk05UlAtdExoS3pVT2IyekpGTy1XVnZPaGk5dnEwWXZLcjRkMGpSNkR0Q2F3NnJkaFUxbXMxUnNsZXdXZFROZWh4N21LQlIwaFhycC1SWWw0a3MyTzNFSjlYMnpRSzJZTkwyVHd5cVJoWW5jUy04UzZmSGwxZ3o3OVZvRUFoR1BlbDRQSmZDYzBtVjRBQ1RLaGNKc0dEQzdKbE56QWJYQTdBTUpSMzVTMWFLZmhpYmplTG1MTmZ3djdwWFhrQlIyMnc0WF9EbTBsYVV4Yw?oc=5",
+    "date": "2026-10-09T07:00:00.000Z",
+    "source": "BusinessTech",
+    "score": 3
    }
-  ]
+  ],
+  "errors": []
  },
  "whatsapp_engagement": {
   "real": true,
@@ -53,7 +93,41 @@
   "top_topics": [],
   "note": "Aggregates only. No customer numbers or message text are published."
  },
- "post_suggestions": [],
+ "post_suggestions": [
+  {
+   "theme": "Costs",
+   "hook": "Prices are moving, here is how we keep your plate fair.",
+   "body": "You have seen the headlines: \"Cyril Ramaphosa’s phone call to Adrian Gore that was the beginning of the end of load-shedding\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
+   "based_on": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTBBcmRVUjNEYVdXR2dwbDBfVWo2QlM4SkZocTF0ckxKTVlLU3oyQU1MSGtwbndwZkNsRjZCVzFVLWl4UkFOMWRHQW1LZTRrbWZudkxmWnBKVFRCRGd5U2huNXdwSGZPN1g5SHRkamRLTWRfRWIzemRFMTNsVzBsQndjVnNQVnN1SkYzMFA1cVhMYlJielh1QnhvYVd1TGdxTzV6dzlTd3Y3VzlpR1pjbWl3dWZrOEwwQmgzX2gxcDdtM2xLM0dFaDRUYmZOalk?oc=5",
+   "channels": [
+    "facebook",
+    "instagram"
+   ],
+   "status": "draft_for_owner_approval"
+  },
+  {
+   "theme": "Events",
+   "hook": "Plan your next get-together with us.",
+   "body": "The festive season is close and Joburg is busy. Book your table or your office function early, we will hold the best seats for you. Message us on WhatsApp to reserve.",
+   "based_on": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
+   "channels": [
+    "facebook",
+    "instagram"
+   ],
+   "status": "draft_for_owner_approval"
+  },
+  {
+   "theme": "Demand",
+   "hook": "Fresh on the Joburg dining scene.",
+   "body": "Joburg is eating out again: \"The Peech Hotel celebrates 22 years with Chef Luke Dale Roberts\". Here is what we are serving this week. Ask us on WhatsApp for today's specials.",
+   "based_on": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN21CN1JiYkNfR0c0Q1QtQkl0SDJ3b3EtVEc4RnFfRlBsVFgtN1kxMWRjeXNzVmhOMm5MY3pLUVJKSXNTaDA1RFBGTjI4U25OaEZCdVVsbEJRejVmNklFOUxLMm9xcWdfZW52WWhyUVljbzNFazNPVkRZQkcyS0NOVl82YkhTeFE3TkRtUW1Oc0I4Vk43cXduOG9vcFg0Q3Zh0gGoAUFVX3lxTE1paUtROFU2NFNmakNSakRvS0o0WUF0aWFQYVpxUGJHV1NnWGNyZ2NrLXpVa0JDZEMzZVFPeEFWU2g0Vml1LVRYSUdSVFVGSHRKMGY2eEI0SVM3MGN1dl9RVktYOXNZd0lQb3FxTG8yTFRDTE9udGplbk40RzFEZ3lPN1VDcmtCYWlydDN4TEJHdXRNckRZbDdvR0tUeHF0MnpuTzRiS01QUQ?oc=5",
+   "channels": [
+    "facebook",
+    "instagram"
+   ],
+   "status": "draft_for_owner_approval"
+  }
+ ],
  "post_ideas_inputs": {
   "use": "Combine radar.items with whatsapp_engagement.top_topics to draft posts. Only treat engagement as fact when real is true, and mention it is test data when data_label says so."
  }
