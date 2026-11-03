@@ -2,11 +2,38 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-03T00:56:17.576Z",
+ "generated_at": "2026-11-03T14:08:28.530Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
+   {
+    "group": "Dining and demand",
+    "query": "Sandton restaurants new opening OR best restaurants",
+    "title": "The man who became the first South African chef to earn a Michelin star and launched five restaurants and new food and lifestyle products - Daily Investor",
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORk9NREQ4OElFX29Wb2E2LUlpTS1VdVpqRGE1bldDWm01eHVQeWlhVDBGSkRSMzBHeV9YNExtcnJOLVFuSDZYWFlWeHp0YXRuMjZfOS1aSEpJVFJXQnl1RHJ1RzN5bmQtd3BHMHpBSUJXc0VZaEdneUxhNXNackd1OFltYmFJU0Y2V1gwYUNBTnV5d1dVTVMyUlVJZDZfRV94cE4ydnJKcHhveUxPdG1KUE1xMS1sMHF1bWNDTzFaTTVJU2RiQXE0Y0FtNmdQRE1sNzNDUHM0TnZRdS1QWkRrZGxuRUpYVVhBSkNIbWU5dlhxQllodHB3dkFpcTZYbVU2RjVVYXh1ZnZ5Z0tk?oc=5",
+    "date": "2026-11-02T17:00:00.000Z",
+    "source": "Daily Investor",
+    "score": 4
+   },
+   {
+    "group": "Dining and demand",
+    "query": "Johannesburg restaurant bookings OR dining out trends",
+    "title": "From Bunny Chow to Kota: South Africa’s Hottest Food Trends of 2026 - https://docksiderestaurant.com.au/",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFRocWJCSS03MXVEQ3NfM0pYazFJM1hieUdrUEVrdkdVb19rRXNPWGd1X3ZJdzFwVGJKMU9JZmpiNVJkSEE0SlBhM3Z1THBTMS1YNmdPT2k5UHcxUUVfUm1mMkJiRnBRdmotVFZtOU9QU1F2QWJlQTRCZ0dpMTdJcUVBRHBFSmc?oc=5",
+    "date": "2026-11-02T15:26:16.000Z",
+    "source": "https://docksiderestaurant.com.au/",
+    "score": 4
+   },
+   {
+    "group": "Costs",
+    "query": "electricity tariff increase restaurants South Africa",
+    "title": "101% electricity price hike for South Africa - BusinessTech",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlQtLUhWeXJXQWtXcTBWeVRqeGpDVk9BSjBtMVFUQ1dZNUZuNnc5V3dyalNHZjg0Zk5MUnFucjQ0bEJCZ3oyTmV5Uk92MWtrazFudktTVVlFTHc5YmVYVS1pMFNMRExYTXlrY3lZYXB5X2RSSGs1aXRhczhVUGhxSkM2bkVNZzBTOU9CSmhNSHNQNXFF?oc=5",
+    "date": "2026-11-02T09:38:13.000Z",
+    "source": "BusinessTech",
+    "score": 4
+   },
    {
     "group": "Events and seasons",
     "query": "Johannesburg festive season dining OR Christmas functions restaurants",
@@ -51,33 +78,6 @@
     "date": "2026-10-24T07:00:00.000Z",
     "source": "News24",
     "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "load shedding restaurants South Africa",
-    "title": "Power cuts and sleep: Students link load shedding to anxiety, disrupted rest and lower grades - Phys.org",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNEo2YURpdGw3Wi1pdTh0dUlObzRrc3BzN0NvMHJSdTR2cXBZQjg1ZHlsWlh1RWlyRDRITktzajRKbTBqcnRJMWVKUzNha2tGeGI1UXhYel8zdmNvNzJfS1pLbjl2SDVoQ0Eta2FxVGgxQnpEZTh0cENmRDI?oc=5",
-    "date": "2026-10-23T23:40:04.000Z",
-    "source": "Phys.org",
-    "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "restaurant food prices South Africa OR food inflation South Africa",
-    "title": "Bargaining agreement will put many small restaurants ‘out of business’ - Moneyweb",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOFlSamJhSWtzeWZWekJGOTBNX2M0WGRNWGNMQVVwRjB4bDJfVjU5MW5sZ2JhbmZFdVR2aGhkdjJPdkxtRlpYNk9tMEFWd3d1RHNWbDZVZTlYamF6eS1nVHJFbGxDN1hCU3Q0ZUJGUXRKWEN2TzlLbXZGenZydG5ZQ2hnWmVHbFNYaFBTZ2pWbEhWMjQ4ZW1ZVU1ubEdwbVVLM0FHR2N5eVJlaDg5eVE?oc=5",
-    "date": "2026-10-21T07:00:00.000Z",
-    "source": "Moneyweb",
-    "score": 3
-   },
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg events this month",
-    "title": "South Africa weekend events: What to do from 16-18 October - SAPeople",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaDlhN25uUTRXbFJHQ0FfZ24ycFRFZ2h1VHdzQ0R6c08wbGUzMnltWWk3eHRFemJSS0FJSjZWMGEwS2Uwc2cyQWhvMF9rczljTnBjU0NVYmJrYzVJMXVxU1hVQWhuYnRJLUpMZHB0aE5mQnlEcTh3aGtNSUVEcjhrVG9Tbk5KUFhrMnc?oc=5",
-    "date": "2026-10-18T07:00:00.000Z",
-    "source": "SAPeople",
-    "score": 3
    }
   ],
   "errors": []
@@ -97,8 +97,8 @@
   {
    "theme": "Costs",
    "hook": "Prices are moving, here is how we keep your plate fair.",
-   "body": "You have seen the headlines: \"Cyril Ramaphosa’s phone call to Adrian Gore that was the beginning of the end of load-shedding\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
-   "based_on": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTBBcmRVUjNEYVdXR2dwbDBfVWo2QlM4SkZocTF0ckxKTVlLU3oyQU1MSGtwbndwZkNsRjZCVzFVLWl4UkFOMWRHQW1LZTRrbWZudkxmWnBKVFRCRGd5U2huNXdwSGZPN1g5SHRkamRLTWRfRWIzemRFMTNsVzBsQndjVnNQVnN1SkYzMFA1cVhMYlJielh1QnhvYVd1TGdxTzV6dzlTd3Y3VzlpR1pjbWl3dWZrOEwwQmgzX2gxcDdtM2xLM0dFaDRUYmZOalk?oc=5",
+   "body": "You have seen the headlines: \"101% electricity price hike for South Africa\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
+   "based_on": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlQtLUhWeXJXQWtXcTBWeVRqeGpDVk9BSjBtMVFUQ1dZNUZuNnc5V3dyalNHZjg0Zk5MUnFucjQ0bEJCZ3oyTmV5Uk92MWtrazFudktTVVlFTHc5YmVYVS1pMFNMRExYTXlrY3lZYXB5X2RSSGs1aXRhczhVUGhxSkM2bkVNZzBTOU9CSmhNSHNQNXFF?oc=5",
    "channels": [
     "facebook",
     "instagram"
@@ -119,8 +119,8 @@
   {
    "theme": "Demand",
    "hook": "Fresh on the Joburg dining scene.",
-   "body": "Joburg is eating out again: \"The Peech Hotel celebrates 22 years with Chef Luke Dale Roberts\". Here is what we are serving this week. Ask us on WhatsApp for today's specials.",
-   "based_on": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN21CN1JiYkNfR0c0Q1QtQkl0SDJ3b3EtVEc4RnFfRlBsVFgtN1kxMWRjeXNzVmhOMm5MY3pLUVJKSXNTaDA1RFBGTjI4U25OaEZCdVVsbEJRejVmNklFOUxLMm9xcWdfZW52WWhyUVljbzNFazNPVkRZQkcyS0NOVl82YkhTeFE3TkRtUW1Oc0I4Vk43cXduOG9vcFg0Q3Zh0gGoAUFVX3lxTE1paUtROFU2NFNmakNSakRvS0o0WUF0aWFQYVpxUGJHV1NnWGNyZ2NrLXpVa0JDZEMzZVFPeEFWU2g0Vml1LVRYSUdSVFVGSHRKMGY2eEI0SVM3MGN1dl9RVktYOXNZd0lQb3FxTG8yTFRDTE9udGplbk40RzFEZ3lPN1VDcmtCYWlydDN4TEJHdXRNckRZbDdvR0tUeHF0MnpuTzRiS01QUQ?oc=5",
+   "body": "Joburg is eating out again: \"The man who became the first South African chef to earn a Michelin star and launched five restaurants and new food and lifestyle products\". Here is what we are serving this week. Ask us on WhatsApp for today's specials.",
+   "based_on": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORk9NREQ4OElFX29Wb2E2LUlpTS1VdVpqRGE1bldDWm01eHVQeWlhVDBGSkRSMzBHeV9YNExtcnJOLVFuSDZYWFlWeHp0YXRuMjZfOS1aSEpJVFJXQnl1RHJ1RzN5bmQtd3BHMHpBSUJXc0VZaEdneUxhNXNackd1OFltYmFJU0Y2V1gwYUNBTnV5d1dVTVMyUlVJZDZfRV94cE4ydnJKcHhveUxPdG1KUE1xMS1sMHF1bWNDTzFaTTVJU2RiQXE0Y0FtNmdQRE1sNzNDUHM0TnZRdS1QWkRrZGxuRUpYVVhBSkNIbWU5dlhxQllodHB3dkFpcTZYbVU2RjVVYXh1ZnZ5Z0tk?oc=5",
    "channels": [
     "facebook",
     "instagram"
