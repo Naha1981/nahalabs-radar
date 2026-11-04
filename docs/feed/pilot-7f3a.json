@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-04T06:13:47.990Z",
+ "generated_at": "2026-11-04T14:30:44.964Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -35,6 +35,15 @@
     "score": 4
    },
    {
+    "group": "Costs",
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "South Africa’s Braai Gets More Expensive: How Inflation Is Changing the Cost of a Classic - https://docksiderestaurant.com.au/",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4RVg1WW15UEpiRUtPOG5GOUlHLXNNcjRZbzZNa3EwaERIV1hfT2tzellmSVFuWWQyZ0JDLVJ5MHZWQmdrYzFnTVdlVDY4N2hiRHlJV2gwXzFwb0xqc1JtSm5TMllqbHJQc3BvRVNOb3d0YmxvLThiSW1LWlQzZw?oc=5",
+    "date": "2026-11-02T05:41:05.000Z",
+    "source": "https://docksiderestaurant.com.au/",
+    "score": 4
+   },
+   {
     "group": "Events and seasons",
     "query": "Johannesburg festive season dining OR Christmas functions restaurants",
     "title": "Events: What’s on in Johannesburg - Time Out Worldwide",
@@ -42,15 +51,6 @@
     "date": "2026-10-26T22:00:00.000Z",
     "source": "Time Out Worldwide",
     "score": 4
-   },
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
-    "title": "Christmas Comes To Rosebank As The Zone Unveils Its Festive Lights - Underground Press",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdndPNDJNUjJkeFpzcUpaVlI0dWdvejh2WHdKdzNDWE1fQ3hRdnRpX1dMX0FSSzRabkQtVlpON0FTUnRDTElQNnpZSjZGckhhdTFKUkRCcmJmeWVtdFNReGFHUFpiVi1oT01nd3NlMzVXSmpSMEprTWdyTFJHQ2U3ZjkzTFVQdUlNYUtOTGppY0J5R3B0NnRNdVlSX1BiUFFFY05FVW52UDQxMElZcjhiOQ?oc=5",
-    "date": "2026-11-02T10:22:37.000Z",
-    "source": "Underground Press",
-    "score": 3
    },
    {
     "group": "Dining and demand",
