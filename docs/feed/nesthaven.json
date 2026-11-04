@@ -2,7 +2,7 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-11-04T14:30:47.261Z",
+ "generated_at": "2026-11-04T23:38:43.467Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -46,6 +46,15 @@
    {
     "group": "Rates and bonds",
     "query": "repo rate South Africa property buyers",
+    "title": "Homebuyers retreat as rates rise - Financial Mail",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EbjhLNV9UNHRXWEo1R3ZCYzFmbFRyek5IRlRnOFFPUGFSdlpHaUM1M05Pa1BsMlptS0lkY1RVSEU1andSOV8zcEJNWko5VnVOMTRlYkVfNGRhTVdLN0NuT3B0a0s2d2Q5VGFYbElBeXZ0UHNCZkpkZVhB?oc=5",
+    "date": "2026-11-04T23:36:46.000Z",
+    "source": "Financial Mail",
+    "score": 3
+   },
+   {
+    "group": "Rates and bonds",
+    "query": "repo rate South Africa property buyers",
     "title": "Top tips for first-time home buyers - The Citizen",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcTVDdjdLOHdBZENHQ192eklSbFFrVHZ6aVJnMXJhNWhxeG5uQzlLNDZUcjk4dDB5bmRIRC0tYmdBbXI5NU5ZaV9UTEkwNmhSbWhtNGxiOUZ0SUZXVE8yUFAxZW1Mak1PbUVabXdHLWxYTW1IV19tU3JYUEw5dzlKSUxSOXdwdXFQSDB0SXU1c0lNbllMVmZ1ZWZB?oc=5",
     "date": "2026-11-02T00:13:02.000Z",
@@ -68,15 +77,6 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGFKa1ZsMXNCRTNvQkFSOEhKQlZDekpYOFlWdFg3U1ZVVXpSTHlSRzJMdUdyQWNOTjNJaXdIMUlzRDFhU1JxbmF6SXJoVWdKMzBjNHRTQlI0cVRtN3l5WmdwWlRQZGtkRmIweFhva054c0pQaHBiOTE1THR0UjVjeTV2d1lVSExNUlZiTWxrQW5ETzNBVjgxQWlNaWRVb1hJTUFISQ?oc=5",
     "date": "2026-10-24T07:00:00.000Z",
     "source": "thenational.co.za",
-    "score": 3
-   },
-   {
-    "group": "Property market",
-    "query": "Johannesburg property market OR house prices",
-    "title": "Lifestyle, status and scarcity sustain demand in Johannesburg's sought-after northern suburbs - eProp.co.za",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeDd5RDNEYWJBRUQ4V01rTWVXU3E2LWZmdjFncWF4YkdsUHo4c1RfSXIzS2lnS01hVzBVdURoT1lIRS1oZE1vYktDN3ViSXhPZEE0UGtmYjRiNDVSem1xcHZVNFFBNENyMHl4ZnIwanJKNXhTVXZYRkhmb2RxejBZN20wZkFKaXRfZ05LRW5hdVloMlEzVmhzNDhnTVljcVN1bHZCbkMyT01aRnVxUkRULWJSZE9ZVTl6OUh6Sl9SSFZVUWJ1ZmlJbFRfTl9xUTZsNWFtT3RFNWpFWlhYYTJ2RUFn?oc=5",
-    "date": "2026-10-21T07:00:00.000Z",
-    "source": "eProp.co.za",
     "score": 3
    }
   ],
