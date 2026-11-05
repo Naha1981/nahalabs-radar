@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-04T23:38:40.973Z",
+ "generated_at": "2026-11-05T06:41:26.973Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -62,21 +62,21 @@
     "score": 3
    },
    {
-    "group": "Costs",
-    "query": "load shedding restaurants South Africa",
-    "title": "Cyril Ramaphosa’s phone call to Adrian Gore that was the beginning of the end of load-shedding - Daily Investor",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTBBcmRVUjNEYVdXR2dwbDBfVWo2QlM4SkZocTF0ckxKTVlLU3oyQU1MSGtwbndwZkNsRjZCVzFVLWl4UkFOMWRHQW1LZTRrbWZudkxmWnBKVFRCRGd5U2huNXdwSGZPN1g5SHRkamRLTWRfRWIzemRFMTNsVzBsQndjVnNQVnN1SkYzMFA1cVhMYlJielh1QnhvYVd1TGdxTzV6dzlTd3Y3VzlpR1pjbWl3dWZrOEwwQmgzX2gxcDdtM2xLM0dFaDRUYmZOalk?oc=5",
-    "date": "2026-10-25T15:00:00.000Z",
-    "source": "Daily Investor",
-    "score": 3
-   },
-   {
     "group": "Dining and demand",
     "query": "Johannesburg restaurant bookings OR dining out trends",
     "title": "Dinner for three, a blesser and his beauties, and a waiter holding it all together - News24",
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaVBCRUZoc19RVUotUmRKLVVhd0l1WUdzYVpWSmp4eVhYODQyZFZ1bjFDa3FKOTBsRzZ3cWtZbDEyYkZjT3prV3N4X2dNSHJ4SllNZkJyV1AxRk5vNTRuVloySGdrcDNCMlJoamJpc2dvYkhPbUIzQW1WTmc3WFN3MFRKRk5oaEdIRS0zYnF1Y29NMkx5dXE5SXNyazBGSFVMYXF0T3NrNzlIVGRaMUxfOE9GeDlONy1USl9nUGNMNTNGUFFQcXRPSmtQajNjcGxSTl9pWnFZeEoxRjIzR3RReg?oc=5",
     "date": "2026-10-24T07:00:00.000Z",
     "source": "News24",
+    "score": 3
+   },
+   {
+    "group": "Events and seasons",
+    "query": "Johannesburg events this month",
+    "title": "South Africa weekend events: What to do from 16-18 October - SAPeople",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaDlhN25uUTRXbFJHQ0FfZ24ycFRFZ2h1VHdzQ0R6c08wbGUzMnltWWk3eHRFemJSS0FJSjZWMGEwS2Uwc2cyQWhvMF9rczljTnBjU0NVYmJrYzVJMXVxU1hVQWhuYnRJLUpMZHB0aE5mQnlEcTh3aGtNSUVEcjhrVG9Tbk5KUFhrMnc?oc=5",
+    "date": "2026-10-18T07:00:00.000Z",
+    "source": "SAPeople",
     "score": 3
    }
   ],
