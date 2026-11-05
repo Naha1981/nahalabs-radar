@@ -2,7 +2,7 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-11-05T06:41:28.979Z",
+ "generated_at": "2026-11-05T19:55:56.717Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -30,7 +30,7 @@
     "query": "property transfer costs South Africa OR conveyancing fees",
     "title": "Sars latest guide on ‘amounts to be withheld when a non-resident sells immovable property in South Africa' clearly signals stricter enforcement - Polity.org.za",
     "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQlR4Wlo1UjRfb0l1UmdQdXAzeXZsdmRvTDRXTXRwRm5iN2JHQXFjMmVWRllncURXaFJTSzI0MlFHeXpXTFFIM1BtQmk4MHcyeTVxSHQtYkhyN2F0ejBNcERtUDBQRzF6UzZiQ0JGX2ExTEpVQURlYTh3dUlXd2FGQUtBY3RfYUV4SFM2UUpZTGtQdlNVX3h2SWh1OEl5aDFEb0lHQXZhWjZGQnd2VFYzNEg3TmQ4U0VWT3paWHZyZ3JVUUFGWVJDc0dBQUhQMjhjSzc5R29OdzJ5bEhfRnN3d2R3M3NCZFoyOGZCbXBzYTYtTmJYMmtUZG00Y2pfMHhJbVhHTGl6RjJCWVJTeU9ZdEhHY0k?oc=5",
-    "date": "2026-10-27T08:35:00.000Z",
+    "date": "2026-10-27T07:00:00.000Z",
     "source": "Polity.org.za",
     "score": 4
    },
@@ -53,11 +53,11 @@
     "score": 3
    },
    {
-    "group": "Rates and bonds",
-    "query": "repo rate South Africa property buyers",
+    "group": "Demand",
+    "query": "first time home buyers South Africa OR property demand Gauteng",
     "title": "Top tips for first-time home buyers - The Citizen",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcTVDdjdLOHdBZENHQ192eklSbFFrVHZ6aVJnMXJhNWhxeG5uQzlLNDZUcjk4dDB5bmRIRC0tYmdBbXI5NU5ZaV9UTEkwNmhSbWhtNGxiOUZ0SUZXVE8yUFAxZW1Mak1PbUVabXdHLWxYTW1IV19tU3JYUEw5dzlKSUxSOXdwdXFQSDB0SXU1c0lNbllMVmZ1ZWZB?oc=5",
-    "date": "2026-11-02T00:13:02.000Z",
+    "date": "2026-11-02T06:13:52.000Z",
     "source": "The Citizen",
     "score": 3
    },
@@ -73,10 +73,10 @@
    {
     "group": "Property market",
     "query": "Johannesburg property market OR house prices",
-    "title": "Lifestyle, status and scarcity sustain demand in Johannesburg's sought-after northern suburbs - eProp.co.za",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeDd5RDNEYWJBRUQ4V01rTWVXU3E2LWZmdjFncWF4YkdsUHo4c1RfSXIzS2lnS01hVzBVdURoT1lIRS1oZE1vYktDN3ViSXhPZEE0UGtmYjRiNDVSem1xcHZVNFFBNENyMHl4ZnIwanJKNXhTVXZYRkhmb2RxejBZN20wZkFKaXRfZ05LRW5hdVloMlEzVmhzNDhnTVljcVN1bHZCbkMyT01aRnVxUkRULWJSZE9ZVTl6OUh6Sl9SSFZVUWJ1ZmlJbFRfTl9xUTZsNWFtT3RFNWpFWlhYYTJ2RUFn?oc=5",
+    "title": "Renting out in Joburg to fund a Cape Town lifestyle - Bizcommunity",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWmFnaVJ0eG16UklEbkVRWktfbkdtdFYtWjlld280Zjk0TWllYXdkLVVDRVpTa3FjeFpXVU1iZ1ZsSGZOVDlDQjZXc1ZoZ0tEZXRrMUhzeXpTUUxsMnFHS1VOVTcwbWdVSjc0ZmVGRVFsak04X2lvMXg5cy0tQTRuT0FaUFBINlNlMDFNNHNsNExQS3JiOUo3a2ZGelo?oc=5",
     "date": "2026-10-21T07:00:00.000Z",
-    "source": "eProp.co.za",
+    "source": "Bizcommunity",
     "score": 3
    }
   ],
