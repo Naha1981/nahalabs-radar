@@ -2,7 +2,7 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-11-05T19:55:56.717Z",
+ "generated_at": "2026-11-06T06:38:26.465Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -35,6 +35,15 @@
     "score": 4
    },
    {
+    "group": "Demand",
+    "query": "first time home buyers South Africa OR property demand Gauteng",
+    "title": "South Africa’s housing market shows resilience, but first-time buyers retreat - thenational.co.za",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWTlVWjNUX3gtQU5BZFhNMTZpa2JieDRRQ3ItV0dkbF8yVzNpcjB1RGtFV2dfNGg3RjQ3aGJSSy1Nc0RjSTFDLWhsMjlXZXVjN0lDUUU1eTdvbVU5c3Z1d1ZCVnZSdU1kOFU4S1dYY0ZlaHltX0hzT0hnZ2tNdFV2ZmJMdENkZVd3eUVpekh5bkM4c285eDVrYWtpcTRzN0RpWG1TdFVBMHJIMGxWZ3RLLXBzeGxaWW1MQlpv?oc=5",
+    "date": "2026-10-27T03:00:00.000Z",
+    "source": "thenational.co.za",
+    "score": 4
+   },
+   {
     "group": "Property market",
     "query": "Johannesburg property market OR house prices",
     "title": "Historic South African township where houses are now selling for R2.2 million - BusinessTech",
@@ -42,6 +51,15 @@
     "date": "2026-10-25T07:00:00.000Z",
     "source": "BusinessTech",
     "score": 4
+   },
+   {
+    "group": "Demand",
+    "query": "first time home buyers South Africa OR property demand Gauteng",
+    "title": "Betting billions on KZN’s booming North Coast property market - Mail & Guardian",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSHlTRmo3ZlB2S0RWUHpBcUpuWnNlalFXT1hBajUtSUcxVXRIeXp4c0RBb3NYZXVrQnItdkhUcktYRDQ5amFPbGNnbWdyWUd5V3ZJTEtVZll5cWdGMWJSS250LWhfVDhJb2RoVVVENXlGaHJWT1d3NHlJaGt3emRCNA?oc=5",
+    "date": "2026-11-05T22:03:11.000Z",
+    "source": "Mail & Guardian",
+    "score": 3
    },
    {
     "group": "Rates and bonds",
@@ -59,24 +77,6 @@
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcTVDdjdLOHdBZENHQ192eklSbFFrVHZ6aVJnMXJhNWhxeG5uQzlLNDZUcjk4dDB5bmRIRC0tYmdBbXI5NU5ZaV9UTEkwNmhSbWhtNGxiOUZ0SUZXVE8yUFAxZW1Mak1PbUVabXdHLWxYTW1IV19tU3JYUEw5dzlKSUxSOXdwdXFQSDB0SXU1c0lNbllMVmZ1ZWZB?oc=5",
     "date": "2026-11-02T06:13:52.000Z",
     "source": "The Citizen",
-    "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "municipal rates increase Johannesburg property",
-    "title": "How poor municipal infrastructure threatens property values - thenational.co.za",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGFKa1ZsMXNCRTNvQkFSOEhKQlZDekpYOFlWdFg3U1ZVVXpSTHlSRzJMdUdyQWNOTjNJaXdIMUlzRDFhU1JxbmF6SXJoVWdKMzBjNHRTQlI0cVRtN3l5WmdwWlRQZGtkRmIweFhva054c0pQaHBiOTE1THR0UjVjeTV2d1lVSExNUlZiTWxrQW5ETzNBVjgxQWlNaWRVb1hJTUFISQ?oc=5",
-    "date": "2026-10-24T07:00:00.000Z",
-    "source": "thenational.co.za",
-    "score": 3
-   },
-   {
-    "group": "Property market",
-    "query": "Johannesburg property market OR house prices",
-    "title": "Renting out in Joburg to fund a Cape Town lifestyle - Bizcommunity",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWmFnaVJ0eG16UklEbkVRWktfbkdtdFYtWjlld280Zjk0TWllYXdkLVVDRVpTa3FjeFpXVU1iZ1ZsSGZOVDlDQjZXc1ZoZ0tEZXRrMUhzeXpTUUxsMnFHS1VOVTcwbWdVSjc0ZmVGRVFsak04X2lvMXg5cy0tQTRuT0FaUFBINlNlMDFNNHNsNExQS3JiOUo3a2ZGelo?oc=5",
-    "date": "2026-10-21T07:00:00.000Z",
-    "source": "Bizcommunity",
     "score": 3
    }
   ],
@@ -121,7 +121,7 @@
    "theme": "Demand",
    "hook": "The Joburg market is moving.",
    "body": "Good listings are moving fast this month. If you are buying or selling, timing matters more than price talk. Message us for a free valuation.",
-   "based_on": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSUJlbWpCdHdyM2ZZOVI0TFF2TjA4WnV4MDYwODFfQmIyU0ZidHJCZ3k1cXJiVTNBblJMbHd4ZER1VWNsZmhqdUc5U1B5QVV2WjlLY0xyU3hRU3hUZ25GQXZTRERETnNENFRYTEJLVjdhUmNiaFliTkR0Z1RENTVIWnJ4NjgtX0l2QTdBR2JKTHZXcmR3Ti1uX1loaE1Ed0tLcV9TVUlra0pING40Rl9uT0h1QjhHOFNrQmFFY1lLQkRGM2ZH?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWTlVWjNUX3gtQU5BZFhNMTZpa2JieDRRQ3ItV0dkbF8yVzNpcjB1RGtFV2dfNGg3RjQ3aGJSSy1Nc0RjSTFDLWhsMjlXZXVjN0lDUUU1eTdvbVU5c3Z1d1ZCVnZSdU1kOFU4S1dYY0ZlaHltX0hzT0hnZ2tNdFV2ZmJMdENkZVd3eUVpekh5bkM4c285eDVrYWtpcTRzN0RpWG1TdFVBMHJIMGxWZ3RLLXBzeGxaWW1MQlpv?oc=5",
    "channels": [
     "facebook",
     "instagram"
