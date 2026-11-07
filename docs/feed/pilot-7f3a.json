@@ -2,11 +2,20 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-07T05:54:53.347Z",
+ "generated_at": "2026-11-07T12:56:43.010Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
+   {
+    "group": "Events and seasons",
+    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
+    "title": "Drakensberg Boys Choir Announces Johannesburg Christmas Concert at Melrose Arch - Underground Press",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0ZiS3pfa1c3clhrU1VRdVVHb2lILVpVeTNEQ0M5NXBSaXNhOUxNU1JjekFQaTF2WEdZdm8tRS0ybzhYTnpJNjdaOEZ5WXQ1UWQ2WVVuaGo5U1BkRzlmU013SlJvR1AyY1FYVUVQNWZ1djF5Y3otLVZ0bjlmakJZS3lyTnpHVm13NmJWNnZvNzBOX0h4Mm15LW9RbzlqVjg?oc=5",
+    "date": "2026-11-05T09:56:39.000Z",
+    "source": "Underground Press",
+    "score": 4
+   },
    {
     "group": "Events and seasons",
     "query": "Johannesburg festive season dining OR Christmas functions restaurants",
@@ -53,6 +62,15 @@
     "score": 4
    },
    {
+    "group": "Costs",
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "The most expensive city to buy groceries in South Africa - BusinessTech",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdjRNaS1mZTRVX244d1ZhbFQwZjZLWlBuSFRybUMyTmUyVnpnN2VWT0lVTHdHWTRzVWU3Mk5lZHFiUzM0X0RjaHpaOGRabE9YdDVSZElzNXB3V0VRMzdxazNCLXlMdjR1b0ZkZlZaZFNDYUQ2Rk84a0p2QzRzN094c21tWXRVTUVnZjBNbWtDaEs4aGZZQjRXb2ZXWjVCM2lQM254ZUxtQzRtRFNK?oc=5",
+    "date": "2026-10-30T07:11:43.000Z",
+    "source": "BusinessTech",
+    "score": 4
+   },
+   {
     "group": "Events and seasons",
     "query": "Johannesburg events this month",
     "title": "Events: What’s on in Johannesburg - Time Out Worldwide",
@@ -60,24 +78,6 @@
     "date": "2026-10-27T07:00:00.000Z",
     "source": "Time Out Worldwide",
     "score": 4
-   },
-   {
-    "group": "Costs",
-    "query": "load shedding restaurants South Africa",
-    "title": "As festive demand peaks, smarter packaging can help food manufacturers keep shelves stocked and waste down - Novus Press Bulletin",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZi1WLWpVVFhacUJyMkoxWEtjNkZUTDJmUklSM0NBS29FSHpQeGVxaUhDMVB5YjQ5SkNNU21WSzZQazFUcE8yRzF5UzBFVThJY1RVNWdhN1ZBeExPbnR3UWFNajR3djNVb2tuMERVX0VZa2lhWmNleEkxRVpBYi1hc2I2OUNwMHVyOW9ncnJXeVJGeHlEcEJzQ3VuejU5dzRYM1BBN1BXc3B6ZnV6Y08wQTlMRVBueTNHcHNCR2JfUzFkTXpBQlVVTklwUlVyM2ZITjBuZDZfdllXZ0k?oc=5",
-    "date": "2026-11-05T11:08:35.000Z",
-    "source": "Novus Press Bulletin",
-    "score": 3
-   },
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
-    "title": "Christmas Comes To Rosebank As The Zone Unveils Its Festive Lights - Underground Press",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdndPNDJNUjJkeFpzcUpaVlI0dWdvejh2WHdKdzNDWE1fQ3hRdnRpX1dMX0FSSzRabkQtVlpON0FTUnRDTElQNnpZSjZGckhhdTFKUkRCcmJmeWVtdFNReGFHUFpiVi1oT01nd3NlMzVXSmpSMEprTWdyTFJHQ2U3ZjkzTFVQdUlNYUtOTGppY0J5R3B0NnRNdVlSX1BiUFFFY05FVW52UDQxMElZcjhiOQ?oc=5",
-    "date": "2026-11-02T10:22:37.000Z",
-    "source": "Underground Press",
-    "score": 3
    }
   ],
   "errors": []
@@ -109,7 +109,7 @@
    "theme": "Events",
    "hook": "Plan your next get-together with us.",
    "body": "The festive season is close and Joburg is busy. Book your table or your office function early, we will hold the best seats for you. Message us on WhatsApp to reserve.",
-   "based_on": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkk4SkhrZVJwaFFxcXVOTHhkNk84aUFKRHpUNUpFOFpOVEM5M25KNVRKRFNrbHB6MjZ6Uy0ycW1rR3hDczh5Qy13c3dZdUYyeXNvdUFUczFaaks1c09yeW5McFdXTU9janl2OUF1cGV3LTJ1ODFaNndObTl3NVh4dGpsYU1TSEU1RXpEYWh3RmUzRHFnVHFJUnNBYVlmWEhvRUg1bHpPaEhnZmhjYjZYaU4tX2puOGN4b3c?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0ZiS3pfa1c3clhrU1VRdVVHb2lILVpVeTNEQ0M5NXBSaXNhOUxNU1JjekFQaTF2WEdZdm8tRS0ybzhYTnpJNjdaOEZ5WXQ1UWQ2WVVuaGo5U1BkRzlmU013SlJvR1AyY1FYVUVQNWZ1djF5Y3otLVZ0bjlmakJZS3lyTnpHVm13NmJWNnZvNzBOX0h4Mm15LW9RbzlqVjg?oc=5",
    "channels": [
     "facebook",
     "instagram"
