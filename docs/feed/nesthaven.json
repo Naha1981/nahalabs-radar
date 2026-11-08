@@ -2,7 +2,7 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-11-08T13:19:24.400Z",
+ "generated_at": "2026-11-08T22:00:25.491Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -10,10 +10,10 @@
    {
     "group": "Property market",
     "query": "Johannesburg property market OR house prices",
-    "title": "Cape Town rents nearly double Joburg's as property prices jump 12% - IOL",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbG1Td093aWhpX0FpMnRDcEtiRi1OZ1ZTWGxYTnNTU2x0YkNsQ0NqRG5GT2FsVVdfbVFwX3BDaV90bWpzWHltRTlDamtfUVdYSzNldVZSbDJHakNrNDVCU0RaY2hzajNTX3ZPLXc2NHhIMHRXZFpzU1M3TG4yWUxpOUl0aGQyVnlBOFBYZERYbnp0WUNFWWZqbTFaT25CcUdMb3o1TjNVLWlSSVh2QlE?oc=5",
-    "date": "2026-11-08T08:29:17.000Z",
-    "source": "IOL",
+    "title": "Cape Town rents nearly double Joburg's as property prices jump 12% - Cape Argus",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGFTNEdDY1A5ODd3c01GTTdPZXhBcWdhUHQ3cGtGQTRVcmFqU2FoWG1rbHJGMVp5ZU5zakFMcXMzWTFvM0dxQi12UzM1REdsbzVVSGpvZUNBU3RMUGhBcW85eDlrV0plTGpCWjhyeUs5SzZ3NWxEUEYtMHNYSGdZdUd3T0k0anUzZ2oyWkpfeE1jLTh1NHJGd0xGMVp1bGtEY3BfQWJUYkY?oc=5",
+    "date": "2026-11-08T08:19:17.000Z",
+    "source": "Cape Argus",
     "score": 4
    },
    {
@@ -88,7 +88,7 @@
    "theme": "Rates",
    "hook": "What the rate decision means for your bond.",
    "body": "Rates are moving again. Here is what it means in rands on a typical Joburg bond, and whether to fix or stay variable. Ask us, we will work it out for your place.",
-   "based_on": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbG1Td093aWhpX0FpMnRDcEtiRi1OZ1ZTWGxYTnNTU2x0YkNsQ0NqRG5GT2FsVVdfbVFwX3BDaV90bWpzWHltRTlDamtfUVdYSzNldVZSbDJHakNrNDVCU0RaY2hzajNTX3ZPLXc2NHhIMHRXZFpzU1M3TG4yWUxpOUl0aGQyVnlBOFBYZERYbnp0WUNFWWZqbTFaT25CcUdMb3o1TjNVLWlSSVh2QlE?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGFTNEdDY1A5ODd3c01GTTdPZXhBcWdhUHQ3cGtGQTRVcmFqU2FoWG1rbHJGMVp5ZU5zakFMcXMzWTFvM0dxQi12UzM1REdsbzVVSGpvZUNBU3RMUGhBcW85eDlrV0plTGpCWjhyeUs5SzZ3NWxEUEYtMHNYSGdZdUd3T0k0anUzZ2oyWkpfeE1jLTh1NHJGd0xGMVp1bGtEY3BfQWJUYkY?oc=5",
    "channels": [
     "facebook",
     "instagram"
