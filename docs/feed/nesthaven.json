@@ -2,11 +2,20 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-11-08T22:00:25.491Z",
+ "generated_at": "2026-11-09T06:20:18.435Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
+   {
+    "group": "Rates and bonds",
+    "query": "repo rate South Africa property buyers",
+    "title": "SA Reits extend lead over equities as investors return to property stocks - Business Day",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVduOHM0RDFuekVkMm5xRzdJal9oWDVfQ1RKZEtSX2F3bXpkY0tCdGFycmtoQTMwejNYVVVmUGJOZ1dwTzVOeHFaeDVocHpJUnhQbWFtc1dFdXMzM1JEc2c3R29iQ2ZEcEFoaG81OVo3Y3NOMkM2TDJPNHpvR0pGakJxc2o1WWZhTWFGUWZjdExnRERyWXlaZ291V1NfT04ybElIU2NHM1lFb0pfQ3pDWnhWWm1BYjlJYU1QdEluUzJROTQ?oc=5",
+    "date": "2026-11-09T03:00:00.000Z",
+    "source": "Business Day",
+    "score": 4
+   },
    {
     "group": "Property market",
     "query": "Johannesburg property market OR house prices",
@@ -69,15 +78,6 @@
     "date": "2026-11-05T22:03:11.000Z",
     "source": "Mail & Guardian",
     "score": 3
-   },
-   {
-    "group": "Rates and bonds",
-    "query": "South Africa interest rate home loans OR bond rates",
-    "title": "Here's how the interest rate hike will affect your car and home loan repayments - Cape Argus",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOVp3RFZNQWRuRnViNzRnVGlzaTA2SnRzOTNMdkdWTHhwRlpyMlRkN2g4YS0xT0JQQWJfbzdIUks3SHdMZ3JGMlI4cmNZX0FWak5ibDVaTWZnOTBSbV9KU2p1ZVFHbEhvYmdmeE5aeW1MWTBoZVFhLW1CZjhKWjZlZDREdWR4N0FLVDhsaXE3TkVJQXBKckJQaTNaT01xSGJTYnM2Wk9ZRDQzYm1EZHZBYUJob0NmeTcxbjFsNnFqeW4taWlFU2Fn?oc=5",
-    "date": "2026-10-27T07:34:51.000Z",
-    "source": "Cape Argus",
-    "score": 3
    }
   ],
   "errors": []
@@ -88,7 +88,7 @@
    "theme": "Rates",
    "hook": "What the rate decision means for your bond.",
    "body": "Rates are moving again. Here is what it means in rands on a typical Joburg bond, and whether to fix or stay variable. Ask us, we will work it out for your place.",
-   "based_on": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGFTNEdDY1A5ODd3c01GTTdPZXhBcWdhUHQ3cGtGQTRVcmFqU2FoWG1rbHJGMVp5ZU5zakFMcXMzWTFvM0dxQi12UzM1REdsbzVVSGpvZUNBU3RMUGhBcW85eDlrV0plTGpCWjhyeUs5SzZ3NWxEUEYtMHNYSGdZdUd3T0k0anUzZ2oyWkpfeE1jLTh1NHJGd0xGMVp1bGtEY3BfQWJUYkY?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVduOHM0RDFuekVkMm5xRzdJal9oWDVfQ1RKZEtSX2F3bXpkY0tCdGFycmtoQTMwejNYVVVmUGJOZ1dwTzVOeHFaeDVocHpJUnhQbWFtc1dFdXMzM1JEc2c3R29iQ2ZEcEFoaG81OVo3Y3NOMkM2TDJPNHpvR0pGakJxc2o1WWZhTWFGUWZjdExnRERyWXlaZ291V1NfT04ybElIU2NHM1lFb0pfQ3pDWnhWWm1BYjlJYU1QdEluUzJROTQ?oc=5",
    "channels": [
     "facebook",
     "instagram"
@@ -99,7 +99,7 @@
    "theme": "Area spotlight",
    "hook": "Sandton vs the suburbs: what your money buys.",
    "body": "Same budget, very different homes. This week we compare what R2m buys in Sandton Central versus Fourways. Ask us for the full list.",
-   "based_on": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00QWI4NjJfX1U2T0xfYlR6YkhHMEhLVzJUajVRSlN4NjRLWnR1NmhidE5LQWdnV21nTlhsclE4ZXRxQTMxa2R3MjlBeEZpZkRHdWxUdW82ZXZVUjdSM08wQmF1S1FyWFU?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGFTNEdDY1A5ODd3c01GTTdPZXhBcWdhUHQ3cGtGQTRVcmFqU2FoWG1rbHJGMVp5ZU5zakFMcXMzWTFvM0dxQi12UzM1REdsbzVVSGpvZUNBU3RMUGhBcW85eDlrV0plTGpCWjhyeUs5SzZ3NWxEUEYtMHNYSGdZdUd3T0k0anUzZ2oyWkpfeE1jLTh1NHJGd0xGMVp1bGtEY3BfQWJUYkY?oc=5",
    "channels": [
     "facebook",
     "instagram"
@@ -110,7 +110,7 @@
    "theme": "Buyers",
    "hook": "First-time buyer? Start here.",
    "body": "Deposit, transfer costs, bond approval - the three things that catch first-time buyers. We walk you through all of it before you sign anything.",
-   "based_on": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQakZMT2ZfRG8wbzNyR21hQ2RfYnFtOWV0SU9STHlZVmFSUjM2aUlYQjEwYWpMWUJtRm5jUmtRajB2NGF1MWZwVjFYZFBYRmpjWUpnLTJ4ZHJXX3dWXzdJUE9CQ3lsZ1YxbjRLOVYyYmotRGdyeTNJRVdsSUN2SW5yVHgtbWpUZUNnS1BheVNjVWZZTmRmWUhKN0RFX1RtNHpmREFUV3NXSkdmV3FoSjlpRXZpX2YtNFc3UTBFakpSbWp0TkZfck55MlRBa3pVVkxGVnFMMFl0TQ?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00QWI4NjJfX1U2T0xfYlR6YkhHMEhLVzJUajVRSlN4NjRLWnR1NmhidE5LQWdnV21nTlhsclE4ZXRxQTMxa2R3MjlBeEZpZkRHdWxUdW82ZXZVUjdSM08wQmF1S1FyWFU?oc=5",
    "channels": [
     "facebook",
     "instagram"
@@ -121,7 +121,7 @@
    "theme": "Demand",
    "hook": "The Joburg market is moving.",
    "body": "Good listings are moving fast this month. If you are buying or selling, timing matters more than price talk. Message us for a free valuation.",
-   "based_on": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsVDRkcG5ITkZsOUs4MnVtLWRfLVFnVHU1d1p1NG9EaE41aTNla3JCWVdLWjJwT2I3cEdESjBUUmxvcTNNZFBldFFCTFJMVUE?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQakZMT2ZfRG8wbzNyR21hQ2RfYnFtOWV0SU9STHlZVmFSUjM2aUlYQjEwYWpMWUJtRm5jUmtRajB2NGF1MWZwVjFYZFBYRmpjWUpnLTJ4ZHJXX3dWXzdJUE9CQ3lsZ1YxbjRLOVYyYmotRGdyeTNJRVdsSUN2SW5yVHgtbWpUZUNnS1BheVNjVWZZTmRmWUhKN0RFX1RtNHpmREFUV3NXSkdmV3FoSjlpRXZpX2YtNFc3UTBFakpSbWp0TkZfck55MlRBa3pVVkxGVnFMMFl0TQ?oc=5",
    "channels": [
     "facebook",
     "instagram"
