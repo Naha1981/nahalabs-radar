@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-09T22:18:30.385Z",
+ "generated_at": "2026-11-10T07:13:46.660Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -72,12 +72,12 @@
    },
    {
     "group": "Events and seasons",
-    "query": "Johannesburg events this month",
-    "title": "Events: What’s on in Johannesburg - Time Out Worldwide",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
-    "date": "2026-10-27T07:00:00.000Z",
-    "source": "Time Out Worldwide",
-    "score": 4
+    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
+    "title": "Christmas lights and dinosaur adventures await at Cradlestone Mall - The Citizen",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVWwxaEhkb3dtOXNqUUF1c0N6T0EyMlR0RUoxNHZONEdCd0NZSXZvMy1vb04ycEhDd09JcDlGSzhlRXVCOGVjdmpnTzEtV2RyM1NBY2x6VkNxMVJsRnpVdDluTHg0MTN6dWlGT1BwLVFzV1RZUExWU25oZ3BhQWFMYVJhdzE1VmFidG0wUDRJRFFMTk93QlRXcW5ab2tGbDloazB5ZnEtc3VIeHB4R1N4OFktdFpRY2NvUnZIZkV5T3BpU0VZV3JUZ01jVVAxSldYcUpTc21sTzN4bC1aenhKNnZKZmdMcVoxZGhQZ3Vn?oc=5",
+    "date": "2026-11-09T10:50:23.000Z",
+    "source": "The Citizen",
+    "score": 3
    }
   ],
   "errors": []
