@@ -2,7 +2,7 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-11-10T07:13:48.862Z",
+ "generated_at": "2026-11-10T19:41:37.574Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -12,17 +12,17 @@
     "query": "Johannesburg property market OR house prices",
     "title": "Cape Town rents nearly double Joburg's as property prices jump 12% - Cape Argus",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGFTNEdDY1A5ODd3c01GTTdPZXhBcWdhUHQ3cGtGQTRVcmFqU2FoWG1rbHJGMVp5ZU5zakFMcXMzWTFvM0dxQi12UzM1REdsbzVVSGpvZUNBU3RMUGhBcW85eDlrV0plTGpCWjhyeUs5SzZ3NWxEUEYtMHNYSGdZdUd3T0k0anUzZ2oyWkpfeE1jLTh1NHJGd0xGMVp1bGtEY3BfQWJUYkY?oc=5",
-    "date": "2026-11-09T00:10:10.000Z",
+    "date": "2026-11-08T09:18:27.000Z",
     "source": "Cape Argus",
     "score": 4
    },
    {
-    "group": "Costs",
-    "query": "municipal rates increase Johannesburg property",
-    "title": "Cape Town property prices surge 12%, more than twice Johannesburg's increase - Cape Times",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00QWI4NjJfX1U2T0xfYlR6YkhHMEhLVzJUajVRSlN4NjRLWnR1NmhidE5LQWdnV21nTlhsclE4ZXRxQTMxa2R3MjlBeEZpZkRHdWxUdW82ZXZVUjdSM08wQmF1S1FyWFU?oc=5",
-    "date": "2026-11-08T00:03:17.000Z",
-    "source": "Cape Times",
+    "group": "Property market",
+    "query": "Johannesburg property market OR house prices",
+    "title": "Cape Town property prices surge 12%, more than twice Johannesburg's increase - IOL",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVNnYjluLVpPRlNRdjR0cjhWakZZUmlHcFVVN1FNRm0tc1V5c1Q0WU5Sa0tDTlh4OGl3ZlJfcDJXRWh4X3R5SWU3cEhVX0x6eWp5Y1d2LWF5cHRQYWs5ZnRwUlB3WF9zN1ktZlB6RTRYbnJCcHVqalZVUEpBZ1puWFlST0wwQ2VRWTY4Vmx6bTRXeENFLWFySHRYV2hyTGlTOEpGRTJ4eVNTS0xPNWJ0ajFXeXlvMWx4V2c?oc=5",
+    "date": "2026-11-08T08:02:15.000Z",
+    "source": "IOL",
     "score": 4
    },
    {
@@ -63,20 +63,20 @@
    },
    {
     "group": "Rates and bonds",
-    "query": "South Africa interest rate home loans OR bond rates",
-    "title": "Here's how the interest rate hike will affect your car and home loan repayments - Cape Argus",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOVp3RFZNQWRuRnViNzRnVGlzaTA2SnRzOTNMdkdWTHhwRlpyMlRkN2g4YS0xT0JQQWJfbzdIUks3SHdMZ3JGMlI4cmNZX0FWak5ibDVaTWZnOTBSbV9KU2p1ZVFHbEhvYmdmeE5aeW1MWTBoZVFhLW1CZjhKWjZlZDREdWR4N0FLVDhsaXE3TkVJQXBKckJQaTNaT01xSGJTYnM2Wk9ZRDQzYm1EZHZBYUJob0NmeTcxbjFsNnFqeW4taWlFU2Fn?oc=5",
-    "date": "2026-10-27T07:34:51.000Z",
-    "source": "Cape Argus",
-    "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "property transfer costs South Africa OR conveyancing fees",
+    "query": "repo rate South Africa property buyers",
     "title": "Sars latest guide on ‘amounts to be withheld when a non-resident sells immovable property in South Africa' clearly signals stricter enforcement - Polity.org.za",
     "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQlR4Wlo1UjRfb0l1UmdQdXAzeXZsdmRvTDRXTXRwRm5iN2JHQXFjMmVWRllncURXaFJTSzI0MlFHeXpXTFFIM1BtQmk4MHcyeTVxSHQtYkhyN2F0ejBNcERtUDBQRzF6UzZiQ0JGX2ExTEpVQURlYTh3dUlXd2FGQUtBY3RfYUV4SFM2UUpZTGtQdlNVX3h2SWh1OEl5aDFEb0lHQXZhWjZGQnd2VFYzNEg3TmQ4U0VWT3paWHZyZ3JVUUFGWVJDc0dBQUhQMjhjSzc5R29OdzJ5bEhfRnN3d2R3M3NCZFoyOGZCbXBzYTYtTmJYMmtUZG00Y2pfMHhJbVhHTGl6RjJCWVJTeU9ZdEhHY0k?oc=5",
     "date": "2026-10-27T07:00:00.000Z",
     "source": "Polity.org.za",
+    "score": 3
+   },
+   {
+    "group": "Demand",
+    "query": "first time home buyers South Africa OR property demand Gauteng",
+    "title": "South Africa’s housing market shows resilience, but first-time buyers retreat - thenational.co.za",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWTlVWjNUX3gtQU5BZFhNMTZpa2JieDRRQ3ItV0dkbF8yVzNpcjB1RGtFV2dfNGg3RjQ3aGJSSy1Nc0RjSTFDLWhsMjlXZXVjN0lDUUU1eTdvbVU5c3Z1d1ZCVnZSdU1kOFU4S1dYY0ZlaHltX0hzT0hnZ2tNdFV2ZmJMdENkZVd3eUVpekh5bkM4c285eDVrYWtpcTRzN0RpWG1TdFVBMHJIMGxWZ3RLLXBzeGxaWW1MQlpv?oc=5",
+    "date": "2026-10-27T07:00:00.000Z",
+    "source": "thenational.co.za",
     "score": 3
    }
   ],
@@ -99,7 +99,7 @@
    "theme": "Area spotlight",
    "hook": "Sandton vs the suburbs: what your money buys.",
    "body": "Same budget, very different homes. This week we compare what R2m buys in Sandton Central versus Fourways. Ask us for the full list.",
-   "based_on": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00QWI4NjJfX1U2T0xfYlR6YkhHMEhLVzJUajVRSlN4NjRLWnR1NmhidE5LQWdnV21nTlhsclE4ZXRxQTMxa2R3MjlBeEZpZkRHdWxUdW82ZXZVUjdSM08wQmF1S1FyWFU?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVNnYjluLVpPRlNRdjR0cjhWakZZUmlHcFVVN1FNRm0tc1V5c1Q0WU5Sa0tDTlh4OGl3ZlJfcDJXRWh4X3R5SWU3cEhVX0x6eWp5Y1d2LWF5cHRQYWs5ZnRwUlB3WF9zN1ktZlB6RTRYbnJCcHVqalZVUEpBZ1puWFlST0wwQ2VRWTY4Vmx6bTRXeENFLWFySHRYV2hyTGlTOEpGRTJ4eVNTS0xPNWJ0ajFXeXlvMWx4V2c?oc=5",
    "channels": [
     "facebook",
     "instagram"
