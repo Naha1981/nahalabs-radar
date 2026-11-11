@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-11T06:10:15.099Z",
+ "generated_at": "2026-11-11T14:16:22.498Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -10,10 +10,10 @@
    {
     "group": "Events and seasons",
     "query": "Johannesburg events this month",
-    "title": "adidas Originals Studio x Studio88 event in Johannesburg 2026 - YoMzansi",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2bHdQYUtkM1pWbldXeV9IalhlNzhkTVl6Zm9oUjlkU05QTVBjZ2NPLWFQeEx2cHVpNXpZMEE0Ti1ocDRib0FKT25nSUlkb3FENGpQNGZFQzZOaWdoYmtHV0NPVFl1dFVmZE1ORGhPSTFzNm8?oc=5",
-    "date": "2026-11-09T11:53:39.000Z",
-    "source": "YoMzansi",
+    "title": "Events: What’s on in Johannesburg - Time Out Worldwide",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
+    "date": "2026-11-08T22:00:00.000Z",
+    "source": "Time Out Worldwide",
     "score": 4
    },
    {
@@ -36,15 +36,6 @@
    },
    {
     "group": "Dining and demand",
-    "query": "Sandton restaurants new opening OR best restaurants",
-    "title": "The man who became the first South African chef to earn a Michelin star and launched five restaurants and new food and lifestyle products - Daily Investor",
-    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORk9NREQ4OElFX29Wb2E2LUlpTS1VdVpqRGE1bldDWm01eHVQeWlhVDBGSkRSMzBHeV9YNExtcnJOLVFuSDZYWFlWeHp0YXRuMjZfOS1aSEpJVFJXQnl1RHJ1RzN5bmQtd3BHMHpBSUJXc0VZaEdneUxhNXNackd1OFltYmFJU0Y2V1gwYUNBTnV5d1dVTVMyUlVJZDZfRV94cE4ydnJKcHhveUxPdG1KUE1xMS1sMHF1bWNDTzFaTTVJU2RiQXE0Y0FtNmdQRE1sNzNDUHM0TnZRdS1QWkRrZGxuRUpYVVhBSkNIbWU5dlhxQllodHB3dkFpcTZYbVU2RjVVYXh1ZnZ5Z0tk?oc=5",
-    "date": "2026-11-02T17:00:00.000Z",
-    "source": "Daily Investor",
-    "score": 4
-   },
-   {
-    "group": "Dining and demand",
     "query": "Johannesburg restaurant bookings OR dining out trends",
     "title": "From Bunny Chow to Kota: South Africa’s Hottest Food Trends of 2026 - https://docksiderestaurant.com.au/",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFRocWJCSS03MXVEQ3NfM0pYazFJM1hieUdrUEVrdkdVb19rRXNPWGd1X3ZJdzFwVGJKMU9JZmpiNVJkSEE0SlBhM3Z1THBTMS1YNmdPT2k5UHcxUUVfUm1mMkJiRnBRdmotVFZtOU9QU1F2QWJlQTRCZ0dpMTdJcUVBRHBFSmc?oc=5",
@@ -59,6 +50,15 @@
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlQtLUhWeXJXQWtXcTBWeVRqeGpDVk9BSjBtMVFUQ1dZNUZuNnc5V3dyalNHZjg0Zk5MUnFucjQ0bEJCZ3oyTmV5Uk92MWtrazFudktTVVlFTHc5YmVYVS1pMFNMRExYTXlrY3lZYXB5X2RSSGs1aXRhczhVUGhxSkM2bkVNZzBTOU9CSmhNSHNQNXFF?oc=5",
     "date": "2026-11-02T09:38:13.000Z",
     "source": "BusinessTech",
+    "score": 4
+   },
+   {
+    "group": "Dining and demand",
+    "query": "Sandton restaurants new opening OR best restaurants",
+    "title": "The man who became the first South African chef to earn a Michelin star and launched five restaurants and new food and lifestyle products - Daily Investor",
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORk9NREQ4OElFX29Wb2E2LUlpTS1VdVpqRGE1bldDWm01eHVQeWlhVDBGSkRSMzBHeV9YNExtcnJOLVFuSDZYWFlWeHp0YXRuMjZfOS1aSEpJVFJXQnl1RHJ1RzN5bmQtd3BHMHpBSUJXc0VZaEdneUxhNXNackd1OFltYmFJU0Y2V1gwYUNBTnV5d1dVTVMyUlVJZDZfRV94cE4ydnJKcHhveUxPdG1KUE1xMS1sMHF1bWNDTzFaTTVJU2RiQXE0Y0FtNmdQRE1sNzNDUHM0TnZRdS1QWkRrZGxuRUpYVVhBSkNIbWU5dlhxQllodHB3dkFpcTZYbVU2RjVVYXh1ZnZ5Z0tk?oc=5",
+    "date": "2026-11-02T08:00:00.000Z",
+    "source": "Daily Investor",
     "score": 4
    },
    {
@@ -109,7 +109,7 @@
    "theme": "Events",
    "hook": "Plan your next get-together with us.",
    "body": "The festive season is close and Joburg is busy. Book your table or your office function early, we will hold the best seats for you. Message us on WhatsApp to reserve.",
-   "based_on": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2bHdQYUtkM1pWbldXeV9IalhlNzhkTVl6Zm9oUjlkU05QTVBjZ2NPLWFQeEx2cHVpNXpZMEE0Ti1ocDRib0FKT25nSUlkb3FENGpQNGZFQzZOaWdoYmtHV0NPVFl1dFVmZE1ORGhPSTFzNm8?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
    "channels": [
     "facebook",
     "instagram"
@@ -119,8 +119,8 @@
   {
    "theme": "Demand",
    "hook": "Fresh on the Joburg dining scene.",
-   "body": "Joburg is eating out again: \"The man who became the first South African chef to earn a Michelin star and launched five restaurants and new food and lifestyle products\". Here is what we are serving this week. Ask us on WhatsApp for today's specials.",
-   "based_on": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORk9NREQ4OElFX29Wb2E2LUlpTS1VdVpqRGE1bldDWm01eHVQeWlhVDBGSkRSMzBHeV9YNExtcnJOLVFuSDZYWFlWeHp0YXRuMjZfOS1aSEpJVFJXQnl1RHJ1RzN5bmQtd3BHMHpBSUJXc0VZaEdneUxhNXNackd1OFltYmFJU0Y2V1gwYUNBTnV5d1dVTVMyUlVJZDZfRV94cE4ydnJKcHhveUxPdG1KUE1xMS1sMHF1bWNDTzFaTTVJU2RiQXE0Y0FtNmdQRE1sNzNDUHM0TnZRdS1QWkRrZGxuRUpYVVhBSkNIbWU5dlhxQllodHB3dkFpcTZYbVU2RjVVYXh1ZnZ5Z0tk?oc=5",
+   "body": "Joburg is eating out again: \"From Bunny Chow to Kota: South Africa’s Hottest Food Trends of 2026\". Here is what we are serving this week. Ask us on WhatsApp for today's specials.",
+   "based_on": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFRocWJCSS03MXVEQ3NfM0pYazFJM1hieUdrUEVrdkdVb19rRXNPWGd1X3ZJdzFwVGJKMU9JZmpiNVJkSEE0SlBhM3Z1THBTMS1YNmdPT2k5UHcxUUVfUm1mMkJiRnBRdmotVFZtOU9QU1F2QWJlQTRCZ0dpMTdJcUVBRHBFSmc?oc=5",
    "channels": [
     "facebook",
     "instagram"
