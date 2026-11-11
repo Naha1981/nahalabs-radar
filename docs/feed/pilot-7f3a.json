@@ -2,11 +2,20 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-10T19:41:34.855Z",
+ "generated_at": "2026-11-11T06:10:15.099Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
+   {
+    "group": "Events and seasons",
+    "query": "Johannesburg events this month",
+    "title": "adidas Originals Studio x Studio88 event in Johannesburg 2026 - YoMzansi",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2bHdQYUtkM1pWbldXeV9IalhlNzhkTVl6Zm9oUjlkU05QTVBjZ2NPLWFQeEx2cHVpNXpZMEE0Ti1ocDRib0FKT25nSUlkb3FENGpQNGZFQzZOaWdoYmtHV0NPVFl1dFVmZE1ORGhPSTFzNm8?oc=5",
+    "date": "2026-11-09T11:53:39.000Z",
+    "source": "YoMzansi",
+    "score": 4
+   },
    {
     "group": "Events and seasons",
     "query": "Johannesburg festive season dining OR Christmas functions restaurants",
@@ -69,15 +78,6 @@
     "date": "2026-10-30T07:00:00.000Z",
     "source": "BusinessTech",
     "score": 4
-   },
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
-    "title": "Christmas lights and dinosaur adventures await at Cradlestone Mall - The Citizen",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVWwxaEhkb3dtOXNqUUF1c0N6T0EyMlR0RUoxNHZONEdCd0NZSXZvMy1vb04ycEhDd09JcDlGSzhlRXVCOGVjdmpnTzEtV2RyM1NBY2x6VkNxMVJsRnpVdDluTHg0MTN6dWlGT1BwLVFzV1RZUExWU25oZ3BhQWFMYVJhdzE1VmFidG0wUDRJRFFMTk93QlRXcW5ab2tGbDloazB5ZnEtc3VIeHB4R1N4OFktdFpRY2NvUnZIZkV5T3BpU0VZV3JUZ01jVVAxSldYcUpTc21sTzN4bC1aenhKNnZKZmdMcVoxZGhQZ3Vn?oc=5",
-    "date": "2026-11-09T10:50:23.000Z",
-    "source": "The Citizen",
-    "score": 3
    }
   ],
   "errors": []
@@ -109,7 +109,7 @@
    "theme": "Events",
    "hook": "Plan your next get-together with us.",
    "body": "The festive season is close and Joburg is busy. Book your table or your office function early, we will hold the best seats for you. Message us on WhatsApp to reserve.",
-   "based_on": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0ZiS3pfa1c3clhrU1VRdVVHb2lILVpVeTNEQ0M5NXBSaXNhOUxNU1JjekFQaTF2WEdZdm8tRS0ybzhYTnpJNjdaOEZ5WXQ1UWQ2WVVuaGo5U1BkRzlmU013SlJvR1AyY1FYVUVQNWZ1djF5Y3otLVZ0bjlmakJZS3lyTnpHVm13NmJWNnZvNzBOX0h4Mm15LW9RbzlqVjg?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2bHdQYUtkM1pWbldXeV9IalhlNzhkTVl6Zm9oUjlkU05QTVBjZ2NPLWFQeEx2cHVpNXpZMEE0Ti1ocDRib0FKT25nSUlkb3FENGpQNGZFQzZOaWdoYmtHV0NPVFl1dFVmZE1ORGhPSTFzNm8?oc=5",
    "channels": [
     "facebook",
     "instagram"
