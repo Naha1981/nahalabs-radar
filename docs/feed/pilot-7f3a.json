@@ -2,11 +2,20 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-11T14:16:22.498Z",
+ "generated_at": "2026-11-12T00:39:32.689Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
+   {
+    "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Review: Janice Honeyman’s Alice in Wonderland brings load shedding and electric cars to Joburg Theatre - Time Out Worldwide",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOanZoWnQ1ZU5IVVBSYUdoZmlreWNmZkZOY1MwMVNZb21ELU11S3dhWTlGUmEtZExwclJaanUyejNnZ2pZMDNaRkUyM3hFYi10N0JrZGkxZlUxSnFGbWFSM3c2Y1B5WTM1aWNXbDZfN0tMRHg2dHhVQlYtOXBmUm5pX0dEdmN6QnJ6dGJPN3lB?oc=5",
+    "date": "2026-11-10T08:00:00.000Z",
+    "source": "Time Out Worldwide",
+    "score": 4
+   },
    {
     "group": "Events and seasons",
     "query": "Johannesburg events this month",
@@ -14,15 +23,6 @@
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
     "date": "2026-11-08T22:00:00.000Z",
     "source": "Time Out Worldwide",
-    "score": 4
-   },
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
-    "title": "Drakensberg Boys Choir Announces Johannesburg Christmas Concert at Melrose Arch - Underground Press",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0ZiS3pfa1c3clhrU1VRdVVHb2lILVpVeTNEQ0M5NXBSaXNhOUxNU1JjekFQaTF2WEdZdm8tRS0ybzhYTnpJNjdaOEZ5WXQ1UWQ2WVVuaGo5U1BkRzlmU013SlJvR1AyY1FYVUVQNWZ1djF5Y3otLVZ0bjlmakJZS3lyTnpHVm13NmJWNnZvNzBOX0h4Mm15LW9RbzlqVjg?oc=5",
-    "date": "2026-11-05T09:56:39.000Z",
-    "source": "Underground Press",
     "score": 4
    },
    {
@@ -44,21 +44,21 @@
     "score": 4
    },
    {
-    "group": "Costs",
-    "query": "electricity tariff increase restaurants South Africa",
-    "title": "101% electricity price hike for South Africa - BusinessTech",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlQtLUhWeXJXQWtXcTBWeVRqeGpDVk9BSjBtMVFUQ1dZNUZuNnc5V3dyalNHZjg0Zk5MUnFucjQ0bEJCZ3oyTmV5Uk92MWtrazFudktTVVlFTHc5YmVYVS1pMFNMRExYTXlrY3lZYXB5X2RSSGs1aXRhczhVUGhxSkM2bkVNZzBTOU9CSmhNSHNQNXFF?oc=5",
-    "date": "2026-11-02T09:38:13.000Z",
-    "source": "BusinessTech",
-    "score": 4
-   },
-   {
     "group": "Dining and demand",
     "query": "Sandton restaurants new opening OR best restaurants",
     "title": "The man who became the first South African chef to earn a Michelin star and launched five restaurants and new food and lifestyle products - Daily Investor",
     "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORk9NREQ4OElFX29Wb2E2LUlpTS1VdVpqRGE1bldDWm01eHVQeWlhVDBGSkRSMzBHeV9YNExtcnJOLVFuSDZYWFlWeHp0YXRuMjZfOS1aSEpJVFJXQnl1RHJ1RzN5bmQtd3BHMHpBSUJXc0VZaEdneUxhNXNackd1OFltYmFJU0Y2V1gwYUNBTnV5d1dVTVMyUlVJZDZfRV94cE4ydnJKcHhveUxPdG1KUE1xMS1sMHF1bWNDTzFaTTVJU2RiQXE0Y0FtNmdQRE1sNzNDUHM0TnZRdS1QWkRrZGxuRUpYVVhBSkNIbWU5dlhxQllodHB3dkFpcTZYbVU2RjVVYXh1ZnZ5Z0tk?oc=5",
     "date": "2026-11-02T08:00:00.000Z",
     "source": "Daily Investor",
+    "score": 4
+   },
+   {
+    "group": "Costs",
+    "query": "electricity tariff increase restaurants South Africa",
+    "title": "101% electricity price hike for South Africa - BusinessTech",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlQtLUhWeXJXQWtXcTBWeVRqeGpDVk9BSjBtMVFUQ1dZNUZuNnc5V3dyalNHZjg0Zk5MUnFucjQ0bEJCZ3oyTmV5Uk92MWtrazFudktTVVlFTHc5YmVYVS1pMFNMRExYTXlrY3lZYXB5X2RSSGs1aXRhczhVUGhxSkM2bkVNZzBTOU9CSmhNSHNQNXFF?oc=5",
+    "date": "2026-11-02T08:00:00.000Z",
+    "source": "BusinessTech",
     "score": 4
    },
    {
@@ -97,8 +97,8 @@
   {
    "theme": "Costs",
    "hook": "Prices are moving, here is how we keep your plate fair.",
-   "body": "You have seen the headlines: \"101% electricity price hike for South Africa\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
-   "based_on": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlQtLUhWeXJXQWtXcTBWeVRqeGpDVk9BSjBtMVFUQ1dZNUZuNnc5V3dyalNHZjg0Zk5MUnFucjQ0bEJCZ3oyTmV5Uk92MWtrazFudktTVVlFTHc5YmVYVS1pMFNMRExYTXlrY3lZYXB5X2RSSGs1aXRhczhVUGhxSkM2bkVNZzBTOU9CSmhNSHNQNXFF?oc=5",
+   "body": "You have seen the headlines: \"Review: Janice Honeyman’s Alice in Wonderland brings load shedding and electric cars to Joburg Theatre\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
+   "based_on": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOanZoWnQ1ZU5IVVBSYUdoZmlreWNmZkZOY1MwMVNZb21ELU11S3dhWTlGUmEtZExwclJaanUyejNnZ2pZMDNaRkUyM3hFYi10N0JrZGkxZlUxSnFGbWFSM3c2Y1B5WTM1aWNXbDZfN0tMRHg2dHhVQlYtOXBmUm5pX0dEdmN6QnJ6dGJPN3lB?oc=5",
    "channels": [
     "facebook",
     "instagram"

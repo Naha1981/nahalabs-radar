@@ -2,7 +2,7 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-11-11T14:16:25.611Z",
+ "generated_at": "2026-11-12T00:39:35.050Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -19,18 +19,9 @@
    {
     "group": "Demand",
     "query": "first time home buyers South Africa OR property demand Gauteng",
-    "title": "Access to sought-after schools shapes Gauteng's residential property market - eprop.co.za",
+    "title": "Access to sought-after schools shapes Gauteng's residential property market - eProp.co.za",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTXNYcjRXaEw3NGdRemg0VzZhSkx2dW1CNVA5WUdkNGoxT3hKSGVqX0M3dWlNUGQxLVl6R0FsZkNNcjJDRkhvd3ZiY0NmRGRTYXBOVjA2eE5OUXlzaHhZUjhJejd2ZnhPNUZqVXBSeUY3elhhMEZkdU5xN3haSmhaR1VwT3dMMWdHMnhybXJURXlCR0k2eGZreGsxTEhQS3BFRFY2endMN3Jjb2dad0dUTjR3RzdsWHBFYUtHRFB4WUt3MEtuVXp2UEdHSQ?oc=5",
     "date": "2026-11-11T11:38:59.000Z",
-    "source": "eprop.co.za",
-    "score": 4
-   },
-   {
-    "group": "Rates and bonds",
-    "query": "repo rate South Africa property buyers",
-    "title": "South African real estate investment trusts (REITs) offer investors a decent place to hide while global markets remain volatile, according to new research published by the South African Real Estate Investment Trust Association (SA REIT Association) i - eProp.co.za",
-    "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPVl9VRFg1MmZZQjg5SzlKUGZxOGZuTl8zX3A0S2ZZR2pteENlZ0VmMXZqSktwbTMxZjhnSF9HNEx6ODZITEVVOVAxSDQ3S0pUTUwyaElNSFpFWVNRWnhzYVAzdkNYa0lMREgwNVR4MG5FcTZuYVdoVk1mZjFrclBZZkNZc1VfN3FvcG83UFFQVTZPeE9ScVJuamtoeEYxbGxweTF4Si1sVGFQX0Y5SkJsTHhBVTdydHVNTHkyWWk5MHpnX1VXM1NCbWFsallqcnJ3bnNFbTZsam9URHZCdk5xMTdMTklOdktHYUhvd3dGa0JRajQ2bkZTanlXQWxsVW13UDNHMktUeEFZXzJUT0VVeUFMYnFHaTJYamNfRndPNlFiMDMxMjM2WmJoWW9vQU1xR3RueFA2UW04MG9UQmN2Xzd0VU11Z1BBR3IxbUVNRVU0bzJtRTdSa2RvYkxqRUdTZ0JOV2RKT1l3WnBrV3VRZ1JrLS1rd3BoZkd6aTF4aEZiOXlKd0ljUTR3QzRaLWtSR2VZdW1TZ2hZR0NXaU1RWlJrZkhuaGVYeDlzeURn?oc=5",
-    "date": "2026-11-11T09:06:22.000Z",
     "source": "eProp.co.za",
     "score": 4
    },
@@ -78,6 +69,15 @@
     "date": "2026-11-01T07:00:00.000Z",
     "source": "The Citizen",
     "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "property transfer costs South Africa OR conveyancing fees",
+    "title": "South Africa - International Institute for Sustainable Development",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsVDRkcG5ITkZsOUs4MnVtLWRfLVFnVHU1d1p1NG9EaE41aTNla3JCWVdLWjJwT2I3cEdESjBUUmxvcTNNZFBldFFCTFJMVUE?oc=5",
+    "date": "2026-10-28T07:00:00.000Z",
+    "source": "International Institute for Sustainable Development",
+    "score": 3
    }
   ],
   "errors": []
@@ -110,7 +110,7 @@
    "theme": "Buyers",
    "hook": "First-time buyer? Start here.",
    "body": "Deposit, transfer costs, bond approval - the three things that catch first-time buyers. We walk you through all of it before you sign anything.",
-   "based_on": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPVl9VRFg1MmZZQjg5SzlKUGZxOGZuTl8zX3A0S2ZZR2pteENlZ0VmMXZqSktwbTMxZjhnSF9HNEx6ODZITEVVOVAxSDQ3S0pUTUwyaElNSFpFWVNRWnhzYVAzdkNYa0lMREgwNVR4MG5FcTZuYVdoVk1mZjFrclBZZkNZc1VfN3FvcG83UFFQVTZPeE9ScVJuamtoeEYxbGxweTF4Si1sVGFQX0Y5SkJsTHhBVTdydHVNTHkyWWk5MHpnX1VXM1NCbWFsallqcnJ3bnNFbTZsam9URHZCdk5xMTdMTklOdktHYUhvd3dGa0JRajQ2bkZTanlXQWxsVW13UDNHMktUeEFZXzJUT0VVeUFMYnFHaTJYamNfRndPNlFiMDMxMjM2WmJoWW9vQU1xR3RueFA2UW04MG9UQmN2Xzd0VU11Z1BBR3IxbUVNRVU0bzJtRTdSa2RvYkxqRUdTZ0JOV2RKT1l3WnBrV3VRZ1JrLS1rd3BoZkd6aTF4aEZiOXlKd0ljUTR3QzRaLWtSR2VZdW1TZ2hZR0NXaU1RWlJrZkhuaGVYeDlzeURn?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGFTNEdDY1A5ODd3c01GTTdPZXhBcWdhUHQ3cGtGQTRVcmFqU2FoWG1rbHJGMVp5ZU5zakFMcXMzWTFvM0dxQi12UzM1REdsbzVVSGpvZUNBU3RMUGhBcW85eDlrV0plTGpCWjhyeUs5SzZ3NWxEUEYtMHNYSGdZdUd3T0k0anUzZ2oyWkpfeE1jLTh1NHJGd0xGMVp1bGtEY3BfQWJUYkY?oc=5",
    "channels": [
     "facebook",
     "instagram"
@@ -121,7 +121,7 @@
    "theme": "Demand",
    "hook": "The Joburg market is moving.",
    "body": "Good listings are moving fast this month. If you are buying or selling, timing matters more than price talk. Message us for a free valuation.",
-   "based_on": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGFTNEdDY1A5ODd3c01GTTdPZXhBcWdhUHQ3cGtGQTRVcmFqU2FoWG1rbHJGMVp5ZU5zakFMcXMzWTFvM0dxQi12UzM1REdsbzVVSGpvZUNBU3RMUGhBcW85eDlrV0plTGpCWjhyeUs5SzZ3NWxEUEYtMHNYSGdZdUd3T0k0anUzZ2oyWkpfeE1jLTh1NHJGd0xGMVp1bGtEY3BfQWJUYkY?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVNnYjluLVpPRlNRdjR0cjhWakZZUmlHcFVVN1FNRm0tc1V5c1Q0WU5Sa0tDTlh4OGl3ZlJfcDJXRWh4X3R5SWU3cEhVX0x6eWp5Y1d2LWF5cHRQYWs5ZnRwUlB3WF9zN1ktZlB6RTRYbnJCcHVqalZVUEpBZ1puWFlST0wwQ2VRWTY4Vmx6bTRXeENFLWFySHRYV2hyTGlTOEpGRTJ4eVNTS0xPNWJ0ajFXeXlvMWx4V2c?oc=5",
    "channels": [
     "facebook",
     "instagram"
