@@ -2,18 +2,18 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-12T00:39:32.689Z",
+ "generated_at": "2026-11-12T15:08:55.156Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
    {
-    "group": "Costs",
-    "query": "load shedding restaurants South Africa",
-    "title": "Review: Janice Honeyman’s Alice in Wonderland brings load shedding and electric cars to Joburg Theatre - Time Out Worldwide",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOanZoWnQ1ZU5IVVBSYUdoZmlreWNmZkZOY1MwMVNZb21ELU11S3dhWTlGUmEtZExwclJaanUyejNnZ2pZMDNaRkUyM3hFYi10N0JrZGkxZlUxSnFGbWFSM3c2Y1B5WTM1aWNXbDZfN0tMRHg2dHhVQlYtOXBmUm5pX0dEdmN6QnJ6dGJPN3lB?oc=5",
-    "date": "2026-11-10T08:00:00.000Z",
-    "source": "Time Out Worldwide",
+    "group": "Dining and demand",
+    "query": "Johannesburg restaurant bookings OR dining out trends",
+    "title": "From Bunny Chow to Kota: South Africa’s Hottest Food Trends of 2026 - https://docksiderestaurant.com.au/",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFRocWJCSS03MXVEQ3NfM0pYazFJM1hieUdrUEVrdkdVb19rRXNPWGd1X3ZJdzFwVGJKMU9JZmpiNVJkSEE0SlBhM3Z1THBTMS1YNmdPT2k5UHcxUUVfUm1mMkJiRnBRdmotVFZtOU9QU1F2QWJlQTRCZ0dpMTdJcUVBRHBFSmc?oc=5",
+    "date": "2026-11-10T15:26:16.000Z",
+    "source": "https://docksiderestaurant.com.au/",
     "score": 4
    },
    {
@@ -30,17 +30,8 @@
     "query": "Johannesburg festive season dining OR Christmas functions restaurants",
     "title": "Where to see Christmas lights and sing carols in Joburg this festive season - Time Out Worldwide",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkk4SkhrZVJwaFFxcXVOTHhkNk84aUFKRHpUNUpFOFpOVEM5M25KNVRKRFNrbHB6MjZ6Uy0ycW1rR3hDczh5Qy13c3dZdUYyeXNvdUFUczFaaks1c09yeW5McFdXTU9janl2OUF1cGV3LTJ1ODFaNndObTl3NVh4dGpsYU1TSEU1RXpEYWh3RmUzRHFnVHFJUnNBYVlmWEhvRUg1bHpPaEhnZmhjYjZYaU4tX2puOGN4b3c?oc=5",
-    "date": "2026-11-02T22:00:00.000Z",
+    "date": "2026-11-03T08:00:00.000Z",
     "source": "Time Out Worldwide",
-    "score": 4
-   },
-   {
-    "group": "Dining and demand",
-    "query": "Johannesburg restaurant bookings OR dining out trends",
-    "title": "From Bunny Chow to Kota: South Africa’s Hottest Food Trends of 2026 - https://docksiderestaurant.com.au/",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFRocWJCSS03MXVEQ3NfM0pYazFJM1hieUdrUEVrdkdVb19rRXNPWGd1X3ZJdzFwVGJKMU9JZmpiNVJkSEE0SlBhM3Z1THBTMS1YNmdPT2k5UHcxUUVfUm1mMkJiRnBRdmotVFZtOU9QU1F2QWJlQTRCZ0dpMTdJcUVBRHBFSmc?oc=5",
-    "date": "2026-11-02T15:26:16.000Z",
-    "source": "https://docksiderestaurant.com.au/",
     "score": 4
    },
    {
@@ -78,6 +69,15 @@
     "date": "2026-10-30T07:00:00.000Z",
     "source": "BusinessTech",
     "score": 4
+   },
+   {
+    "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Eskom records over 540 days without load-shedding - Tabloid Newspapers",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcTJ3QTFEZURrX3ZURVhOV1paY3hsVDlEbXZfTnFFaGhLTG91enZqaUFZa0ZKWU9iNzlmTmM5ZXpGdndVY3lnSFU5VWg4LWNzc3Mxc0s5Sk9fQ0JVMDZtMjY2MUhHazQyRktBM0swSEpMai0wLUxDcnByV3IzaFBQemRtcw?oc=5",
+    "date": "2026-11-09T14:45:55.000Z",
+    "source": "Tabloid Newspapers",
+    "score": 3
    }
   ],
   "errors": []
@@ -97,8 +97,8 @@
   {
    "theme": "Costs",
    "hook": "Prices are moving, here is how we keep your plate fair.",
-   "body": "You have seen the headlines: \"Review: Janice Honeyman’s Alice in Wonderland brings load shedding and electric cars to Joburg Theatre\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
-   "based_on": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOanZoWnQ1ZU5IVVBSYUdoZmlreWNmZkZOY1MwMVNZb21ELU11S3dhWTlGUmEtZExwclJaanUyejNnZ2pZMDNaRkUyM3hFYi10N0JrZGkxZlUxSnFGbWFSM3c2Y1B5WTM1aWNXbDZfN0tMRHg2dHhVQlYtOXBmUm5pX0dEdmN6QnJ6dGJPN3lB?oc=5",
+   "body": "You have seen the headlines: \"101% electricity price hike for South Africa\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
+   "based_on": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlQtLUhWeXJXQWtXcTBWeVRqeGpDVk9BSjBtMVFUQ1dZNUZuNnc5V3dyalNHZjg0Zk5MUnFucjQ0bEJCZ3oyTmV5Uk92MWtrazFudktTVVlFTHc5YmVYVS1pMFNMRExYTXlrY3lZYXB5X2RSSGs1aXRhczhVUGhxSkM2bkVNZzBTOU9CSmhNSHNQNXFF?oc=5",
    "channels": [
     "facebook",
     "instagram"

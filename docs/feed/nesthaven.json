@@ -2,7 +2,7 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-11-12T00:39:35.050Z",
+ "generated_at": "2026-11-12T15:08:57.470Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -44,15 +44,6 @@
     "score": 4
    },
    {
-    "group": "Property market",
-    "query": "Johannesburg property market OR house prices",
-    "title": "South African investment CEO says Johannesburg became so bad that he lost 70% of his house’s value - Daily Investor",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQakZMT2ZfRG8wbzNyR21hQ2RfYnFtOWV0SU9STHlZVmFSUjM2aUlYQjEwYWpMWUJtRm5jUmtRajB2NGF1MWZwVjFYZFBYRmpjWUpnLTJ4ZHJXX3dWXzdJUE9CQ3lsZ1YxbjRLOVYyYmotRGdyeTNJRVdsSUN2SW5yVHgtbWpUZUNnS1BheVNjVWZZTmRmWUhKN0RFX1RtNHpmREFUV3NXSkdmV3FoSjlpRXZpX2YtNFc3UTBFakpSbWp0TkZfck55MlRBa3pVVkxGVnFMMFl0TQ?oc=5",
-    "date": "2026-10-29T07:00:00.000Z",
-    "source": "Daily Investor",
-    "score": 4
-   },
-   {
     "group": "Demand",
     "query": "first time home buyers South Africa OR property demand Gauteng",
     "title": "Betting billions on KZN’s booming North Coast property market - Mail & Guardian",
@@ -68,6 +59,15 @@
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcTVDdjdLOHdBZENHQ192eklSbFFrVHZ6aVJnMXJhNWhxeG5uQzlLNDZUcjk4dDB5bmRIRC0tYmdBbXI5NU5ZaV9UTEkwNmhSbWhtNGxiOUZ0SUZXVE8yUFAxZW1Mak1PbUVabXdHLWxYTW1IV19tU3JYUEw5dzlKSUxSOXdwdXFQSDB0SXU1c0lNbllMVmZ1ZWZB?oc=5",
     "date": "2026-11-01T07:00:00.000Z",
     "source": "The Citizen",
+    "score": 3
+   },
+   {
+    "group": "Property market",
+    "query": "Johannesburg property market OR house prices",
+    "title": "South African investment CEO says Johannesburg became so bad that he lost 70% of his house’s value - Daily Investor",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQakZMT2ZfRG8wbzNyR21hQ2RfYnFtOWV0SU9STHlZVmFSUjM2aUlYQjEwYWpMWUJtRm5jUmtRajB2NGF1MWZwVjFYZFBYRmpjWUpnLTJ4ZHJXX3dWXzdJUE9CQ3lsZ1YxbjRLOVYyYmotRGdyeTNJRVdsSUN2SW5yVHgtbWpUZUNnS1BheVNjVWZZTmRmWUhKN0RFX1RtNHpmREFUV3NXSkdmV3FoSjlpRXZpX2YtNFc3UTBFakpSbWp0TkZfck55MlRBa3pVVkxGVnFMMFl0TQ?oc=5",
+    "date": "2026-10-29T07:00:00.000Z",
+    "source": "Daily Investor",
     "score": 3
    },
    {
