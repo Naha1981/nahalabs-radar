@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-13T06:39:47.881Z",
+ "generated_at": "2026-11-13T19:39:14.825Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -54,6 +54,15 @@
    },
    {
     "group": "Costs",
+    "query": "electricity tariff increase restaurants South Africa",
+    "title": "101% electricity price hike for South Africa - BusinessTech",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlQtLUhWeXJXQWtXcTBWeVRqeGpDVk9BSjBtMVFUQ1dZNUZuNnc5V3dyalNHZjg0Zk5MUnFucjQ0bEJCZ3oyTmV5Uk92MWtrazFudktTVVlFTHc5YmVYVS1pMFNMRExYTXlrY3lZYXB5X2RSSGs1aXRhczhVUGhxSkM2bkVNZzBTOU9CSmhNSHNQNXFF?oc=5",
+    "date": "2026-11-02T08:00:00.000Z",
+    "source": "BusinessTech",
+    "score": 4
+   },
+   {
+    "group": "Costs",
     "query": "restaurant food prices South Africa OR food inflation South Africa",
     "title": "South Africa’s Braai Gets More Expensive: How Inflation Is Changing the Cost of a Classic - https://docksiderestaurant.com.au/",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4RVg1WW15UEpiRUtPOG5GOUlHLXNNcjRZbzZNa3EwaERIV1hfT2tzellmSVFuWWQyZ0JDLVJ5MHZWQmdrYzFnTVdlVDY4N2hiRHlJV2gwXzFwb0xqc1JtSm5TMllqbHJQc3BvRVNOb3d0YmxvLThiSW1LWlQzZw?oc=5",
@@ -62,22 +71,13 @@
     "score": 4
    },
    {
-    "group": "Costs",
-    "query": "restaurant food prices South Africa OR food inflation South Africa",
-    "title": "The most expensive city to buy groceries in South Africa - BusinessTech",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdjRNaS1mZTRVX244d1ZhbFQwZjZLWlBuSFRybUMyTmUyVnpnN2VWT0lVTHdHWTRzVWU3Mk5lZHFiUzM0X0RjaHpaOGRabE9YdDVSZElzNXB3V0VRMzdxazNCLXlMdjR1b0ZkZlZaZFNDYUQ2Rk84a0p2QzRzN094c21tWXRVTUVnZjBNbWtDaEs4aGZZQjRXb2ZXWjVCM2lQM254ZUxtQzRtRFNK?oc=5",
-    "date": "2026-10-30T07:00:00.000Z",
-    "source": "BusinessTech",
-    "score": 4
-   },
-   {
     "group": "Events and seasons",
     "query": "Johannesburg festive season dining OR Christmas functions restaurants",
-    "title": "Gigi restaurant chef-patron Moses Moloi takes us on a tour of his favourite Joburg gems - News24",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZUZDdGk2bHJPOGVuMEE5UHVjMnVOQ1ZkaXFPZ2NRejRROXU0SWdwMzBjS0htVlRaRnFpeVFFNTVndkRuZFg0UGZGa3dxY3ZpNGVLeldfblhBb2JIalNkT3JndEQ0Rm8zOVY1Z2ZiQ2tLSE5yeW5zaTNjdTBNd1YtZlVKcUhtNGl5WnVPV21FYWJLYVhZTlZMRE5mUzd1Rmh1OW5TMUJfQVgxbkxiMHVrUmd1YnFVem1qR2drNDNyMmpEWi1SY1JNN0dsaFhzOUR4NUYyUzI4X3J0TkdjM3JlMm1pM0tTdw?oc=5",
-    "date": "2026-10-30T07:00:00.000Z",
-    "source": "News24",
-    "score": 4
+    "title": "Christmas lights and dinosaur adventures await at Cradlestone Mall - The Citizen",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVWwxaEhkb3dtOXNqUUF1c0N6T0EyMlR0RUoxNHZONEdCd0NZSXZvMy1vb04ycEhDd09JcDlGSzhlRXVCOGVjdmpnTzEtV2RyM1NBY2x6VkNxMVJsRnpVdDluTHg0MTN6dWlGT1BwLVFzV1RZUExWU25oZ3BhQWFMYVJhdzE1VmFidG0wUDRJRFFMTk93QlRXcW5ab2tGbDloazB5ZnEtc3VIeHB4R1N4OFktdFpRY2NvUnZIZkV5T3BpU0VZV3JUZ01jVVAxSldYcUpTc21sTzN4bC1aenhKNnZKZmdMcVoxZGhQZ3Vn?oc=5",
+    "date": "2026-11-09T10:27:21.000Z",
+    "source": "The Citizen",
+    "score": 3
    }
   ],
   "errors": []
