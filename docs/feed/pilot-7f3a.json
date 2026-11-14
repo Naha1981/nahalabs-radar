@@ -2,11 +2,20 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-14T13:35:37.215Z",
+ "generated_at": "2026-11-14T22:21:03.457Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
+   {
+    "group": "Events and seasons",
+    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
+    "title": "Lira among star-studded line-up for Johannesburg’s Christmas Tree Lighting ceremony - Bona Magazine",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2JObl9ZMXNWY0dlZHQtanBZNHBPZ0RJbGVZMzNKSUpqX1RjbXVPUFEtUVpIZGFVSFpid3BVV0hMbFhGWU9pS1BUSlVQdGN4elNIUzJfenpEdnNoT3hyQzFJOThnMV95dzNTeDFDcC1mMk1VMFpLRGhyWXdzWVd5cGZaOWIwcVl3dTFTNWpQOEQzS2tqZmNJTEFyNjhocC1NS3FiMUxCUlQwXzFMSnh5V0FndDhDVDVIVXJrZg?oc=5",
+    "date": "2026-11-14T13:57:07.000Z",
+    "source": "Bona Magazine",
+    "score": 4
+   },
    {
     "group": "Dining and demand",
     "query": "Johannesburg restaurant bookings OR dining out trends",
@@ -62,15 +71,6 @@
     "score": 4
    },
    {
-    "group": "Costs",
-    "query": "restaurant food prices South Africa OR food inflation South Africa",
-    "title": "South Africa’s Braai Gets More Expensive: How Inflation Is Changing the Cost of a Classic - https://docksiderestaurant.com.au/",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4RVg1WW15UEpiRUtPOG5GOUlHLXNNcjRZbzZNa3EwaERIV1hfT2tzellmSVFuWWQyZ0JDLVJ5MHZWQmdrYzFnTVdlVDY4N2hiRHlJV2gwXzFwb0xqc1JtSm5TMllqbHJQc3BvRVNOb3d0YmxvLThiSW1LWlQzZw?oc=5",
-    "date": "2026-11-02T05:41:05.000Z",
-    "source": "https://docksiderestaurant.com.au/",
-    "score": 4
-   },
-   {
     "group": "Events and seasons",
     "query": "Johannesburg festive season dining OR Christmas functions restaurants",
     "title": "Christmas lights and dinosaur adventures await at Cradlestone Mall - The Citizen",
@@ -109,7 +109,7 @@
    "theme": "Events",
    "hook": "Plan your next get-together with us.",
    "body": "The festive season is close and Joburg is busy. Book your table or your office function early, we will hold the best seats for you. Message us on WhatsApp to reserve.",
-   "based_on": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2JObl9ZMXNWY0dlZHQtanBZNHBPZ0RJbGVZMzNKSUpqX1RjbXVPUFEtUVpIZGFVSFpid3BVV0hMbFhGWU9pS1BUSlVQdGN4elNIUzJfenpEdnNoT3hyQzFJOThnMV95dzNTeDFDcC1mMk1VMFpLRGhyWXdzWVd5cGZaOWIwcVl3dTFTNWpQOEQzS2tqZmNJTEFyNjhocC1NS3FiMUxCUlQwXzFMSnh5V0FndDhDVDVIVXJrZg?oc=5",
    "channels": [
     "facebook",
     "instagram"
