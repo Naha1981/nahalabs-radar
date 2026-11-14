@@ -2,7 +2,7 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-11-14T06:16:30.177Z",
+ "generated_at": "2026-11-14T13:35:39.566Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -14,6 +14,24 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVURuR1JfOGlxeTIzM1p3Q3E0dFA1R2ZNLURTRmFMWlFWRjdLVmFWT1U3dC1qdERBZGJuQkZZeGVfdmlWZUxYVUlMZ2YxLU9MRkZGZkVrVXRlSVpoWEl3TjVta25lcnEyaTE2Yy1mNW43anpsRHNQdWFKZm1CMHRfTWl4T3VFZFNzOXhpZjREVW1qaUl4UHVmNXVjRm0wSVZXaUdIV1NxQ01KVGtTbnl3Z2hWSWZSdW5TYkllTkNlWQ?oc=5",
     "date": "2026-11-13T12:05:58.000Z",
     "source": "Bizcommunity",
+    "score": 4
+   },
+   {
+    "group": "Rates and bonds",
+    "query": "South Africa interest rate home loans OR bond rates",
+    "title": "South African rand slides to seven-month low ahead of inflation, rate decision - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZHJUYnA3N1BkeU9GR3djUy1pMzFjNHlJNjJXZWVFb3IwVkJFR1NCV0RwVkFhRld3YjNqam9RWWZTMVc1dnY2WHlOWkZNSzZtOHRqUDQyaTY2MXQxdjEwb1J2dm1Xb1ZVaFhrZURLR2xJbG5rRmlHZkdld01FMEFvak5tbG1MWjFDRk5rWlNHUHdjWVNiSWxYaUdfZV9UTUFpWEpnQjdyXy1LcUg2Vm5CRDdsN241clFaMTdoeXBB?oc=5",
+    "date": "2026-11-13T07:21:00.000Z",
+    "source": "Reuters",
+    "score": 4
+   },
+   {
+    "group": "Costs",
+    "query": "municipal rates increase Johannesburg property",
+    "title": "Joburg delivers R31.7 million in festive property rates relief to senior citizens - IOL",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYXcyYVEzbjRidUFUY19CdnMwN0lfTHc2VFdsWWlZNmFJUl9OVHQtSTMxOTNPTWg5NnlSc0ZuNExjalZYeHhhRUlVQ1pYYklyQ0xXbmwtemFDUEx0QlpzU05mR29IX1l5RjRJd1N0SXlRVWxuRUNmUjRhOFgxdWd1QTYyV1E3SlFnWUhYWGtHcV81SEgxOUxuWU82cEQ2bF9vZUJqdm1XOVlKbWI4MlhUay1kckczRFY1QWtaTnV5cjlsQW5jSFBHYTBn?oc=5",
+    "date": "2026-11-12T10:31:32.000Z",
+    "source": "IOL",
     "score": 4
    },
    {
@@ -39,7 +57,7 @@
     "query": "Johannesburg property market OR house prices",
     "title": "Cape Town rents nearly double Joburg's as property prices jump 12% - Cape Argus",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGFTNEdDY1A5ODd3c01GTTdPZXhBcWdhUHQ3cGtGQTRVcmFqU2FoWG1rbHJGMVp5ZU5zakFMcXMzWTFvM0dxQi12UzM1REdsbzVVSGpvZUNBU3RMUGhBcW85eDlrV0plTGpCWjhyeUs5SzZ3NWxEUEYtMHNYSGdZdUd3T0k0anUzZ2oyWkpfeE1jLTh1NHJGd0xGMVp1bGtEY3BfQWJUYkY?oc=5",
-    "date": "2026-11-09T13:55:05.000Z",
+    "date": "2026-11-09T09:46:15.000Z",
     "source": "Cape Argus",
     "score": 4
    },
@@ -48,18 +66,9 @@
     "query": "Johannesburg property market OR house prices",
     "title": "Cape Town property prices surge 12%, more than twice Johannesburg's increase - IOL",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVNnYjluLVpPRlNRdjR0cjhWakZZUmlHcFVVN1FNRm0tc1V5c1Q0WU5Sa0tDTlh4OGl3ZlJfcDJXRWh4X3R5SWU3cEhVX0x6eWp5Y1d2LWF5cHRQYWs5ZnRwUlB3WF9zN1ktZlB6RTRYbnJCcHVqalZVUEpBZ1puWFlST0wwQ2VRWTY4Vmx6bTRXeENFLWFySHRYV2hyTGlTOEpGRTJ4eVNTS0xPNWJ0ajFXeXlvMWx4V2c?oc=5",
-    "date": "2026-11-08T08:02:15.000Z",
+    "date": "2026-11-08T08:00:00.000Z",
     "source": "IOL",
     "score": 4
-   },
-   {
-    "group": "Rates and bonds",
-    "query": "South Africa interest rate home loans OR bond rates",
-    "title": "What's happening to UK interest rates and what does it mean for mortgages? - BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45V1JheVN6eHBRVFBFNHNWdVBxdDBaSDZrVm0wOHJnWUFhM3hRWERQY0c5TWlqY0ZlQnNjbXVEbmY4QWYzMktwOUo5anZFQnI2OVJkeTVRTzVxQQ?oc=5",
-    "date": "2026-11-04T08:00:00.000Z",
-    "source": "BBC",
-    "score": 3
    },
    {
     "group": "Costs",
@@ -68,15 +77,6 @@
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcTVDdjdLOHdBZENHQ192eklSbFFrVHZ6aVJnMXJhNWhxeG5uQzlLNDZUcjk4dDB5bmRIRC0tYmdBbXI5NU5ZaV9UTEkwNmhSbWhtNGxiOUZ0SUZXVE8yUFAxZW1Mak1PbUVabXdHLWxYTW1IV19tU3JYUEw5dzlKSUxSOXdwdXFQSDB0SXU1c0lNbllMVmZ1ZWZB?oc=5",
     "date": "2026-11-01T07:00:00.000Z",
     "source": "The Citizen",
-    "score": 3
-   },
-   {
-    "group": "Property market",
-    "query": "Johannesburg property market OR house prices",
-    "title": "South African investment CEO says Johannesburg became so bad that he lost 70% of his house’s value - Daily Investor",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQakZMT2ZfRG8wbzNyR21hQ2RfYnFtOWV0SU9STHlZVmFSUjM2aUlYQjEwYWpMWUJtRm5jUmtRajB2NGF1MWZwVjFYZFBYRmpjWUpnLTJ4ZHJXX3dWXzdJUE9CQ3lsZ1YxbjRLOVYyYmotRGdyeTNJRVdsSUN2SW5yVHgtbWpUZUNnS1BheVNjVWZZTmRmWUhKN0RFX1RtNHpmREFUV3NXSkdmV3FoSjlpRXZpX2YtNFc3UTBFakpSbWp0TkZfck55MlRBa3pVVkxGVnFMMFl0TQ?oc=5",
-    "date": "2026-10-29T07:00:00.000Z",
-    "source": "Daily Investor",
     "score": 3
    }
   ],
@@ -99,7 +99,7 @@
    "theme": "Area spotlight",
    "hook": "Sandton vs the suburbs: what your money buys.",
    "body": "Same budget, very different homes. This week we compare what R2m buys in Sandton Central versus Fourways. Ask us for the full list.",
-   "based_on": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3RQQ1NEV2ZhQU5lcWp5WDJSVHROelFUem8tRkg5bDFVZ3d0TXNOaXRiTU1VQmdvMlNoTEFEbnlDdUFhS2xFcWtaT3J3WUlYbDZlOExCWmhabDdXQ2F0TkhIT3pkNGV1WVdpekNuMzNXaEROVXlaSzRxXzNnYjZGc3E0WjdzU0dyQ2NSaThENXQ4X0pIR3dUSFBRX2dOMk1IT2VmRXIxTk4wT3Zvd1k1N2VGeXVBQjA?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZHJUYnA3N1BkeU9GR3djUy1pMzFjNHlJNjJXZWVFb3IwVkJFR1NCV0RwVkFhRld3YjNqam9RWWZTMVc1dnY2WHlOWkZNSzZtOHRqUDQyaTY2MXQxdjEwb1J2dm1Xb1ZVaFhrZURLR2xJbG5rRmlHZkdld01FMEFvak5tbG1MWjFDRk5rWlNHUHdjWVNiSWxYaUdfZV9UTUFpWEpnQjdyXy1LcUg2Vm5CRDdsN241clFaMTdoeXBB?oc=5",
    "channels": [
     "facebook",
     "instagram"
@@ -110,7 +110,7 @@
    "theme": "Buyers",
    "hook": "First-time buyer? Start here.",
    "body": "Deposit, transfer costs, bond approval - the three things that catch first-time buyers. We walk you through all of it before you sign anything.",
-   "based_on": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTXNYcjRXaEw3NGdRemg0VzZhSkx2dW1CNVA5WUdkNGoxT3hKSGVqX0M3dWlNUGQxLVl6R0FsZkNNcjJDRkhvd3ZiY0NmRGRTYXBOVjA2eE5OUXlzaHhZUjhJejd2ZnhPNUZqVXBSeUY3elhhMEZkdU5xN3haSmhaR1VwT3dMMWdHMnhybXJURXlCR0k2eGZreGsxTEhQS3BFRFY2endMN3Jjb2dad0dUTjR3RzdsWHBFYUtHRFB4WUt3MEtuVXp2UEdHSQ?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYXcyYVEzbjRidUFUY19CdnMwN0lfTHc2VFdsWWlZNmFJUl9OVHQtSTMxOTNPTWg5NnlSc0ZuNExjalZYeHhhRUlVQ1pYYklyQ0xXbmwtemFDUEx0QlpzU05mR29IX1l5RjRJd1N0SXlRVWxuRUNmUjRhOFgxdWd1QTYyV1E3SlFnWUhYWGtHcV81SEgxOUxuWU82cEQ2bF9vZUJqdm1XOVlKbWI4MlhUay1kckczRFY1QWtaTnV5cjlsQW5jSFBHYTBn?oc=5",
    "channels": [
     "facebook",
     "instagram"
@@ -121,7 +121,7 @@
    "theme": "Demand",
    "hook": "The Joburg market is moving.",
    "body": "Good listings are moving fast this month. If you are buying or selling, timing matters more than price talk. Message us for a free valuation.",
-   "based_on": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGFTNEdDY1A5ODd3c01GTTdPZXhBcWdhUHQ3cGtGQTRVcmFqU2FoWG1rbHJGMVp5ZU5zakFMcXMzWTFvM0dxQi12UzM1REdsbzVVSGpvZUNBU3RMUGhBcW85eDlrV0plTGpCWjhyeUs5SzZ3NWxEUEYtMHNYSGdZdUd3T0k0anUzZ2oyWkpfeE1jLTh1NHJGd0xGMVp1bGtEY3BfQWJUYkY?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3RQQ1NEV2ZhQU5lcWp5WDJSVHROelFUem8tRkg5bDFVZ3d0TXNOaXRiTU1VQmdvMlNoTEFEbnlDdUFhS2xFcWtaT3J3WUlYbDZlOExCWmhabDdXQ2F0TkhIT3pkNGV1WVdpekNuMzNXaEROVXlaSzRxXzNnYjZGc3E0WjdzU0dyQ2NSaThENXQ4X0pIR3dUSFBRX2dOMk1IT2VmRXIxTk4wT3Zvd1k1N2VGeXVBQjA?oc=5",
    "channels": [
     "facebook",
     "instagram"
