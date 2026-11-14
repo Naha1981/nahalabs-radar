@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-13T19:39:14.825Z",
+ "generated_at": "2026-11-14T06:16:27.917Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -62,21 +62,21 @@
     "score": 4
    },
    {
-    "group": "Costs",
-    "query": "restaurant food prices South Africa OR food inflation South Africa",
-    "title": "South Africa’s Braai Gets More Expensive: How Inflation Is Changing the Cost of a Classic - https://docksiderestaurant.com.au/",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4RVg1WW15UEpiRUtPOG5GOUlHLXNNcjRZbzZNa3EwaERIV1hfT2tzellmSVFuWWQyZ0JDLVJ5MHZWQmdrYzFnTVdlVDY4N2hiRHlJV2gwXzFwb0xqc1JtSm5TMllqbHJQc3BvRVNOb3d0YmxvLThiSW1LWlQzZw?oc=5",
-    "date": "2026-11-02T05:41:05.000Z",
-    "source": "https://docksiderestaurant.com.au/",
-    "score": 4
-   },
-   {
     "group": "Events and seasons",
     "query": "Johannesburg festive season dining OR Christmas functions restaurants",
     "title": "Christmas lights and dinosaur adventures await at Cradlestone Mall - The Citizen",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVWwxaEhkb3dtOXNqUUF1c0N6T0EyMlR0RUoxNHZONEdCd0NZSXZvMy1vb04ycEhDd09JcDlGSzhlRXVCOGVjdmpnTzEtV2RyM1NBY2x6VkNxMVJsRnpVdDluTHg0MTN6dWlGT1BwLVFzV1RZUExWU25oZ3BhQWFMYVJhdzE1VmFidG0wUDRJRFFMTk93QlRXcW5ab2tGbDloazB5ZnEtc3VIeHB4R1N4OFktdFpRY2NvUnZIZkV5T3BpU0VZV3JUZ01jVVAxSldYcUpTc21sTzN4bC1aenhKNnZKZmdMcVoxZGhQZ3Vn?oc=5",
     "date": "2026-11-09T10:27:21.000Z",
     "source": "The Citizen",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Consumers are happier, shopping more frequently and loving delivery apps - Bizcommunity",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcHJ3ZnV3eUYwR1l5RkIyaUM2aGttUG5tYzdQX1NzRUZKRHg0cWw4ZlJkUG5JdzM1cWlCR2tJLTF3M3k4YWJwa1dKZVhTNVZLb1JHY1BGajllZ0Q1ZTMwNHJuYjM5VGRuVmx4U3FDdU9hMXE5X3dwOTJRenNDU0Y2bzNINkpsWHJkQlBRV29LNlMzcEI5cXVnSDEtZTQyaG1LYlB4WnVvR3ItYnhPcXRodFphN3RoRTA?oc=5",
+    "date": "2026-11-05T10:39:25.000Z",
+    "source": "Bizcommunity",
     "score": 3
    }
   ],
