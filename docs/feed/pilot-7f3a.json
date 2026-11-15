@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-15T06:24:05.831Z",
+ "generated_at": "2026-11-15T18:49:12.765Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -21,8 +21,17 @@
     "query": "Johannesburg restaurant bookings OR dining out trends",
     "title": "From Bunny Chow to Kota: South Africa’s Hottest Food Trends of 2026 - https://docksiderestaurant.com.au/",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFRocWJCSS03MXVEQ3NfM0pYazFJM1hieUdrUEVrdkdVb19rRXNPWGd1X3ZJdzFwVGJKMU9JZmpiNVJkSEE0SlBhM3Z1THBTMS1YNmdPT2k5UHcxUUVfUm1mMkJiRnBRdmotVFZtOU9QU1F2QWJlQTRCZ0dpMTdJcUVBRHBFSmc?oc=5",
-    "date": "2026-11-10T15:26:16.000Z",
+    "date": "2026-11-12T05:33:46.000Z",
     "source": "https://docksiderestaurant.com.au/",
+    "score": 4
+   },
+   {
+    "group": "Dining and demand",
+    "query": "Sandton restaurants new opening OR best restaurants",
+    "title": "The best places for Christmas lunch in Johannesburg - Time Out Worldwide",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWpOWlJPamhydGhZb25teE1zSUt3VVdzaE1fNFViRE96TnlsNS1rZ2ZGdjVCRy03Z2NMVDN4Q0RNU2xITS1vbmkyZ054OEpYdjZFYUNqTnZUZk10ZnZaVkFKQmdxXy0yUE5EcUFicF9sWXI0MzU3dEtMa3JNeXJhVnBGOFUzNHBqOFhURVBYQnJjWGJ4X0lCNWIwY3RxUW4xS0E?oc=5",
+    "date": "2026-11-11T22:00:00.000Z",
+    "source": "Time Out Worldwide",
     "score": 4
    },
    {
@@ -69,15 +78,6 @@
     "date": "2026-11-02T08:00:00.000Z",
     "source": "BusinessTech",
     "score": 4
-   },
-   {
-    "group": "Costs",
-    "query": "load shedding restaurants South Africa",
-    "title": "As festive demand peaks, smarter packaging can help food manufacturers keep shelves stocked and waste down - Novus Press Bulletin",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZi1WLWpVVFhacUJyMkoxWEtjNkZUTDJmUklSM0NBS29FSHpQeGVxaUhDMVB5YjQ5SkNNU21WSzZQazFUcE8yRzF5UzBFVThJY1RVNWdhN1ZBeExPbnR3UWFNajR3djNVb2tuMERVX0VZa2lhWmNleEkxRVpBYi1hc2I2OUNwMHVyOW9ncnJXeVJGeHlEcEJzQ3VuejU5dzRYM1BBN1BXc3B6ZnV6Y08wQTlMRVBueTNHcHNCR2JfUzFkTXpBQlVVTklwUlVyM2ZITjBuZDZfdllXZ0k?oc=5",
-    "date": "2026-11-05T11:08:35.000Z",
-    "source": "Novus Press Bulletin",
-    "score": 3
    }
   ],
   "errors": []
