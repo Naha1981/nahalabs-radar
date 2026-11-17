@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-16T21:59:02.517Z",
+ "generated_at": "2026-11-17T07:51:31.009Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -28,42 +28,6 @@
    {
     "group": "Costs",
     "query": "load shedding restaurants South Africa",
-    "title": "Review: Janice Honeyman’s Alice in Wonderland brings load shedding and electric cars to Joburg Theatre - Time Out Worldwide",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOanZoWnQ1ZU5IVVBSYUdoZmlreWNmZkZOY1MwMVNZb21ELU11S3dhWTlGUmEtZExwclJaanUyejNnZ2pZMDNaRkUyM3hFYi10N0JrZGkxZlUxSnFGbWFSM3c2Y1B5WTM1aWNXbDZfN0tMRHg2dHhVQlYtOXBmUm5pX0dEdmN6QnJ6dGJPN3lB?oc=5",
-    "date": "2026-11-10T08:00:00.000Z",
-    "source": "Time Out Worldwide",
-    "score": 4
-   },
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg events this month",
-    "title": "Events: What’s on in Johannesburg - Time Out Worldwide",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
-    "date": "2026-11-08T22:00:00.000Z",
-    "source": "Time Out Worldwide",
-    "score": 4
-   },
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
-    "title": "Drakensberg Boys Choir Announces Johannesburg Christmas Concert at Melrose Arch - Underground Press",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0ZiS3pfa1c3clhrU1VRdVVHb2lILVpVeTNEQ0M5NXBSaXNhOUxNU1JjekFQaTF2WEdZdm8tRS0ybzhYTnpJNjdaOEZ5WXQ1UWQ2WVVuaGo5U1BkRzlmU013SlJvR1AyY1FYVUVQNWZ1djF5Y3otLVZ0bjlmakJZS3lyTnpHVm13NmJWNnZvNzBOX0h4Mm15LW9RbzlqVjg?oc=5",
-    "date": "2026-11-05T09:56:39.000Z",
-    "source": "Underground Press",
-    "score": 4
-   },
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
-    "title": "Where to see Christmas lights and sing carols in Joburg this festive season - Time Out Worldwide",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkk4SkhrZVJwaFFxcXVOTHhkNk84aUFKRHpUNUpFOFpOVEM5M25KNVRKRFNrbHB6MjZ6Uy0ycW1rR3hDczh5Qy13c3dZdUYyeXNvdUFUczFaaks1c09yeW5McFdXTU9janl2OUF1cGV3LTJ1ODFaNndObTl3NVh4dGpsYU1TSEU1RXpEYWh3RmUzRHFnVHFJUnNBYVlmWEhvRUg1bHpPaEhnZmhjYjZYaU4tX2puOGN4b3c?oc=5",
-    "date": "2026-11-03T08:00:00.000Z",
-    "source": "Time Out Worldwide",
-    "score": 4
-   },
-   {
-    "group": "Costs",
-    "query": "load shedding restaurants South Africa",
     "title": "Eskom records over 540 days without load-shedding - Tabloid Newspapers",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcTJ3QTFEZURrX3ZURVhOV1paY3hsVDlEbXZfTnFFaGhLTG91enZqaUFZa0ZKWU9iNzlmTmM5ZXpGdndVY3lnSFU5VWg4LWNzc3Mxc0s5Sk9fQ0JVMDZtMjY2MUhHazQyRktBM0swSEpMai0wLUxDcnByV3IzaFBQemRtcw?oc=5",
     "date": "2026-11-09T14:45:55.000Z",
@@ -78,9 +42,58 @@
     "date": "2026-11-05T11:08:35.000Z",
     "source": "Novus Press Bulletin",
     "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Consumers are happier, shopping more frequently and loving delivery apps - Bizcommunity",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcHJ3ZnV3eUYwR1l5RkIyaUM2aGttUG5tYzdQX1NzRUZKRHg0cWw4ZlJkUG5JdzM1cWlCR2tJLTF3M3k4YWJwa1dKZVhTNVZLb1JHY1BGajllZ0Q1ZTMwNHJuYjM5VGRuVmx4U3FDdU9hMXE5X3dwOTJRenNDU0Y2bzNINkpsWHJkQlBRV29LNlMzcEI5cXVnSDEtZTQyaG1LYlB4WnVvR3ItYnhPcXRodFphN3RoRTA?oc=5",
+    "date": "2026-11-05T10:39:25.000Z",
+    "source": "Bizcommunity",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "Ethiopia’s inflation eases to 14.6% as food prices cool - Businessfront",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93U1cyeWVHSVFReHc3aUtVWms2NkxsdG4wWUdSS2lwaFB6QzdCT0MyV2lwU1FzYUloQm5wNV9NcTRXNDBFN211d0FuTTJXYWxzNzUzbVkyWVRWUHNOUWE5S2xvSUFIc29aVEU2SnZPei1wWGpVTGEzeHgyNA?oc=5",
+    "date": "2026-11-04T08:00:00.000Z",
+    "source": "Businessfront",
+    "score": 3
+   },
+   {
+    "group": "Dining and demand",
+    "query": "Sandton restaurants new opening OR best restaurants",
+    "title": "The man who became the first South African chef to earn a Michelin star and launched five restaurants and new food and lifestyle products - Daily Investor",
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORk9NREQ4OElFX29Wb2E2LUlpTS1VdVpqRGE1bldDWm01eHVQeWlhVDBGSkRSMzBHeV9YNExtcnJOLVFuSDZYWFlWeHp0YXRuMjZfOS1aSEpJVFJXQnl1RHJ1RzN5bmQtd3BHMHpBSUJXc0VZaEdneUxhNXNackd1OFltYmFJU0Y2V1gwYUNBTnV5d1dVTVMyUlVJZDZfRV94cE4ydnJKcHhveUxPdG1KUE1xMS1sMHF1bWNDTzFaTTVJU2RiQXE0Y0FtNmdQRE1sNzNDUHM0TnZRdS1QWkRrZGxuRUpYVVhBSkNIbWU5dlhxQllodHB3dkFpcTZYbVU2RjVVYXh1ZnZ5Z0tk?oc=5",
+    "date": "2026-11-02T08:00:00.000Z",
+    "source": "Daily Investor",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "The most expensive city to buy groceries in South Africa - BusinessTech",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdjRNaS1mZTRVX244d1ZhbFQwZjZLWlBuSFRybUMyTmUyVnpnN2VWT0lVTHdHWTRzVWU3Mk5lZHFiUzM0X0RjaHpaOGRabE9YdDVSZElzNXB3V0VRMzdxazNCLXlMdjR1b0ZkZlZaZFNDYUQ2Rk84a0p2QzRzN094c21tWXRVTUVnZjBNbWtDaEs4aGZZQjRXb2ZXWjVCM2lQM254ZUxtQzRtRFNK?oc=5",
+    "date": "2026-10-30T07:00:00.000Z",
+    "source": "BusinessTech",
+    "score": 3
    }
   ],
-  "errors": []
+  "errors": [
+   {
+    "query": "electricity tariff increase restaurants South Africa",
+    "error": "rss 429"
+   },
+   {
+    "query": "Johannesburg events this month",
+    "error": "rss 429"
+   },
+   {
+    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
+    "error": "rss 429"
+   }
+  ]
  },
  "whatsapp_engagement": {
   "real": true,
@@ -97,19 +110,8 @@
   {
    "theme": "Costs",
    "hook": "Prices are moving, here is how we keep your plate fair.",
-   "body": "You have seen the headlines: \"Review: Janice Honeyman’s Alice in Wonderland brings load shedding and electric cars to Joburg Theatre\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
-   "based_on": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOanZoWnQ1ZU5IVVBSYUdoZmlreWNmZkZOY1MwMVNZb21ELU11S3dhWTlGUmEtZExwclJaanUyejNnZ2pZMDNaRkUyM3hFYi10N0JrZGkxZlUxSnFGbWFSM3c2Y1B5WTM1aWNXbDZfN0tMRHg2dHhVQlYtOXBmUm5pX0dEdmN6QnJ6dGJPN3lB?oc=5",
-   "channels": [
-    "facebook",
-    "instagram"
-   ],
-   "status": "draft_for_owner_approval"
-  },
-  {
-   "theme": "Events",
-   "hook": "Plan your next get-together with us.",
-   "body": "The festive season is close and Joburg is busy. Book your table or your office function early, we will hold the best seats for you. Message us on WhatsApp to reserve.",
-   "based_on": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
+   "body": "You have seen the headlines: \"Eskom records over 540 days without load-shedding\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
+   "based_on": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcTJ3QTFEZURrX3ZURVhOV1paY3hsVDlEbXZfTnFFaGhLTG91enZqaUFZa0ZKWU9iNzlmTmM5ZXpGdndVY3lnSFU5VWg4LWNzc3Mxc0s5Sk9fQ0JVMDZtMjY2MUhHazQyRktBM0swSEpMai0wLUxDcnByV3IzaFBQemRtcw?oc=5",
    "channels": [
     "facebook",
     "instagram"
