@@ -2,11 +2,20 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-11-19T07:20:23.533Z",
+ "generated_at": "2026-11-19T20:32:16.039Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
+   {
+    "group": "Rates and bonds",
+    "query": "South Africa interest rate home loans OR bond rates",
+    "title": "SA Reserve Bank ends the year with interest rate hold, but inflation spectre lingers - Daily Maverick",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaUxvdnIwSmotTXZCMko1SDdPeUp5b2pyVldibWo4TG1QRzFoSnFkaWZCYW1UdWZfY0l0QnpIOTdUbnBRWEhVWFBLRllrWVZNUy1wY1lIcTNDWTlpdGJqNVlVQ1Ata2psX0hWdUR5RjJwVEFGNFZrOHFhQVRCLVhfSXlfaV9JQ2E4cGgzX05LSjdHY1Q2VHA1ODhMU0RTenV5aXZmTU1PSnpHd3N2ZFhGeXhtVDdmbmFhVGJyMlNqeHREVzQ5bjdN?oc=5",
+    "date": "2026-11-19T19:13:15.000Z",
+    "source": "Daily Maverick",
+    "score": 4
+   },
    {
     "group": "Rates and bonds",
     "query": "repo rate South Africa property buyers",
@@ -14,15 +23,6 @@
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbTNKWUFWQzNPV2JfNk11cklBTzluYXJZSV9uQmotOWxxemlfdkxUZWdZTW9saW1GLUZhN3lON3duVl81VWUzZzVvMi1iMXVqQmEyNllMWmRtNEVOMnhrOGh4UFBaYzV4aGFyRHpWZUd0NElpVldZcjJPdkxzSVpQNjBR?oc=5",
     "date": "2026-11-17T09:18:06.000Z",
     "source": "Novus Press Bulletin",
-    "score": 4
-   },
-   {
-    "group": "Rates and bonds",
-    "query": "South Africa interest rate home loans OR bond rates",
-    "title": "Interest rate hike: South African homeowners brace for another possible increase - Bizcommunity",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONEYzbGtmaUdBbzl2YzBtMWJYaTY3TDRxNWtOcEpGV01NU0lNcWVhM2UydF9WQlVpNE5OYkV0QjEtbWdMNlRmWE5xdDhnVkFvdWo5M0YyX3U1MkVPNzRFOHJOamhnYklnMXFiN3VsV29oVkJBbFpFMkNuYTc3aXdRakJSaU52Vmw3WkZCalE1NHRuTFZKbko0QkxfVnBySG9ELUZtSWdUMVQ0eXk5ckNrdGNxWlhqQVZOLWI0TEswZ1lkZw?oc=5",
-    "date": "2026-11-16T16:03:47.000Z",
-    "source": "Bizcommunity",
     "score": 4
    },
    {
@@ -80,12 +80,7 @@
     "score": 4
    }
   ],
-  "errors": [
-   {
-    "query": "Sandton apartments for sale OR to rent",
-    "error": "rss 429"
-   }
-  ]
+  "errors": []
  },
  "whatsapp_engagement": null,
  "post_suggestions": [
@@ -93,7 +88,7 @@
    "theme": "Rates",
    "hook": "What the rate decision means for your bond.",
    "body": "Rates are moving again. Here is what it means in rands on a typical Joburg bond, and whether to fix or stay variable. Ask us, we will work it out for your place.",
-   "based_on": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbTNKWUFWQzNPV2JfNk11cklBTzluYXJZSV9uQmotOWxxemlfdkxUZWdZTW9saW1GLUZhN3lON3duVl81VWUzZzVvMi1iMXVqQmEyNllMWmRtNEVOMnhrOGh4UFBaYzV4aGFyRHpWZUd0NElpVldZcjJPdkxzSVpQNjBR?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaUxvdnIwSmotTXZCMko1SDdPeUp5b2pyVldibWo4TG1QRzFoSnFkaWZCYW1UdWZfY0l0QnpIOTdUbnBRWEhVWFBLRllrWVZNUy1wY1lIcTNDWTlpdGJqNVlVQ1Ata2psX0hWdUR5RjJwVEFGNFZrOHFhQVRCLVhfSXlfaV9JQ2E4cGgzX05LSjdHY1Q2VHA1ODhMU0RTenV5aXZmTU1PSnpHd3N2ZFhGeXhtVDdmbmFhVGJyMlNqeHREVzQ5bjdN?oc=5",
    "channels": [
     "facebook",
     "instagram"
@@ -104,7 +99,7 @@
    "theme": "Area spotlight",
    "hook": "Sandton vs the suburbs: what your money buys.",
    "body": "Same budget, very different homes. This week we compare what R2m buys in Sandton Central versus Fourways. Ask us for the full list.",
-   "based_on": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONEYzbGtmaUdBbzl2YzBtMWJYaTY3TDRxNWtOcEpGV01NU0lNcWVhM2UydF9WQlVpNE5OYkV0QjEtbWdMNlRmWE5xdDhnVkFvdWo5M0YyX3U1MkVPNzRFOHJOamhnYklnMXFiN3VsV29oVkJBbFpFMkNuYTc3aXdRakJSaU52Vmw3WkZCalE1NHRuTFZKbko0QkxfVnBySG9ELUZtSWdUMVQ0eXk5ckNrdGNxWlhqQVZOLWI0TEswZ1lkZw?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbTNKWUFWQzNPV2JfNk11cklBTzluYXJZSV9uQmotOWxxemlfdkxUZWdZTW9saW1GLUZhN3lON3duVl81VWUzZzVvMi1iMXVqQmEyNllMWmRtNEVOMnhrOGh4UFBaYzV4aGFyRHpWZUd0NElpVldZcjJPdkxzSVpQNjBR?oc=5",
    "channels": [
     "facebook",
     "instagram"
