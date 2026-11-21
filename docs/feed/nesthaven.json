@@ -2,7 +2,7 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-11-21T07:01:38.022Z",
+ "generated_at": "2026-11-21T19:11:42.123Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -44,6 +44,15 @@
     "score": 4
    },
    {
+    "group": "Costs",
+    "query": "municipal rates increase Johannesburg property",
+    "title": "Beyond property development: Rebuilding Johannesburg's productive economy - Polity.org.za",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3RQQ1NEV2ZhQU5lcWp5WDJSVHROelFUem8tRkg5bDFVZ3d0TXNOaXRiTU1VQmdvMlNoTEFEbnlDdUFhS2xFcWtaT3J3WUlYbDZlOExCWmhabDdXQ2F0TkhIT3pkNGV1WVdpekNuMzNXaEROVXlaSzRxXzNnYjZGc3E0WjdzU0dyQ2NSaThENXQ4X0pIR3dUSFBRX2dOMk1IT2VmRXIxTk4wT3Zvd1k1N2VGeXVBQjA?oc=5",
+    "date": "2026-11-11T08:00:00.000Z",
+    "source": "Polity.org.za",
+    "score": 4
+   },
+   {
     "group": "Demand",
     "query": "first time home buyers South Africa OR property demand Gauteng",
     "title": "Access to sought-after schools shapes Gauteng's residential property market - eProp.co.za",
@@ -69,27 +78,9 @@
     "date": "2026-11-08T08:00:00.000Z",
     "source": "IOL",
     "score": 4
-   },
-   {
-    "group": "Rates and bonds",
-    "query": "South Africa interest rate home loans OR bond rates",
-    "title": "Here’s how much more you could pay on your bond if the repo rate increases - The Citizen",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRFdmdk5GMlBSYnhTMmhjRkxsVDVIdGRacFlIZ1V5Q3IwVEF5ZnppSjNSNzNDcWdIUlpPYkNGaVhjV0RuNGNkOXU3NGNrYjBLQllHalZtMkFaeDNlZnRQUzA5THNORDNianliZEo3Q2ZrNFJJY0FlX05zak1raW1UZ0RHQ0VKWGVWWmpjQ0RlNWFuTDlJTVFZLUc0aUZSX1NfZjdVTkVpbGtNcTU4aEl6ZmhFLVBVR2FTRlFBbEtmcWxxVjZBUnc?oc=5",
-    "date": "2026-11-18T11:04:05.000Z",
-    "source": "The Citizen",
-    "score": 3
    }
   ],
-  "errors": [
-   {
-    "query": "repo rate South Africa property buyers",
-    "error": "rss 429"
-   },
-   {
-    "query": "municipal rates increase Johannesburg property",
-    "error": "rss 429"
-   }
-  ]
+  "errors": []
  },
  "whatsapp_engagement": null,
  "post_suggestions": [
