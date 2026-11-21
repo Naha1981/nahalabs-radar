@@ -2,20 +2,11 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-20T20:11:14.818Z",
+ "generated_at": "2026-11-21T07:01:35.698Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
-   {
-    "group": "Costs",
-    "query": "load shedding restaurants South Africa",
-    "title": "The TV presenter, model, and actor who opened a popular restaurant in South Africa’s richest city - Daily Investor",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOXpuNDBnMXNtYlJWT0xUZmo0UWxhczVsLUFESWNZZzE5Nk0teG82XzVTVkEzVjJkZ1JrV3QxdWd0cS1RdHJiaFhvMGItRkM2Sk5haFJZdnpiZVJwZUR3Ml85dmtGXzZINTdRcUljaXp6YUhPM2dpbXlnbGZFXzgyRDhTU0dDRF9hU0xGUlNPNnNFVXU3bGhuQS12a1d0UHYwTHBiQXFLQUJIV19XRW9ZZFhvT0JHc2UwUkNHMW5ZYTNWLWVwZWRuVzFLTDZ3TlFvSGgw?oc=5",
-    "date": "2026-11-20T15:30:00.000Z",
-    "source": "Daily Investor",
-    "score": 4
-   },
    {
     "group": "Competitors",
     "query": "Sandton restaurant launches new menu OR specials",
@@ -45,30 +36,12 @@
    },
    {
     "group": "Events and seasons",
-    "query": "Johannesburg events this month",
+    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
     "title": "Events: What’s on in Johannesburg - Time Out Worldwide",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
     "date": "2026-11-09T08:00:00.000Z",
     "source": "Time Out Worldwide",
     "score": 4
-   },
-   {
-    "group": "Costs",
-    "query": "electricity tariff increase restaurants South Africa",
-    "title": "Global energy crisis sharpens Africa's push for electricity access - Mail & Guardian",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSkNaVGY4Uy03SUFDRDJPbDdJa0JJa2tXVTYyOVBiYU55QVA1Y05rZ1QtMlpxbHIxa3pwNmY0TUplVVotWVI2SzUxWTdrUkphOXZSR3pINnp4QlNTT2wtb3FvakFHdHJPd2FsSlZhdDlyV25GNXljQWdvMldZVlN1VDA5NExOc1BJNnRlb1QteTRjMkdkeEs2V3dGbWZtWmpTaE5UOG4tZEJ1clRmZGw0Z1BGWF8?oc=5",
-    "date": "2026-11-20T12:41:55.000Z",
-    "source": "Mail & Guardian",
-    "score": 3
-   },
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg events this month",
-    "title": "Sporting Events to Look Forward to this Weekend - Good Things Guy",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CLTliZmhrbmk2bU95ZGRfS21nNC1WVVBFTWlQSFpEdkpVaVFUdTRUSk82dUM2XzZHTWhRSXZuMGRPbkNKTklwNXNmWXpnRmltMUZIYXM5N1IyNzN1MzlkRGI0VWNvMldYM2dj?oc=5",
-    "date": "2026-11-20T07:00:37.000Z",
-    "source": "Good Things Guy",
-    "score": 3
    },
    {
     "group": "Costs",
@@ -78,9 +51,49 @@
     "date": "2026-11-17T08:00:00.000Z",
     "source": "USDA (.gov)",
     "score": 3
+   },
+   {
+    "group": "Events and seasons",
+    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
+    "title": "Drakensberg Boys Choir Announces Johannesburg Christmas Concert at Melrose Arch - Underground Press",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0ZiS3pfa1c3clhrU1VRdVVHb2lILVpVeTNEQ0M5NXBSaXNhOUxNU1JjekFQaTF2WEdZdm8tRS0ybzhYTnpJNjdaOEZ5WXQ1UWQ2WVVuaGo5U1BkRzlmU013SlJvR1AyY1FYVUVQNWZ1djF5Y3otLVZ0bjlmakJZS3lyTnpHVm13NmJWNnZvNzBOX0h4Mm15LW9RbzlqVjg?oc=5",
+    "date": "2026-11-05T09:56:39.000Z",
+    "source": "Underground Press",
+    "score": 3
+   },
+   {
+    "group": "Events and seasons",
+    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
+    "title": "Where to see Christmas lights and sing carols in Joburg this festive season - Time Out Worldwide",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkk4SkhrZVJwaFFxcXVOTHhkNk84aUFKRHpUNUpFOFpOVEM5M25KNVRKRFNrbHB6MjZ6Uy0ycW1rR3hDczh5Qy13c3dZdUYyeXNvdUFUczFaaks1c09yeW5McFdXTU9janl2OUF1cGV3LTJ1ODFaNndObTl3NVh4dGpsYU1TSEU1RXpEYWh3RmUzRHFnVHFJUnNBYVlmWEhvRUg1bHpPaEhnZmhjYjZYaU4tX2puOGN4b3c?oc=5",
+    "date": "2026-11-03T08:00:00.000Z",
+    "source": "Time Out Worldwide",
+    "score": 3
+   },
+   {
+    "group": "Dining and demand",
+    "query": "Sandton restaurants new opening OR best restaurants",
+    "title": "The man who became the first South African chef to earn a Michelin star and launched five restaurants and new food and lifestyle products - Daily Investor",
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORk9NREQ4OElFX29Wb2E2LUlpTS1VdVpqRGE1bldDWm01eHVQeWlhVDBGSkRSMzBHeV9YNExtcnJOLVFuSDZYWFlWeHp0YXRuMjZfOS1aSEpJVFJXQnl1RHJ1RzN5bmQtd3BHMHpBSUJXc0VZaEdneUxhNXNackd1OFltYmFJU0Y2V1gwYUNBTnV5d1dVTVMyUlVJZDZfRV94cE4ydnJKcHhveUxPdG1KUE1xMS1sMHF1bWNDTzFaTTVJU2RiQXE0Y0FtNmdQRE1sNzNDUHM0TnZRdS1QWkRrZGxuRUpYVVhBSkNIbWU5dlhxQllodHB3dkFpcTZYbVU2RjVVYXh1ZnZ5Z0tk?oc=5",
+    "date": "2026-11-02T08:00:00.000Z",
+    "source": "Daily Investor",
+    "score": 3
    }
   ],
-  "errors": []
+  "errors": [
+   {
+    "query": "load shedding restaurants South Africa",
+    "error": "rss 429"
+   },
+   {
+    "query": "electricity tariff increase restaurants South Africa",
+    "error": "rss 429"
+   },
+   {
+    "query": "Johannesburg events this month",
+    "error": "rss 429"
+   }
+  ]
  },
  "whatsapp_engagement": {
   "real": true,
@@ -97,8 +110,8 @@
   {
    "theme": "Costs",
    "hook": "Prices are moving, here is how we keep your plate fair.",
-   "body": "You have seen the headlines: \"The TV presenter, model, and actor who opened a popular restaurant in South Africa’s richest city\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
-   "based_on": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOXpuNDBnMXNtYlJWT0xUZmo0UWxhczVsLUFESWNZZzE5Nk0teG82XzVTVkEzVjJkZ1JrV3QxdWd0cS1RdHJiaFhvMGItRkM2Sk5haFJZdnpiZVJwZUR3Ml85dmtGXzZINTdRcUljaXp6YUhPM2dpbXlnbGZFXzgyRDhTU0dDRF9hU0xGUlNPNnNFVXU3bGhuQS12a1d0UHYwTHBiQXFLQUJIV19XRW9ZZFhvT0JHc2UwUkNHMW5ZYTNWLWVwZWRuVzFLTDZ3TlFvSGgw?oc=5",
+   "body": "You have seen the headlines: \"Ag and Food Statistics: Charting the Essentials - Food Prices and Spending\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
+   "based_on": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMzRpbjI2NjVzQ2hVX2lCM1RaQnhZNzkzdkw2YjZCdTR4cjlUb0hvRk9MeEpkOHAtaklkclhXbUt6d1YxUUxHeHlOeExwOFZhY0R0QUhaQXlfdHl6UnZoTWNSQy1LVVNucUQ3eWdtQTdvNjg5ajJ0VF93LS1GWFhWbG91alMxQ2Zkcm90cW93Y0hoTVBLQWdhbHJmRlRlMlhGMmkyS25fV1VERDNnVXc?oc=5",
    "channels": [
     "facebook",
     "instagram"
