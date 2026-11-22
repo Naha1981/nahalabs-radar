@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-22T06:42:42.607Z",
+ "generated_at": "2026-11-22T19:33:48.193Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -32,15 +32,6 @@
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWpOWlJPamhydGhZb25teE1zSUt3VVdzaE1fNFViRE96TnlsNS1rZ2ZGdjVCRy03Z2NMVDN4Q0RNU2xITS1vbmkyZ054OEpYdjZFYUNqTnZUZk10ZnZaVkFKQmdxXy0yUE5EcUFicF9sWXI0MzU3dEtMa3JNeXJhVnBGOFUzNHBqOFhURVBYQnJjWGJ4X0lCNWIwY3RxUW4xS0E?oc=5",
     "date": "2026-11-12T08:00:00.000Z",
     "source": "Time Out Worldwide",
-    "score": 4
-   },
-   {
-    "group": "Dining and demand",
-    "query": "Johannesburg restaurant bookings OR dining out trends",
-    "title": "From Bunny Chow to Kota: South Africa’s Hottest Food Trends of 2026 - https://docksiderestaurant.com.au/",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFRocWJCSS03MXVEQ3NfM0pYazFJM1hieUdrUEVrdkdVb19rRXNPWGd1X3ZJdzFwVGJKMU9JZmpiNVJkSEE0SlBhM3Z1THBTMS1YNmdPT2k5UHcxUUVfUm1mMkJiRnBRdmotVFZtOU9QU1F2QWJlQTRCZ0dpMTdJcUVBRHBFSmc?oc=5",
-    "date": "2026-11-12T05:33:46.000Z",
-    "source": "https://docksiderestaurant.com.au/",
     "score": 4
    },
    {
@@ -77,6 +68,15 @@
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfVlktY0hla1hIbGdweFRnXzZsX3hheWJlcV9jTVR4S3pqY0VLUXBKeU1hWEp4a2RJaU9NY2NXVHk0MTFRTUpyZ0tFUVN4NDJBSU12RGROZHVpYlp4Y0E1UG9LMXZlWU9LLVBQRg?oc=5",
     "date": "2026-11-16T11:02:00.000Z",
     "source": "Time Out Worldwide",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "load shedding restaurants South Africa",
+    "title": "Eskom records over 540 days without load-shedding - Tabloid Newspapers",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcTJ3QTFEZURrX3ZURVhOV1paY3hsVDlEbXZfTnFFaGhLTG91enZqaUFZa0ZKWU9iNzlmTmM5ZXpGdndVY3lnSFU5VWg4LWNzc3Mxc0s5Sk9fQ0JVMDZtMjY2MUhHazQyRktBM0swSEpMai0wLUxDcnByV3IzaFBQemRtcw?oc=5",
+    "date": "2026-11-09T08:00:00.000Z",
+    "source": "Tabloid Newspapers",
     "score": 3
    }
   ],
