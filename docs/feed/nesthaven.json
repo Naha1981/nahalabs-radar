@@ -2,11 +2,20 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-11-21T19:11:42.123Z",
+ "generated_at": "2026-11-22T06:42:44.787Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
+   {
+    "group": "Rates and bonds",
+    "query": "repo rate South Africa property buyers",
+    "title": "Property Rights South Africa: 2026 Guide for Investors - Global Advisory Experts",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORzJadVVZcUJwTURaZ25vZG9SNWtvUm84dXk0WE9uZ1o0UzZsV3hBRVFfRGF2SUFvZVZXUHIxbDFPU2xhU2FFQ1VibThQME5jUzdwSHlQZUlPOF8yand2ZU9TdEFBMGFNWmpMT2ZwcnZpOGdvSmN0NExQWmEydE5rbHJuUkdYZlQ5enVvUzFZYlZLYndRNDBaUy1haw?oc=5",
+    "date": "2026-11-22T01:12:32.000Z",
+    "source": "Global Advisory Experts",
+    "score": 4
+   },
    {
     "group": "Rates and bonds",
     "query": "South Africa interest rate home loans OR bond rates",
@@ -18,20 +27,20 @@
    },
    {
     "group": "Demand",
-    "query": "first time home buyers South Africa OR property demand Gauteng",
-    "title": "2027 Property Outlook for South Africa - Novus Press Bulletin",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbTNKWUFWQzNPV2JfNk11cklBTzluYXJZSV9uQmotOWxxemlfdkxUZWdZTW9saW1GLUZhN3lON3duVl81VWUzZzVvMi1iMXVqQmEyNllMWmRtNEVOMnhrOGh4UFBaYzV4aGFyRHpWZUd0NElpVldZcjJPdkxzSVpQNjBR?oc=5",
-    "date": "2026-11-17T09:18:06.000Z",
-    "source": "Novus Press Bulletin",
-    "score": 4
-   },
-   {
-    "group": "Demand",
     "query": "semigration Gauteng property OR estate living Johannesburg",
     "title": "Goodbye Cape Town – another reverse semigration wave hitting South Africa - BusinessTech",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTkNKb05jcHRFWDJBbzBkWGQwVVpwQ2s0T0c1Tm90UDNNb2NJNmluMGVZclAzeFNJTmQyZElzaU9pNGFjY1JNUG9sSmlGZXFmRmFodzZfWDh6QVh1WEtJLXQ3bVJUZ0I3WEd2NTJsa3JSbE05Mk5pNG9xcGt4aFZRbV9WdnVpNGpyOFhzd0hYdS1FR3R3S3JGUGVJMmdCbml1am9QV3FuQktaYUZRZ3daT0FSSjBDRFlwSS1HMS1B?oc=5",
     "date": "2026-11-14T15:05:02.000Z",
     "source": "BusinessTech",
+    "score": 4
+   },
+   {
+    "group": "Demand",
+    "query": "first time home buyers South Africa OR property demand Gauteng",
+    "title": "South Africa’s property market shifts as buyers reject overpriced homes amid debt pressure - weekendargus.co.za",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcFRWYWg2dVJTeXlOdkh2X2EtVzN2dDh3cW9ybEJjRnVzdEpwLUd5eUU3cE8tb0FHNzlCSlg3ZW5nOGFXLTZxUFJ1S0ZYeUpUNFJtc0xIY2V3c2ltUzNScDdSRDhHc0V1N0g5MGZOMVlFajBGZXpMdUhDaGRQdUJ0dmgtVEpBNWYtUldwdDFZVWQ2VWxlSHh3X1p5ekJzd0V4Ni1nQXZiRTVBWlhNdlZOd1pzTk1wQmRUaDN5ZkVYNFdiVUxtcmVmbkhnZ2J5clVQd2xaN1g5a1VJU2wwdXZJ?oc=5",
+    "date": "2026-11-13T19:47:41.000Z",
+    "source": "weekendargus.co.za",
     "score": 4
    },
    {
@@ -69,15 +78,6 @@
     "date": "2026-11-08T08:00:00.000Z",
     "source": "Cape Argus",
     "score": 4
-   },
-   {
-    "group": "Property market",
-    "query": "Johannesburg property market OR house prices",
-    "title": "Cape Town property prices surge 12%, more than twice Johannesburg's increase - IOL",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVNnYjluLVpPRlNRdjR0cjhWakZZUmlHcFVVN1FNRm0tc1V5c1Q0WU5Sa0tDTlh4OGl3ZlJfcDJXRWh4X3R5SWU3cEhVX0x6eWp5Y1d2LWF5cHRQYWs5ZnRwUlB3WF9zN1ktZlB6RTRYbnJCcHVqalZVUEpBZ1puWFlST0wwQ2VRWTY4Vmx6bTRXeENFLWFySHRYV2hyTGlTOEpGRTJ4eVNTS0xPNWJ0ajFXeXlvMWx4V2c?oc=5",
-    "date": "2026-11-08T08:00:00.000Z",
-    "source": "IOL",
-    "score": 4
    }
   ],
   "errors": []
@@ -88,7 +88,7 @@
    "theme": "Rates",
    "hook": "What the rate decision means for your bond.",
    "body": "Rates are moving again. Here is what it means in rands on a typical Joburg bond, and whether to fix or stay variable. Ask us, we will work it out for your place.",
-   "based_on": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaUxvdnIwSmotTXZCMko1SDdPeUp5b2pyVldibWo4TG1QRzFoSnFkaWZCYW1UdWZfY0l0QnpIOTdUbnBRWEhVWFBLRllrWVZNUy1wY1lIcTNDWTlpdGJqNVlVQ1Ata2psX0hWdUR5RjJwVEFGNFZrOHFhQVRCLVhfSXlfaV9JQ2E4cGgzX05LSjdHY1Q2VHA1ODhMU0RTenV5aXZmTU1PSnpHd3N2ZFhGeXhtVDdmbmFhVGJyMlNqeHREVzQ5bjdN?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORzJadVVZcUJwTURaZ25vZG9SNWtvUm84dXk0WE9uZ1o0UzZsV3hBRVFfRGF2SUFvZVZXUHIxbDFPU2xhU2FFQ1VibThQME5jUzdwSHlQZUlPOF8yand2ZU9TdEFBMGFNWmpMT2ZwcnZpOGdvSmN0NExQWmEydE5rbHJuUkdYZlQ5enVvUzFZYlZLYndRNDBaUy1haw?oc=5",
    "channels": [
     "facebook",
     "instagram"
@@ -99,7 +99,7 @@
    "theme": "Area spotlight",
    "hook": "Sandton vs the suburbs: what your money buys.",
    "body": "Same budget, very different homes. This week we compare what R2m buys in Sandton Central versus Fourways. Ask us for the full list.",
-   "based_on": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbTNKWUFWQzNPV2JfNk11cklBTzluYXJZSV9uQmotOWxxemlfdkxUZWdZTW9saW1GLUZhN3lON3duVl81VWUzZzVvMi1iMXVqQmEyNllMWmRtNEVOMnhrOGh4UFBaYzV4aGFyRHpWZUd0NElpVldZcjJPdkxzSVpQNjBR?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaUxvdnIwSmotTXZCMko1SDdPeUp5b2pyVldibWo4TG1QRzFoSnFkaWZCYW1UdWZfY0l0QnpIOTdUbnBRWEhVWFBLRllrWVZNUy1wY1lIcTNDWTlpdGJqNVlVQ1Ata2psX0hWdUR5RjJwVEFGNFZrOHFhQVRCLVhfSXlfaV9JQ2E4cGgzX05LSjdHY1Q2VHA1ODhMU0RTenV5aXZmTU1PSnpHd3N2ZFhGeXhtVDdmbmFhVGJyMlNqeHREVzQ5bjdN?oc=5",
    "channels": [
     "facebook",
     "instagram"
@@ -121,7 +121,7 @@
    "theme": "Demand",
    "hook": "The Joburg market is moving.",
    "body": "Good listings are moving fast this month. If you are buying or selling, timing matters more than price talk. Message us for a free valuation.",
-   "based_on": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVURuR1JfOGlxeTIzM1p3Q3E0dFA1R2ZNLURTRmFMWlFWRjdLVmFWT1U3dC1qdERBZGJuQkZZeGVfdmlWZUxYVUlMZ2YxLU9MRkZGZkVrVXRlSVpoWEl3TjVta25lcnEyaTE2Yy1mNW43anpsRHNQdWFKZm1CMHRfTWl4T3VFZFNzOXhpZjREVW1qaUl4UHVmNXVjRm0wSVZXaUdIV1NxQ01KVGtTbnl3Z2hWSWZSdW5TYkllTkNlWQ?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcFRWYWg2dVJTeXlOdkh2X2EtVzN2dDh3cW9ybEJjRnVzdEpwLUd5eUU3cE8tb0FHNzlCSlg3ZW5nOGFXLTZxUFJ1S0ZYeUpUNFJtc0xIY2V3c2ltUzNScDdSRDhHc0V1N0g5MGZOMVlFajBGZXpMdUhDaGRQdUJ0dmgtVEpBNWYtUldwdDFZVWQ2VWxlSHh3X1p5ekJzd0V4Ni1nQXZiRTVBWlhNdlZOd1pzTk1wQmRUaDN5ZkVYNFdiVUxtcmVmbkhnZ2J5clVQd2xaN1g5a1VJU2wwdXZJ?oc=5",
    "channels": [
     "facebook",
     "instagram"

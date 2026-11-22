@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-21T19:11:40.007Z",
+ "generated_at": "2026-11-22T06:42:42.607Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -26,12 +26,12 @@
     "score": 4
    },
    {
-    "group": "Competitors",
-    "query": "Sandton restaurant launches new menu OR specials",
-    "title": "bb.q Chicken opens first South African restaurant in Joburg - Joburg ETC",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHMxM21MWGhDSUM5OXFLZ196RlRXeFNTSWMwcXJ5OGhMU3NEY1d4aWJ6bUt0NHllQ000Zi12RXNXYnFFYy1CUjhPbWFMRHI1VUNDd200b3NuZHNVUDRzdUJTalZfbXhpVGswdmpOWUtZeHNfS2tWaUpqazZwRThtS1lGZ2dBZnk4Q2ZoSjdn?oc=5",
-    "date": "2026-11-18T15:00:54.000Z",
-    "source": "Joburg ETC",
+    "group": "Dining and demand",
+    "query": "Sandton restaurants new opening OR best restaurants",
+    "title": "The best places for Christmas lunch in Johannesburg - Time Out Worldwide",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWpOWlJPamhydGhZb25teE1zSUt3VVdzaE1fNFViRE96TnlsNS1rZ2ZGdjVCRy03Z2NMVDN4Q0RNU2xITS1vbmkyZ054OEpYdjZFYUNqTnZUZk10ZnZaVkFKQmdxXy0yUE5EcUFicF9sWXI0MzU3dEtMa3JNeXJhVnBGOFUzNHBqOFhURVBYQnJjWGJ4X0lCNWIwY3RxUW4xS0E?oc=5",
+    "date": "2026-11-12T08:00:00.000Z",
+    "source": "Time Out Worldwide",
     "score": 4
    },
    {
@@ -41,15 +41,6 @@
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFRocWJCSS03MXVEQ3NfM0pYazFJM1hieUdrUEVrdkdVb19rRXNPWGd1X3ZJdzFwVGJKMU9JZmpiNVJkSEE0SlBhM3Z1THBTMS1YNmdPT2k5UHcxUUVfUm1mMkJiRnBRdmotVFZtOU9QU1F2QWJlQTRCZ0dpMTdJcUVBRHBFSmc?oc=5",
     "date": "2026-11-12T05:33:46.000Z",
     "source": "https://docksiderestaurant.com.au/",
-    "score": 4
-   },
-   {
-    "group": "Dining and demand",
-    "query": "Sandton restaurants new opening OR best restaurants",
-    "title": "The best places for Christmas lunch in Johannesburg - Time Out Worldwide",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWpOWlJPamhydGhZb25teE1zSUt3VVdzaE1fNFViRE96TnlsNS1rZ2ZGdjVCRy03Z2NMVDN4Q0RNU2xITS1vbmkyZ054OEpYdjZFYUNqTnZUZk10ZnZaVkFKQmdxXy0yUE5EcUFicF9sWXI0MzU3dEtMa3JNeXJhVnBGOFUzNHBqOFhURVBYQnJjWGJ4X0lCNWIwY3RxUW4xS0E?oc=5",
-    "date": "2026-11-11T22:00:00.000Z",
-    "source": "Time Out Worldwide",
     "score": 4
    },
    {
@@ -77,6 +68,15 @@
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CLTliZmhrbmk2bU95ZGRfS21nNC1WVVBFTWlQSFpEdkpVaVFUdTRUSk82dUM2XzZHTWhRSXZuMGRPbkNKTklwNXNmWXpnRmltMUZIYXM5N1IyNzN1MzlkRGI0VWNvMldYM2dj?oc=5",
     "date": "2026-11-20T07:00:37.000Z",
     "source": "Good Things Guy",
+    "score": 3
+   },
+   {
+    "group": "Dining and demand",
+    "query": "Sandton restaurants new opening OR best restaurants",
+    "title": "Bar history through Radium Beer Hall, Foresters Arms and Cubana’s POV - Time Out Worldwide",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfVlktY0hla1hIbGdweFRnXzZsX3hheWJlcV9jTVR4S3pqY0VLUXBKeU1hWEp4a2RJaU9NY2NXVHk0MTFRTUpyZ0tFUVN4NDJBSU12RGROZHVpYlp4Y0E1UG9LMXZlWU9LLVBQRg?oc=5",
+    "date": "2026-11-16T11:02:00.000Z",
+    "source": "Time Out Worldwide",
     "score": 3
    }
   ],
@@ -119,8 +119,8 @@
   {
    "theme": "Demand",
    "hook": "Fresh on the Joburg dining scene.",
-   "body": "Joburg is eating out again: \"From Bunny Chow to Kota: South Africa’s Hottest Food Trends of 2026\". Here is what we are serving this week. Ask us on WhatsApp for today's specials.",
-   "based_on": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFRocWJCSS03MXVEQ3NfM0pYazFJM1hieUdrUEVrdkdVb19rRXNPWGd1X3ZJdzFwVGJKMU9JZmpiNVJkSEE0SlBhM3Z1THBTMS1YNmdPT2k5UHcxUUVfUm1mMkJiRnBRdmotVFZtOU9QU1F2QWJlQTRCZ0dpMTdJcUVBRHBFSmc?oc=5",
+   "body": "Joburg is eating out again: \"The best places for Christmas lunch in Johannesburg\". Here is what we are serving this week. Ask us on WhatsApp for today's specials.",
+   "based_on": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWpOWlJPamhydGhZb25teE1zSUt3VVdzaE1fNFViRE96TnlsNS1rZ2ZGdjVCRy03Z2NMVDN4Q0RNU2xITS1vbmkyZ054OEpYdjZFYUNqTnZUZk10ZnZaVkFKQmdxXy0yUE5EcUFicF9sWXI0MzU3dEtMa3JNeXJhVnBGOFUzNHBqOFhURVBYQnJjWGJ4X0lCNWIwY3RxUW4xS0E?oc=5",
    "channels": [
     "facebook",
     "instagram"
