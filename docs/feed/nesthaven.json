@@ -2,7 +2,7 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-11-23T07:31:38.494Z",
+ "generated_at": "2026-11-23T23:50:33.032Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -10,9 +10,9 @@
    {
     "group": "Costs",
     "query": "property transfer costs South Africa OR conveyancing fees",
-    "title": "FIC Compliance South Africa: Property Practice Guide - Global Advisory Experts",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1MeE1PTW9DdURXcnRDS210ald3eDhTMHZMaWQyYjZHR0xuSFhJbnJOU0ZvUW5TdHBxdmN1VW9XWUJ5MWo4SkhvLXZXOEJ0bVNacHhWSkNrZldQcXJhNURGNnNoaFJpa241NjlTclZpaHhoaXc2NVhvVmtIRDlEcXJYVGNyREs1T1M0UnZiM1p1UUZEb21zYw?oc=5",
-    "date": "2026-11-23T03:22:40.000Z",
+    "title": "Transfer Property After Death in South Africa (2026): Executor's Practical Guide - Global Advisory Experts",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2RUaVc4M1VsZzdMWk9iSVNXRDQ3WFNuOF9TWC1WRnRjbTJraEc2ZzJXZXJfanc0eksySnhMNjJLelJRa2RaOUt4MmxxMGxYck1qSTVtNlRfN3ZhZWJ5RXVqOEdDdWVVbENFOU93UWNOcEV3YWw2bjlhblhnck1Qdm0yWHFwemowVld0d0dNdVktSnVMa0Zv?oc=5",
+    "date": "2026-11-23T08:47:57.000Z",
     "source": "Global Advisory Experts",
     "score": 4
    },
@@ -32,24 +32,6 @@
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSi11SHlYMExSTm9JQ296MlZoYlRqRURidzJ1cXd5SHJOY0pyZjdsdFhnY1NwU3JkYWdYMDlaLVBKMldIOFNadjhHRjkwZXJnSzd6cG5lS21USEd4S1o1a2V6TmlWTlNKbkdHZEtrMzhDRDAwVnpBbDJSOGJ6SlBSLXB0V2VxTEJMZTBHeVJCT2lDWmhUTlhCbHhjRWs4dWVnU3h6ZVV2ZTl0Nzc4VG0tXzdXMA?oc=5",
     "date": "2026-11-22T11:04:36.000Z",
     "source": "BusinessTech",
-    "score": 4
-   },
-   {
-    "group": "Demand",
-    "query": "first time home buyers South Africa OR property demand Gauteng",
-    "title": "The 201-year-old South African town becoming a new semigration hotspot - BusinessTech",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOemNRSVMxVVY2RkVjbElVVnhGRTFEbjFNVWl1VlpnZzBMMDZPTE5sMFhBZ0RJNGtTdEpybTFRbXlYcm5xcm83aVRHbGViX1F5b1hwMmlqYzN2a29qZFdOdDZxU0VPcmJOYXhrUi14VXhHY3k3MnAzOEJQNGRFVEdYS3JuVGNvNW5uQVRuampvVmtwM0djdk94UFVsblhpeEVoNHlkQ1JYaHFBUVhQYVdCQkhKMHlNRnRFcDFv?oc=5",
-    "date": "2026-11-21T15:03:51.000Z",
-    "source": "BusinessTech",
-    "score": 4
-   },
-   {
-    "group": "Property market",
-    "query": "Johannesburg property market OR house prices",
-    "title": "Cape Town property prices surge 12%, more than twice Johannesburg's increase - IOL",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVNnYjluLVpPRlNRdjR0cjhWakZZUmlHcFVVN1FNRm0tc1V5c1Q0WU5Sa0tDTlh4OGl3ZlJfcDJXRWh4X3R5SWU3cEhVX0x6eWp5Y1d2LWF5cHRQYWs5ZnRwUlB3WF9zN1ktZlB6RTRYbnJCcHVqalZVUEpBZ1puWFlST0wwQ2VRWTY4Vmx6bTRXeENFLWFySHRYV2hyTGlTOEpGRTJ4eVNTS0xPNWJ0ajFXeXlvMWx4V2c?oc=5",
-    "date": "2026-11-21T08:00:00.000Z",
-    "source": "IOL",
     "score": 4
    },
    {
@@ -78,6 +60,24 @@
     "date": "2026-11-14T08:00:00.000Z",
     "source": "BusinessTech",
     "score": 4
+   },
+   {
+    "group": "Demand",
+    "query": "first time home buyers South Africa OR property demand Gauteng",
+    "title": "Good schools, greater demand: The suburbs attracting Gauteng’s family homebuyers - Bizcommunity",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVURuR1JfOGlxeTIzM1p3Q3E0dFA1R2ZNLURTRmFMWlFWRjdLVmFWT1U3dC1qdERBZGJuQkZZeGVfdmlWZUxYVUlMZ2YxLU9MRkZGZkVrVXRlSVpoWEl3TjVta25lcnEyaTE2Yy1mNW43anpsRHNQdWFKZm1CMHRfTWl4T3VFZFNzOXhpZjREVW1qaUl4UHVmNXVjRm0wSVZXaUdIV1NxQ01KVGtTbnl3Z2hWSWZSdW5TYkllTkNlWQ?oc=5",
+    "date": "2026-11-13T08:00:00.000Z",
+    "source": "Bizcommunity",
+    "score": 4
+   },
+   {
+    "group": "Costs",
+    "query": "municipal rates increase Johannesburg property",
+    "title": "Beyond property development: Rebuilding Johannesburg's productive economy - Polity.org.za",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3RQQ1NEV2ZhQU5lcWp5WDJSVHROelFUem8tRkg5bDFVZ3d0TXNOaXRiTU1VQmdvMlNoTEFEbnlDdUFhS2xFcWtaT3J3WUlYbDZlOExCWmhabDdXQ2F0TkhIT3pkNGV1WVdpekNuMzNXaEROVXlaSzRxXzNnYjZGc3E0WjdzU0dyQ2NSaThENXQ4X0pIR3dUSFBRX2dOMk1IT2VmRXIxTk4wT3Zvd1k1N2VGeXVBQjA?oc=5",
+    "date": "2026-11-11T08:00:00.000Z",
+    "source": "Polity.org.za",
+    "score": 4
    }
   ],
   "errors": []
@@ -88,7 +88,7 @@
    "theme": "Rates",
    "hook": "What the rate decision means for your bond.",
    "body": "Rates are moving again. Here is what it means in rands on a typical Joburg bond, and whether to fix or stay variable. Ask us, we will work it out for your place.",
-   "based_on": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1MeE1PTW9DdURXcnRDS210ald3eDhTMHZMaWQyYjZHR0xuSFhJbnJOU0ZvUW5TdHBxdmN1VW9XWUJ5MWo4SkhvLXZXOEJ0bVNacHhWSkNrZldQcXJhNURGNnNoaFJpa241NjlTclZpaHhoaXc2NVhvVmtIRDlEcXJYVGNyREs1T1M0UnZiM1p1UUZEb21zYw?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2RUaVc4M1VsZzdMWk9iSVNXRDQ3WFNuOF9TWC1WRnRjbTJraEc2ZzJXZXJfanc0eksySnhMNjJLelJRa2RaOUt4MmxxMGxYck1qSTVtNlRfN3ZhZWJ5RXVqOEdDdWVVbENFOU93UWNOcEV3YWw2bjlhblhnck1Qdm0yWHFwemowVld0d0dNdVktSnVMa0Zv?oc=5",
    "channels": [
     "facebook",
     "instagram"
@@ -121,7 +121,7 @@
    "theme": "Demand",
    "hook": "The Joburg market is moving.",
    "body": "Good listings are moving fast this month. If you are buying or selling, timing matters more than price talk. Message us for a free valuation.",
-   "based_on": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOemNRSVMxVVY2RkVjbElVVnhGRTFEbjFNVWl1VlpnZzBMMDZPTE5sMFhBZ0RJNGtTdEpybTFRbXlYcm5xcm83aVRHbGViX1F5b1hwMmlqYzN2a29qZFdOdDZxU0VPcmJOYXhrUi14VXhHY3k3MnAzOEJQNGRFVEdYS3JuVGNvNW5uQVRuampvVmtwM0djdk94UFVsblhpeEVoNHlkQ1JYaHFBUVhQYVdCQkhKMHlNRnRFcDFv?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONEYzbGtmaUdBbzl2YzBtMWJYaTY3TDRxNWtOcEpGV01NU0lNcWVhM2UydF9WQlVpNE5OYkV0QjEtbWdMNlRmWE5xdDhnVkFvdWo5M0YyX3U1MkVPNzRFOHJOamhnYklnMXFiN3VsV29oVkJBbFpFMkNuYTc3aXdRakJSaU52Vmw3WkZCalE1NHRuTFZKbko0QkxfVnBySG9ELUZtSWdUMVQ0eXk5ckNrdGNxWlhqQVZOLWI0TEswZ1lkZw?oc=5",
    "channels": [
     "facebook",
     "instagram"

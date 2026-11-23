@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-23T07:31:36.553Z",
+ "generated_at": "2026-11-23T23:50:30.725Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -26,6 +26,15 @@
     "score": 4
    },
    {
+    "group": "Costs",
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "Which fast-food chains have the most restaurants in South Africa? - IOL",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVklnV3FMNzBMUFN5MWpYSkhhU29Rd2RyaW1DYkRNYnVuSXUyN1o3MkcxVDFrZURSLUNiNWFCUnFqYU9pZzY5cDVGTVhiT1d4b1RIVmZLYlZnTWZLczdrckFMb1FkcUR2Nzd5aHRiQ1dqajlMVUgyZmJvTnZacHRpdGo5YWEwc1pQYU03QlBjNUd2bGtZNVZQQmc3MkdmMngzYUxURUJR?oc=5",
+    "date": "2026-11-17T16:58:09.000Z",
+    "source": "IOL",
+    "score": 4
+   },
+   {
     "group": "Dining and demand",
     "query": "Sandton restaurants new opening OR best restaurants",
     "title": "The best places for Christmas lunch in Johannesburg - Time Out Worldwide",
@@ -35,13 +44,13 @@
     "score": 4
    },
    {
-    "group": "Events and seasons",
-    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
-    "title": "Events: What’s on in Johannesburg - Time Out Worldwide",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
-    "date": "2026-11-09T08:00:00.000Z",
-    "source": "Time Out Worldwide",
-    "score": 4
+    "group": "Dining and demand",
+    "query": "Sandton restaurants new opening OR best restaurants",
+    "title": "Nelson Mandela Square Unveils New Shopping, Dining and Lifestyle Experiences - Underground Press",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzRwOEtmWExkbHV2MUZfN2g0bmF5SzU3NHNpQk9MTmg3ekZnZE5ILW5MZFVHZjkwbW9JS2ktWnRBZFAxeWYzTjBSeUxyOXJqcUdPNjZ6cWtqV2FQSENSXzF0d2l6bzZOSW05U3RwSU9fbHZuRWRKZmxvTHVHdFp0MWw1cHFpYUV2c1E4cjVLYVNqMjlFOXN3UW4xeWJieHBwOHhNZnZuWQ?oc=5",
+    "date": "2026-11-23T10:21:42.000Z",
+    "source": "Underground Press",
+    "score": 3
    },
    {
     "group": "Costs",
@@ -62,21 +71,12 @@
     "score": 3
    },
    {
-    "group": "Dining and demand",
-    "query": "Sandton restaurants new opening OR best restaurants",
-    "title": "Bar history through Radium Beer Hall, Foresters Arms and Cubana’s POV - Time Out Worldwide",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfVlktY0hla1hIbGdweFRnXzZsX3hheWJlcV9jTVR4S3pqY0VLUXBKeU1hWEp4a2RJaU9NY2NXVHk0MTFRTUpyZ0tFUVN4NDJBSU12RGROZHVpYlp4Y0E1UG9LMXZlWU9LLVBQRg?oc=5",
-    "date": "2026-11-16T11:02:00.000Z",
-    "source": "Time Out Worldwide",
-    "score": 3
-   },
-   {
     "group": "Events and seasons",
     "query": "Johannesburg festive season dining OR Christmas functions restaurants",
-    "title": "Drakensberg Boys Choir Announces Johannesburg Christmas Concert at Melrose Arch - Underground Press",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0ZiS3pfa1c3clhrU1VRdVVHb2lILVpVeTNEQ0M5NXBSaXNhOUxNU1JjekFQaTF2WEdZdm8tRS0ybzhYTnpJNjdaOEZ5WXQ1UWQ2WVVuaGo5U1BkRzlmU013SlJvR1AyY1FYVUVQNWZ1djF5Y3otLVZ0bjlmakJZS3lyTnpHVm13NmJWNnZvNzBOX0h4Mm15LW9RbzlqVjg?oc=5",
-    "date": "2026-11-05T09:56:39.000Z",
-    "source": "Underground Press",
+    "title": "Events: What’s on in Johannesburg - Time Out Worldwide",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUhCRm5PZjlTY0pTeVpEby0wbjFWN3F1dTNKTUxoczMtdFJPNkdMYWlkWnR5MkZ0cHMzVWxZOHVxUjlaSmpPRkpNaWVPaWtfeXJXUk5qeHJRa2djSlVoUkVtc00zWERJWkxsVnExbkM4MDR3QXpnbFdmRkVKTWkwdGt0a2phRGhl?oc=5",
+    "date": "2026-11-09T08:00:00.000Z",
+    "source": "Time Out Worldwide",
     "score": 3
    }
   ],
