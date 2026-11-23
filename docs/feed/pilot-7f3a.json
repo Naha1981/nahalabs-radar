@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-22T19:33:48.193Z",
+ "generated_at": "2026-11-23T07:31:36.553Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -71,12 +71,12 @@
     "score": 3
    },
    {
-    "group": "Costs",
-    "query": "load shedding restaurants South Africa",
-    "title": "Eskom records over 540 days without load-shedding - Tabloid Newspapers",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcTJ3QTFEZURrX3ZURVhOV1paY3hsVDlEbXZfTnFFaGhLTG91enZqaUFZa0ZKWU9iNzlmTmM5ZXpGdndVY3lnSFU5VWg4LWNzc3Mxc0s5Sk9fQ0JVMDZtMjY2MUhHazQyRktBM0swSEpMai0wLUxDcnByV3IzaFBQemRtcw?oc=5",
-    "date": "2026-11-09T08:00:00.000Z",
-    "source": "Tabloid Newspapers",
+    "group": "Events and seasons",
+    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
+    "title": "Drakensberg Boys Choir Announces Johannesburg Christmas Concert at Melrose Arch - Underground Press",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0ZiS3pfa1c3clhrU1VRdVVHb2lILVpVeTNEQ0M5NXBSaXNhOUxNU1JjekFQaTF2WEdZdm8tRS0ybzhYTnpJNjdaOEZ5WXQ1UWQ2WVVuaGo5U1BkRzlmU013SlJvR1AyY1FYVUVQNWZ1djF5Y3otLVZ0bjlmakJZS3lyTnpHVm13NmJWNnZvNzBOX0h4Mm15LW9RbzlqVjg?oc=5",
+    "date": "2026-11-05T09:56:39.000Z",
+    "source": "Underground Press",
     "score": 3
    }
   ],
