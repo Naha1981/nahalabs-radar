@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-24T09:50:13.259Z",
+ "generated_at": "2026-11-24T22:23:04.281Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -44,21 +44,21 @@
     "score": 4
    },
    {
+    "group": "Events and seasons",
+    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
+    "title": "Bedfordview’s The 11th Floor earns four international restaurant awards - Getaway Magazine",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVZOQTRqdGR1QkcxQmU2ZW1STTNKeVlSNVFJdGRNbWVLbU9uTWlacXMtbE1wZlEzQldZeWF4QzRCQUhNS28tLXRIaEk2V1FIaXdZTTJ2c1FpM1FUR0RxLVhZQU1PeE1SVW5CY3BnSnJDVlh3dy1KSDZIbEo2TGZpV3BqNTA0cEl3NF9MYVVGdmhhNWtJTkt4SlNVUTVqRFVCSmNKMw?oc=5",
+    "date": "2026-11-24T08:15:40.000Z",
+    "source": "Getaway Magazine",
+    "score": 3
+   },
+   {
     "group": "Dining and demand",
     "query": "Sandton restaurants new opening OR best restaurants",
     "title": "Nelson Mandela Square Unveils New Shopping, Dining and Lifestyle Experiences - Underground Press",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzRwOEtmWExkbHV2MUZfN2g0bmF5SzU3NHNpQk9MTmg3ekZnZE5ILW5MZFVHZjkwbW9JS2ktWnRBZFAxeWYzTjBSeUxyOXJqcUdPNjZ6cWtqV2FQSENSXzF0d2l6bzZOSW05U3RwSU9fbHZuRWRKZmxvTHVHdFp0MWw1cHFpYUV2c1E4cjVLYVNqMjlFOXN3UW4xeWJieHBwOHhNZnZuWQ?oc=5",
     "date": "2026-11-23T10:21:42.000Z",
     "source": "Underground Press",
-    "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "electricity tariff increase restaurants South Africa",
-    "title": "Powerful El Niño threatens global growth as food prices and energy costs face fresh pressure - IOL",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONEZrVS0xdXA1eTktaWo3QXlpZVU2WHB0UFMydzg0bmNZSWdHRExyYjQ1cnlvX2NkQkNLYkJ2ZFJ3MUpscFBSd1gwWFNWa1hoOW9FZDhRVjBMcnBiZWRfVXQ3d3UwckZXWlVPMDhXQzB3WUhCOWp0aHozbmdxU3BqMXBOUUFNdHV6RnVJTTZsLWhKSmF0WDQ4N3RXU2JCdGx2cWlRUWZ5MWlnYU5fd3A5Yktwd3daR3djUXlPQ0RZSXFSdUxyVURTTUYzd19zSE1aRHMwNw?oc=5",
-    "date": "2026-11-21T13:03:22.000Z",
-    "source": "IOL",
     "score": 3
    },
    {
