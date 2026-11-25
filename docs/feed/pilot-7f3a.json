@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-24T22:23:04.281Z",
+ "generated_at": "2026-11-25T08:27:06.388Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -32,6 +32,15 @@
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVklnV3FMNzBMUFN5MWpYSkhhU29Rd2RyaW1DYkRNYnVuSXUyN1o3MkcxVDFrZURSLUNiNWFCUnFqYU9pZzY5cDVGTVhiT1d4b1RIVmZLYlZnTWZLczdrckFMb1FkcUR2Nzd5aHRiQ1dqajlMVUgyZmJvTnZacHRpdGo5YWEwc1pQYU03QlBjNUd2bGtZNVZQQmc3MkdmMngzYUxURUJR?oc=5",
     "date": "2026-11-17T16:58:09.000Z",
     "source": "IOL",
+    "score": 4
+   },
+   {
+    "group": "Costs",
+    "query": "electricity tariff increase restaurants South Africa",
+    "title": "Joburg residents hit with electricity bill hikes as new City Power tariffs take effect - weekendargus.co.za",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WN2pZUmRrdVQtY3gyQXotQjA0V3dCOHJuZkxTX2trSEVRWDEyMjVPLXpfbmZpb3hpanV3YjdnX0dldXVUU3ozeGx1TEljTUFNR1lxNFEybHIwMnNJU3NCTnhTRQ?oc=5",
+    "date": "2026-11-13T07:23:21.000Z",
+    "source": "weekendargus.co.za",
     "score": 4
    },
    {
@@ -68,15 +77,6 @@
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSkNaVGY4Uy03SUFDRDJPbDdJa0JJa2tXVTYyOVBiYU55QVA1Y05rZ1QtMlpxbHIxa3pwNmY0TUplVVotWVI2SzUxWTdrUkphOXZSR3pINnp4QlNTT2wtb3FvakFHdHJPd2FsSlZhdDlyV25GNXljQWdvMldZVlN1VDA5NExOc1BJNnRlb1QteTRjMkdkeEs2V3dGbWZtWmpTaE5UOG4tZEJ1clRmZGw0Z1BGWF8?oc=5",
     "date": "2026-11-20T12:41:55.000Z",
     "source": "Mail & Guardian",
-    "score": 3
-   },
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg events this month",
-    "title": "Sporting Events to Look Forward to this Weekend - Good Things Guy",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CLTliZmhrbmk2bU95ZGRfS21nNC1WVVBFTWlQSFpEdkpVaVFUdTRUSk82dUM2XzZHTWhRSXZuMGRPbkNKTklwNXNmWXpnRmltMUZIYXM5N1IyNzN1MzlkRGI0VWNvMldYM2dj?oc=5",
-    "date": "2026-11-20T07:00:37.000Z",
-    "source": "Good Things Guy",
     "score": 3
    }
   ],

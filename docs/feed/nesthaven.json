@@ -2,7 +2,7 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-11-24T22:23:06.605Z",
+ "generated_at": "2026-11-25T08:27:08.599Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -44,21 +44,21 @@
     "score": 4
    },
    {
+    "group": "Demand",
+    "query": "first time home buyers South Africa OR property demand Gauteng",
+    "title": "The 201-year-old South African town becoming a new semigration hotspot - BusinessTech",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOemNRSVMxVVY2RkVjbElVVnhGRTFEbjFNVWl1VlpnZzBMMDZPTE5sMFhBZ0RJNGtTdEpybTFRbXlYcm5xcm83aVRHbGViX1F5b1hwMmlqYzN2a29qZFdOdDZxU0VPcmJOYXhrUi14VXhHY3k3MnAzOEJQNGRFVEdYS3JuVGNvNW5uQVRuampvVmtwM0djdk94UFVsblhpeEVoNHlkQ1JYaHFBUVhQYVdCQkhKMHlNRnRFcDFv?oc=5",
+    "date": "2026-11-21T15:03:51.000Z",
+    "source": "BusinessTech",
+    "score": 4
+   },
+   {
     "group": "Property market",
     "query": "Johannesburg property market OR house prices",
     "title": "Cape Town property prices surge 12%, more than twice Johannesburg's increase - IOL",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVNnYjluLVpPRlNRdjR0cjhWakZZUmlHcFVVN1FNRm0tc1V5c1Q0WU5Sa0tDTlh4OGl3ZlJfcDJXRWh4X3R5SWU3cEhVX0x6eWp5Y1d2LWF5cHRQYWs5ZnRwUlB3WF9zN1ktZlB6RTRYbnJCcHVqalZVUEpBZ1puWFlST0wwQ2VRWTY4Vmx6bTRXeENFLWFySHRYV2hyTGlTOEpGRTJ4eVNTS0xPNWJ0ajFXeXlvMWx4V2c?oc=5",
     "date": "2026-11-21T08:00:00.000Z",
     "source": "IOL",
-    "score": 4
-   },
-   {
-    "group": "Rates and bonds",
-    "query": "South Africa interest rate home loans OR bond rates",
-    "title": "SA Reserve Bank ends the year with interest rate hold, but inflation spectre lingers - Daily Maverick",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaUxvdnIwSmotTXZCMko1SDdPeUp5b2pyVldibWo4TG1QRzFoSnFkaWZCYW1UdWZfY0l0QnpIOTdUbnBRWEhVWFBLRllrWVZNUy1wY1lIcTNDWTlpdGJqNVlVQ1Ata2psX0hWdUR5RjJwVEFGNFZrOHFhQVRCLVhfSXlfaV9JQ2E4cGgzX05LSjdHY1Q2VHA1ODhMU0RTenV5aXZmTU1PSnpHd3N2ZFhGeXhtVDdmbmFhVGJyMlNqeHREVzQ5bjdN?oc=5",
-    "date": "2026-11-19T18:52:44.000Z",
-    "source": "Daily Maverick",
     "score": 4
    },
    {
