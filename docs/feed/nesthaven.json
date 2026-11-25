@@ -2,26 +2,26 @@
  "business": "nesthaven",
  "business_name": "NestHaven Properties",
  "area": "Johannesburg / Sandton",
- "generated_at": "2026-11-25T08:27:08.599Z",
+ "generated_at": "2026-11-25T21:38:50.202Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
    {
-    "group": "Demand",
-    "query": "semigration Gauteng property OR estate living Johannesburg",
-    "title": "South Africans are moving closer to home as near-migration reshapes property trends - Joburg ETC",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOUthemVCc1VVVWZGR3AzdlM4aUFvSVhWZ3JTRG9ReEthUHJib2NEZ0VQRUJNRjFyQnU0YzJnUUM0ZHdOYThSeTNtdlZlTExHVzF5OFJjNmpQOG4zRUp5MUFZZktjOEliOWlnRkIzQ3Y5WER6RFNqeWdndzUzQTRsbW52Nl9PNHJGV3M4VDVtSW16S1hRMFhFcmc3T3JBeVd1R1U1aVIwYWZ2d3BnX1VRbnpVWHdaakVOUFRFUy0yRVJHUQ?oc=5",
-    "date": "2026-11-24T11:00:52.000Z",
-    "source": "Joburg ETC",
+    "group": "Costs",
+    "query": "property transfer costs South Africa OR conveyancing fees",
+    "title": "Property Law Changes South Africa 2026: A Practical Guide for Owners - Global Advisory Experts",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnp2RGUzREdKQm1qNk1WeFF3clNtVEZIVHFpc3UtMmxDNk1sLUVyV1JQZmhFQVBiM0dTZXVEY3VsUDZvQzRxWWlESWVld0xnRTVhdnZZWDRTT1Ytd21wSFpOUGUyNzEyYVRsUkZCMnViSEdQWUlIWFBCa3dfcEllSGM2OWYxWS1GLWJv?oc=5",
+    "date": "2026-11-25T07:34:41.000Z",
+    "source": "Global Advisory Experts",
     "score": 4
    },
    {
     "group": "Costs",
     "query": "property transfer costs South Africa OR conveyancing fees",
-    "title": "Transfer Property After Death in South Africa (2026): Executor's Practical Guide - Global Advisory Experts",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2RUaVc4M1VsZzdMWk9iSVNXRDQ3WFNuOF9TWC1WRnRjbTJraEc2ZzJXZXJfanc0eksySnhMNjJLelJRa2RaOUt4MmxxMGxYck1qSTVtNlRfN3ZhZWJ5RXVqOEdDdWVVbENFOU93UWNOcEV3YWw2bjlhblhnck1Qdm0yWHFwemowVld0d0dNdVktSnVMa0Zv?oc=5",
-    "date": "2026-11-23T08:47:57.000Z",
+    "title": "How much estate lawyers charge in South Africa 2026 - Global Advisory Experts",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTBCeUl2Y3ZMWnkxSHZ1c2hCRFZWM3lUOUk1UEtyV3lXTTQxaHk2aXZ0d1owWmhJMUsyQ2k0YjZqbHVHZUdVSmxydnJqOENGN1lQZXJmUEdNRGhjbXQ0T3lQTjFSLV96TFg0TW5BWUlTVXRKT3BvMGxhUHEzdUpNbVlfdi1LRnRv?oc=5",
+    "date": "2026-11-25T01:34:26.000Z",
     "source": "Global Advisory Experts",
     "score": 4
    },
@@ -44,12 +44,12 @@
     "score": 4
    },
    {
-    "group": "Demand",
-    "query": "first time home buyers South Africa OR property demand Gauteng",
-    "title": "The 201-year-old South African town becoming a new semigration hotspot - BusinessTech",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOemNRSVMxVVY2RkVjbElVVnhGRTFEbjFNVWl1VlpnZzBMMDZPTE5sMFhBZ0RJNGtTdEpybTFRbXlYcm5xcm83aVRHbGViX1F5b1hwMmlqYzN2a29qZFdOdDZxU0VPcmJOYXhrUi14VXhHY3k3MnAzOEJQNGRFVEdYS3JuVGNvNW5uQVRuampvVmtwM0djdk94UFVsblhpeEVoNHlkQ1JYaHFBUVhQYVdCQkhKMHlNRnRFcDFv?oc=5",
-    "date": "2026-11-21T15:03:51.000Z",
-    "source": "BusinessTech",
+    "group": "Rates and bonds",
+    "query": "repo rate South Africa property buyers",
+    "title": "Property Rights South Africa: 2026 Guide for Investors - Global Advisory Experts",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORzJadVVZcUJwTURaZ25vZG9SNWtvUm84dXk0WE9uZ1o0UzZsV3hBRVFfRGF2SUFvZVZXUHIxbDFPU2xhU2FFQ1VibThQME5jUzdwSHlQZUlPOF8yand2ZU9TdEFBMGFNWmpMT2ZwcnZpOGdvSmN0NExQWmEydE5rbHJuUkdYZlQ5enVvUzFZYlZLYndRNDBaUy1haw?oc=5",
+    "date": "2026-11-22T01:12:32.000Z",
+    "source": "Global Advisory Experts",
     "score": 4
    },
    {
@@ -66,7 +66,7 @@
     "query": "South Africa interest rate home loans OR bond rates",
     "title": "Interest rate hike: South African homeowners brace for another possible increase - Bizcommunity",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONEYzbGtmaUdBbzl2YzBtMWJYaTY3TDRxNWtOcEpGV01NU0lNcWVhM2UydF9WQlVpNE5OYkV0QjEtbWdMNlRmWE5xdDhnVkFvdWo5M0YyX3U1MkVPNzRFOHJOamhnYklnMXFiN3VsV29oVkJBbFpFMkNuYTc3aXdRakJSaU52Vmw3WkZCalE1NHRuTFZKbko0QkxfVnBySG9ELUZtSWdUMVQ0eXk5ckNrdGNxWlhqQVZOLWI0TEswZ1lkZw?oc=5",
-    "date": "2026-11-16T08:00:00.000Z",
+    "date": "2026-11-16T14:28:05.000Z",
     "source": "Bizcommunity",
     "score": 4
    },
@@ -88,7 +88,7 @@
    "theme": "Rates",
    "hook": "What the rate decision means for your bond.",
    "body": "Rates are moving again. Here is what it means in rands on a typical Joburg bond, and whether to fix or stay variable. Ask us, we will work it out for your place.",
-   "based_on": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOUthemVCc1VVVWZGR3AzdlM4aUFvSVhWZ3JTRG9ReEthUHJib2NEZ0VQRUJNRjFyQnU0YzJnUUM0ZHdOYThSeTNtdlZlTExHVzF5OFJjNmpQOG4zRUp5MUFZZktjOEliOWlnRkIzQ3Y5WER6RFNqeWdndzUzQTRsbW52Nl9PNHJGV3M4VDVtSW16S1hRMFhFcmc3T3JBeVd1R1U1aVIwYWZ2d3BnX1VRbnpVWHdaakVOUFRFUy0yRVJHUQ?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnp2RGUzREdKQm1qNk1WeFF3clNtVEZIVHFpc3UtMmxDNk1sLUVyV1JQZmhFQVBiM0dTZXVEY3VsUDZvQzRxWWlESWVld0xnRTVhdnZZWDRTT1Ytd21wSFpOUGUyNzEyYVRsUkZCMnViSEdQWUlIWFBCa3dfcEllSGM2OWYxWS1GLWJv?oc=5",
    "channels": [
     "facebook",
     "instagram"
@@ -99,7 +99,7 @@
    "theme": "Area spotlight",
    "hook": "Sandton vs the suburbs: what your money buys.",
    "body": "Same budget, very different homes. This week we compare what R2m buys in Sandton Central versus Fourways. Ask us for the full list.",
-   "based_on": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2RUaVc4M1VsZzdMWk9iSVNXRDQ3WFNuOF9TWC1WRnRjbTJraEc2ZzJXZXJfanc0eksySnhMNjJLelJRa2RaOUt4MmxxMGxYck1qSTVtNlRfN3ZhZWJ5RXVqOEdDdWVVbENFOU93UWNOcEV3YWw2bjlhblhnck1Qdm0yWHFwemowVld0d0dNdVktSnVMa0Zv?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTBCeUl2Y3ZMWnkxSHZ1c2hCRFZWM3lUOUk1UEtyV3lXTTQxaHk2aXZ0d1owWmhJMUsyQ2k0YjZqbHVHZUdVSmxydnJqOENGN1lQZXJmUEdNRGhjbXQ0T3lQTjFSLV96TFg0TW5BWUlTVXRKT3BvMGxhUHEzdUpNbVlfdi1LRnRv?oc=5",
    "channels": [
     "facebook",
     "instagram"
