@@ -2,7 +2,7 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-25T21:38:47.191Z",
+ "generated_at": "2026-11-26T08:11:21.257Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
@@ -44,12 +44,12 @@
     "score": 4
    },
    {
-    "group": "Dining and demand",
-    "query": "Sandton restaurants new opening OR best restaurants",
-    "title": "The best places for Christmas lunch in Johannesburg - Time Out Worldwide",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWpOWlJPamhydGhZb25teE1zSUt3VVdzaE1fNFViRE96TnlsNS1rZ2ZGdjVCRy03Z2NMVDN4Q0RNU2xITS1vbmkyZ054OEpYdjZFYUNqTnZUZk10ZnZaVkFKQmdxXy0yUE5EcUFicF9sWXI0MzU3dEtMa3JNeXJhVnBGOFUzNHBqOFhURVBYQnJjWGJ4X0lCNWIwY3RxUW4xS0E?oc=5",
-    "date": "2026-11-12T08:00:00.000Z",
-    "source": "Time Out Worldwide",
+    "group": "Costs",
+    "query": "electricity tariff increase restaurants South Africa",
+    "title": "Joburg residents hit with electricity bill hikes as new City Power tariffs take effect - weekendargus.co.za",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WN2pZUmRrdVQtY3gyQXotQjA0V3dCOHJuZkxTX2trSEVRWDEyMjVPLXpfbmZpb3hpanV3YjdnX0dldXVUU3ozeGx1TEljTUFNR1lxNFEybHIwMnNJU3NCTnhTRQ?oc=5",
+    "date": "2026-11-13T07:23:21.000Z",
+    "source": "weekendargus.co.za",
     "score": 4
    },
    {
@@ -119,8 +119,8 @@
   {
    "theme": "Demand",
    "hook": "Fresh on the Joburg dining scene.",
-   "body": "Joburg is eating out again: \"The best places for Christmas lunch in Johannesburg\". Here is what we are serving this week. Ask us on WhatsApp for today's specials.",
-   "based_on": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWpOWlJPamhydGhZb25teE1zSUt3VVdzaE1fNFViRE96TnlsNS1rZ2ZGdjVCRy03Z2NMVDN4Q0RNU2xITS1vbmkyZ054OEpYdjZFYUNqTnZUZk10ZnZaVkFKQmdxXy0yUE5EcUFicF9sWXI0MzU3dEtMa3JNeXJhVnBGOFUzNHBqOFhURVBYQnJjWGJ4X0lCNWIwY3RxUW4xS0E?oc=5",
+   "body": "Joburg is eating out again: \"Nelson Mandela Square Unveils New Shopping, Dining and Lifestyle Experiences\". Here is what we are serving this week. Ask us on WhatsApp for today's specials.",
+   "based_on": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzRwOEtmWExkbHV2MUZfN2g0bmF5SzU3NHNpQk9MTmg3ekZnZE5ILW5MZFVHZjkwbW9JS2ktWnRBZFAxeWYzTjBSeUxyOXJqcUdPNjZ6cWtqV2FQSENSXzF0d2l6bzZOSW05U3RwSU9fbHZuRWRKZmxvTHVHdFp0MWw1cHFpYUV2c1E4cjVLYVNqMjlFOXN3UW4xeWJieHBwOHhNZnZuWQ?oc=5",
    "channels": [
     "facebook",
     "instagram"
