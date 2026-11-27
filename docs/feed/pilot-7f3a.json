@@ -2,29 +2,11 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-27T08:23:14.154Z",
+ "generated_at": "2026-11-27T21:13:12.193Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg events this month",
-    "title": "November-December events guide: What's on in your city this week - Glamour South Africa",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVWZRdkZNUVBuU2EteGZzeHdBV1dMWUVpUm9kbWFhbDVNWGxEMFJlZlo5RHpHWmFtMzlJdlc1OWJuNTVsSHcwZGRVM1B4SW1FT21FMloyM1oyMHBtN05KUjF0cExKVHVsRm9peGhPLXl3T1EzazV0ekZpZTZkZXg4R1BkUnNyNUYxaFRTWmw0RTBCamVLMWt1SUhLckIxQkQxZU8yNnkxSnZxQnp0anhTTTdHd1dWWkduWXlnQjhPZ2gtcnA0RTM1bzNQVzM?oc=5",
-    "date": "2026-11-27T07:30:13.000Z",
-    "source": "Glamour South Africa",
-    "score": 4
-   },
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
-    "title": "Skip the kitchen with these Christmas lunch offers in Joburg - Joburg ETC",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPek5BZzI4V0FLZXN3dy1uMjVMU1dKWlZzUXc1SlpvTnFkZ1NJZ25FNHZ0cU8tMWlnLUZQb1hWN2VvWExLNGVuQjFZV25GVXAwdUY5dkdWM1U1d1JjVFpxSGg0VHAwN25CS2J2emg4QTV4cGF5clk4VnhQdlhocm4wY1kyWm9uRzFjTFFCWkNsbw?oc=5",
-    "date": "2026-11-25T15:13:51.000Z",
-    "source": "Joburg ETC",
-    "score": 4
-   },
    {
     "group": "Costs",
     "query": "restaurant food prices South Africa OR food inflation South Africa",
@@ -32,6 +14,15 @@
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXdWS2Npc1VZWC1obU5zek5mZXZQMXJaVnJyQmpfTGE2bWt6NkJZUnhveGZSNWZtS2lqeXN4WEN3ME1ydUdwMVQyMnh3eE9XZGNVT01xelRCU1pHYURfdC1ENVlESWpURkxIMmMwaXVrVTFMNERTTzlIazcyNXRENzdOaGQxSllNYklvbllId1dZdGNQcXZNMzhIOXhPTnBoMVlHemJ5RQ?oc=5",
     "date": "2026-11-25T09:00:00.000Z",
     "source": "Daily Investor",
+    "score": 4
+   },
+   {
+    "group": "Events and seasons",
+    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
+    "title": "How to host a stylish festive feast without overspending, according to award-winning chef Daniel Vieira - Glamour South Africa",
+    "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNSGo1Q0dUZGVvMHBaNkJJcDdQaG9FT1F1bXlwaHdMMUZPaVVvVHJXWW1yQ29aVXhwYmdibUJqVTFMWlRDVDBBalM3NlRQYlFseHk5V3FuRDJvOVNrWmV4OGNwZUlLeGJqeDF1b3VsaHgwTTUtTW9LQUZQR2R5cGFhVE9SQVdjTG9YUFctaE1BejAwbmhzY25sNHl4RlpleWdTbHNNRklJNUh4alZGUVBkcXhDZkdLOTk2dkFlaHJ6NUN0Sk9maWpvY2JQR3Bpa1gwZXlKRGcyYkw2UUNURU5TMUtWN2JTZmFTRmdCNzVvcFl6aHZOWnQ5RDRSTFlOVmVTMmM5WUFlb2RNSkFuVHZoTnBicEE2bFVlWHc?oc=5",
+    "date": "2026-11-25T08:03:45.000Z",
+    "source": "Glamour South Africa",
     "score": 4
    },
    {
@@ -44,12 +35,12 @@
     "score": 4
    },
    {
-    "group": "Events and seasons",
-    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
-    "title": "Bedfordview’s The 11th Floor earns four international restaurant awards - Getaway Magazine",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVZOQTRqdGR1QkcxQmU2ZW1STTNKeVlSNVFJdGRNbWVLbU9uTWlacXMtbE1wZlEzQldZeWF4QzRCQUhNS28tLXRIaEk2V1FIaXdZTTJ2c1FpM1FUR0RxLVhZQU1PeE1SVW5CY3BnSnJDVlh3dy1KSDZIbEo2TGZpV3BqNTA0cEl3NF9MYVVGdmhhNWtJTkt4SlNVUTVqRFVCSmNKMw?oc=5",
-    "date": "2026-11-24T08:15:40.000Z",
-    "source": "Getaway Magazine",
+    "group": "Costs",
+    "query": "electricity tariff increase restaurants South Africa",
+    "title": "Low annual food inflation offers little relief as basic expenses outpace incomes - Daily Maverick",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb3QzeG5QVmxMbS1WWFQ4WkhIQmFiYlY5TlJLdGtfcTRGN29td1RCWlBSanRraEFkSThReFBjOUdsdjhTUGZnR1FJdzFBRXo4aF9uWWZTZFdKWmtQXzJPQTRqelFlYWdyUHdLamM0NmhhS3NxVE1fYXlGanRmZ0h3V05STGtwdko2NzVVZW51MjdhckhKS3VMRnlpUGFuUWY4cDdqekQtU09jcTgtUE9HT0tBeFp0eDE0SS0xekJFalpZMmVPUE1mVw?oc=5",
+    "date": "2026-11-27T09:19:53.000Z",
+    "source": "Daily Maverick",
     "score": 3
    },
    {
@@ -62,21 +53,30 @@
     "score": 3
    },
    {
-    "group": "Costs",
-    "query": "electricity tariff increase restaurants South Africa",
-    "title": "Global energy crisis sharpens Africa's push for electricity access - Mail & Guardian",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSkNaVGY4Uy03SUFDRDJPbDdJa0JJa2tXVTYyOVBiYU55QVA1Y05rZ1QtMlpxbHIxa3pwNmY0TUplVVotWVI2SzUxWTdrUkphOXZSR3pINnp4QlNTT2wtb3FvakFHdHJPd2FsSlZhdDlyV25GNXljQWdvMldZVlN1VDA5NExOc1BJNnRlb1QteTRjMkdkeEs2V3dGbWZtWmpTaE5UOG4tZEJ1clRmZGw0Z1BGWF8?oc=5",
-    "date": "2026-11-20T12:41:55.000Z",
-    "source": "Mail & Guardian",
-    "score": 3
-   },
-   {
     "group": "Events and seasons",
     "query": "Johannesburg events this month",
     "title": "Sporting Events to Look Forward to this Weekend - Good Things Guy",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CLTliZmhrbmk2bU95ZGRfS21nNC1WVVBFTWlQSFpEdkpVaVFUdTRUSk82dUM2XzZHTWhRSXZuMGRPbkNKTklwNXNmWXpnRmltMUZIYXM5N1IyNzN1MzlkRGI0VWNvMldYM2dj?oc=5",
     "date": "2026-11-20T07:00:37.000Z",
     "source": "Good Things Guy",
+    "score": 3
+   },
+   {
+    "group": "Dining and demand",
+    "query": "Sandton restaurants new opening OR best restaurants",
+    "title": "Bar history through Radium Beer Hall, Foresters Arms and Cubana’s POV - Time Out Worldwide",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfVlktY0hla1hIbGdweFRnXzZsX3hheWJlcV9jTVR4S3pqY0VLUXBKeU1hWEp4a2RJaU9NY2NXVHk0MTFRTUpyZ0tFUVN4NDJBSU12RGROZHVpYlp4Y0E1UG9LMXZlWU9LLVBQRg?oc=5",
+    "date": "2026-11-16T11:02:00.000Z",
+    "source": "Time Out Worldwide",
+    "score": 3
+   },
+   {
+    "group": "Costs",
+    "query": "electricity tariff increase restaurants South Africa",
+    "title": "Joburg residents hit with electricity bill hikes as new City Power tariffs take effect - weekendargus.co.za",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WN2pZUmRrdVQtY3gyQXotQjA0V3dCOHJuZkxTX2trSEVRWDEyMjVPLXpfbmZpb3hpanV3YjdnX0dldXVUU3ozeGx1TEljTUFNR1lxNFEybHIwMnNJU3NCTnhTRQ?oc=5",
+    "date": "2026-11-13T07:23:21.000Z",
+    "source": "weekendargus.co.za",
     "score": 3
    }
   ],
@@ -109,7 +109,7 @@
    "theme": "Events",
    "hook": "Plan your next get-together with us.",
    "body": "The festive season is close and Joburg is busy. Book your table or your office function early, we will hold the best seats for you. Message us on WhatsApp to reserve.",
-   "based_on": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVWZRdkZNUVBuU2EteGZzeHdBV1dMWUVpUm9kbWFhbDVNWGxEMFJlZlo5RHpHWmFtMzlJdlc1OWJuNTVsSHcwZGRVM1B4SW1FT21FMloyM1oyMHBtN05KUjF0cExKVHVsRm9peGhPLXl3T1EzazV0ekZpZTZkZXg4R1BkUnNyNUYxaFRTWmw0RTBCamVLMWt1SUhLckIxQkQxZU8yNnkxSnZxQnp0anhTTTdHd1dWWkduWXlnQjhPZ2gtcnA0RTM1bzNQVzM?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNSGo1Q0dUZGVvMHBaNkJJcDdQaG9FT1F1bXlwaHdMMUZPaVVvVHJXWW1yQ29aVXhwYmdibUJqVTFMWlRDVDBBalM3NlRQYlFseHk5V3FuRDJvOVNrWmV4OGNwZUlLeGJqeDF1b3VsaHgwTTUtTW9LQUZQR2R5cGFhVE9SQVdjTG9YUFctaE1BejAwbmhzY25sNHl4RlpleWdTbHNNRklJNUh4alZGUVBkcXhDZkdLOTk2dkFlaHJ6NUN0Sk9maWpvY2JQR3Bpa1gwZXlKRGcyYkw2UUNURU5TMUtWN2JTZmFTRmdCNzVvcFl6aHZOWnQ5RDRSTFlOVmVTMmM5WUFlb2RNSkFuVHZoTnBicEE2bFVlWHc?oc=5",
    "channels": [
     "facebook",
     "instagram"
