@@ -2,11 +2,38 @@
  "business": "pilot-7f3a",
  "business_name": "Pilot restaurant",
  "area": "Johannesburg / Sandton / Woodmead",
- "generated_at": "2026-11-26T21:27:57.886Z",
+ "generated_at": "2026-11-27T08:23:14.154Z",
  "radar": {
   "real": true,
   "source": "Google News RSS (public), last 30 days",
   "items": [
+   {
+    "group": "Events and seasons",
+    "query": "Johannesburg events this month",
+    "title": "November-December events guide: What's on in your city this week - Glamour South Africa",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVWZRdkZNUVBuU2EteGZzeHdBV1dMWUVpUm9kbWFhbDVNWGxEMFJlZlo5RHpHWmFtMzlJdlc1OWJuNTVsSHcwZGRVM1B4SW1FT21FMloyM1oyMHBtN05KUjF0cExKVHVsRm9peGhPLXl3T1EzazV0ekZpZTZkZXg4R1BkUnNyNUYxaFRTWmw0RTBCamVLMWt1SUhLckIxQkQxZU8yNnkxSnZxQnp0anhTTTdHd1dWWkduWXlnQjhPZ2gtcnA0RTM1bzNQVzM?oc=5",
+    "date": "2026-11-27T07:30:13.000Z",
+    "source": "Glamour South Africa",
+    "score": 4
+   },
+   {
+    "group": "Events and seasons",
+    "query": "Johannesburg festive season dining OR Christmas functions restaurants",
+    "title": "Skip the kitchen with these Christmas lunch offers in Joburg - Joburg ETC",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPek5BZzI4V0FLZXN3dy1uMjVMU1dKWlZzUXc1SlpvTnFkZ1NJZ25FNHZ0cU8tMWlnLUZQb1hWN2VvWExLNGVuQjFZV25GVXAwdUY5dkdWM1U1d1JjVFpxSGg0VHAwN25CS2J2emg4QTV4cGF5clk4VnhQdlhocm4wY1kyWm9uRzFjTFFCWkNsbw?oc=5",
+    "date": "2026-11-25T15:13:51.000Z",
+    "source": "Joburg ETC",
+    "score": 4
+   },
+   {
+    "group": "Costs",
+    "query": "restaurant food prices South Africa OR food inflation South Africa",
+    "title": "Woolworths Food rolling out takeaway stores across South Africa - Daily Investor",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXdWS2Npc1VZWC1obU5zek5mZXZQMXJaVnJyQmpfTGE2bWt6NkJZUnhveGZSNWZtS2lqeXN4WEN3ME1ydUdwMVQyMnh3eE9XZGNVT01xelRCU1pHYURfdC1ENVlESWpURkxIMmMwaXVrVTFMNERTTzlIazcyNXRENzdOaGQxSllNYklvbllId1dZdGNQcXZNMzhIOXhPTnBoMVlHemJ5RQ?oc=5",
+    "date": "2026-11-25T09:00:00.000Z",
+    "source": "Daily Investor",
+    "score": 4
+   },
    {
     "group": "Costs",
     "query": "load shedding restaurants South Africa",
@@ -14,15 +41,6 @@
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOXpuNDBnMXNtYlJWT0xUZmo0UWxhczVsLUFESWNZZzE5Nk0teG82XzVTVkEzVjJkZ1JrV3QxdWd0cS1RdHJiaFhvMGItRkM2Sk5haFJZdnpiZVJwZUR3Ml85dmtGXzZINTdRcUljaXp6YUhPM2dpbXlnbGZFXzgyRDhTU0dDRF9hU0xGUlNPNnNFVXU3bGhuQS12a1d0UHYwTHBiQXFLQUJIV19XRW9ZZFhvT0JHc2UwUkNHMW5ZYTNWLWVwZWRuVzFLTDZ3TlFvSGgw?oc=5",
     "date": "2026-11-20T15:30:00.000Z",
     "source": "Daily Investor",
-    "score": 4
-   },
-   {
-    "group": "Events and seasons",
-    "query": "Johannesburg events this month",
-    "title": "What to do this weekend: Parkview Christmas Market, Ride Joburg, DevFest and more - The Citizen",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDBKQno4ckxPNHY0c20tRUhxS2N0clhMLVdDSlhQaW0xUXhkUjJSdU5pd0NrR2tjZjlXNXhBNUFvS0h4dWU3T09OLXNmX2EtLXdqVTlXd2ZwMXEtZ1E4ZVdmRmtmQk1LRDNFMzNsSHI3MXhqQ0lELU5ReUhxYXhlM1N5MHRrdnJPTHR4YjVmbDQwc3RGc3pSOGVCMlQ5VlNJQ19xdzlraVZlMHdZVTdYXzVWMmlDOWlUSC1MZ3dYR3F1bTF2enBfdA?oc=5",
-    "date": "2026-11-20T14:51:02.000Z",
-    "source": "The Citizen",
     "score": 4
    },
    {
@@ -60,24 +78,6 @@
     "date": "2026-11-20T07:00:37.000Z",
     "source": "Good Things Guy",
     "score": 3
-   },
-   {
-    "group": "Costs",
-    "query": "restaurant food prices South Africa OR food inflation South Africa",
-    "title": "Ag and Food Statistics: Charting the Essentials - Food Prices and Spending - USDA (.gov)",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMzRpbjI2NjVzQ2hVX2lCM1RaQnhZNzkzdkw2YjZCdTR4cjlUb0hvRk9MeEpkOHAtaklkclhXbUt6d1YxUUxHeHlOeExwOFZhY0R0QUhaQXlfdHl6UnZoTWNSQy1LVVNucUQ3eWdtQTdvNjg5ajJ0VF93LS1GWFhWbG91alMxQ2Zkcm90cW93Y0hoTVBLQWdhbHJmRlRlMlhGMmkyS25fV1VERDNnVXc?oc=5",
-    "date": "2026-11-17T08:00:00.000Z",
-    "source": "USDA (.gov)",
-    "score": 3
-   },
-   {
-    "group": "Dining and demand",
-    "query": "Sandton restaurants new opening OR best restaurants",
-    "title": "The best places for Christmas lunch in Johannesburg - Time Out Worldwide",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWpOWlJPamhydGhZb25teE1zSUt3VVdzaE1fNFViRE96TnlsNS1rZ2ZGdjVCRy03Z2NMVDN4Q0RNU2xITS1vbmkyZ054OEpYdjZFYUNqTnZUZk10ZnZaVkFKQmdxXy0yUE5EcUFicF9sWXI0MzU3dEtMa3JNeXJhVnBGOFUzNHBqOFhURVBYQnJjWGJ4X0lCNWIwY3RxUW4xS0E?oc=5",
-    "date": "2026-11-12T08:00:00.000Z",
-    "source": "Time Out Worldwide",
-    "score": 3
    }
   ],
   "errors": []
@@ -97,8 +97,8 @@
   {
    "theme": "Costs",
    "hook": "Prices are moving, here is how we keep your plate fair.",
-   "body": "You have seen the headlines: \"The TV presenter, model, and actor who opened a popular restaurant in South Africa’s richest city\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
-   "based_on": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOXpuNDBnMXNtYlJWT0xUZmo0UWxhczVsLUFESWNZZzE5Nk0teG82XzVTVkEzVjJkZ1JrV3QxdWd0cS1RdHJiaFhvMGItRkM2Sk5haFJZdnpiZVJwZUR3Ml85dmtGXzZINTdRcUljaXp6YUhPM2dpbXlnbGZFXzgyRDhTU0dDRF9hU0xGUlNPNnNFVXU3bGhuQS12a1d0UHYwTHBiQXFLQUJIV19XRW9ZZFhvT0JHc2UwUkNHMW5ZYTNWLWVwZWRuVzFLTDZ3TlFvSGgw?oc=5",
+   "body": "You have seen the headlines: \"Woolworths Food rolling out takeaway stores across South Africa\". We are keeping our menu honest and our portions generous. Come in this week and taste the difference.",
+   "based_on": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXdWS2Npc1VZWC1obU5zek5mZXZQMXJaVnJyQmpfTGE2bWt6NkJZUnhveGZSNWZtS2lqeXN4WEN3ME1ydUdwMVQyMnh3eE9XZGNVT01xelRCU1pHYURfdC1ENVlESWpURkxIMmMwaXVrVTFMNERTTzlIazcyNXRENzdOaGQxSllNYklvbllId1dZdGNQcXZNMzhIOXhPTnBoMVlHemJ5RQ?oc=5",
    "channels": [
     "facebook",
     "instagram"
@@ -109,7 +109,7 @@
    "theme": "Events",
    "hook": "Plan your next get-together with us.",
    "body": "The festive season is close and Joburg is busy. Book your table or your office function early, we will hold the best seats for you. Message us on WhatsApp to reserve.",
-   "based_on": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDBKQno4ckxPNHY0c20tRUhxS2N0clhMLVdDSlhQaW0xUXhkUjJSdU5pd0NrR2tjZjlXNXhBNUFvS0h4dWU3T09OLXNmX2EtLXdqVTlXd2ZwMXEtZ1E4ZVdmRmtmQk1LRDNFMzNsSHI3MXhqQ0lELU5ReUhxYXhlM1N5MHRrdnJPTHR4YjVmbDQwc3RGc3pSOGVCMlQ5VlNJQ19xdzlraVZlMHdZVTdYXzVWMmlDOWlUSC1MZ3dYR3F1bTF2enBfdA?oc=5",
+   "based_on": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVWZRdkZNUVBuU2EteGZzeHdBV1dMWUVpUm9kbWFhbDVNWGxEMFJlZlo5RHpHWmFtMzlJdlc1OWJuNTVsSHcwZGRVM1B4SW1FT21FMloyM1oyMHBtN05KUjF0cExKVHVsRm9peGhPLXl3T1EzazV0ekZpZTZkZXg4R1BkUnNyNUYxaFRTWmw0RTBCamVLMWt1SUhLckIxQkQxZU8yNnkxSnZxQnp0anhTTTdHd1dWWkduWXlnQjhPZ2gtcnA0RTM1bzNQVzM?oc=5",
    "channels": [
     "facebook",
     "instagram"
